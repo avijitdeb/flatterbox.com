@@ -1,0 +1,1051 @@
+<?php
+session_start();
+if (isset($_GET['resetsession']) && $_GET['resetsession'] == 'reset') : session_unset(); endif;
+add_action( 'after_setup_theme', 'flatterbox_setup' );
+
+// Global Variables
+$minusDeliveryDays = 7;
+$minusSubmitDays = 7;
+$minusApproveDays = 7;
+
+function flatterbox_setup() {
+	load_theme_textdomain( 'flatterbox', get_template_directory() . '/languages' );
+	add_theme_support( 'automatic-feed-links' );
+	add_theme_support( 'post-thumbnails' );
+
+	global $content_width;
+
+	if ( ! isset( $content_width ) ) $content_width = 640;
+
+	register_nav_menus(
+		array( 'main-menu' => __( 'Main Menu', 'flatterbox' ) )
+	);
+}
+
+add_action( 'wp_enqueue_scripts', 'flatterbox_load_scripts' );
+
+function flatterbox_load_scripts() {
+	wp_enqueue_script( 'jquery' );
+}
+
+add_action( 'comment_form_before', 'flatterbox_enqueue_comment_reply_script' );
+
+function flatterbox_enqueue_comment_reply_script() {
+	if ( get_option( 'thread_comments' ) ) { wp_enqueue_script( 'comment-reply' ); }
+}
+add_filter( 'the_title', 'flatterbox_title' );
+
+function flatterbox_title( $title ) {
+	if ( $title == '' ) {
+		return '&rarr;';
+	} else {
+		return $title;
+	}
+}
+add_filter( 'wp_title', 'flatterbox_filter_wp_title' );
+
+function flatterbox_filter_wp_title( $title ) {
+	return $title . esc_attr( get_bloginfo( 'name' ) );
+}
+
+add_action( 'widgets_init', 'flatterbox_widgets_init' );
+
+function flatterbox_widgets_init() {
+	register_sidebar( array (
+		'name' => __( 'Sidebar Widget Area', 'flatterbox' ),
+		'id' => 'primary-widget-area',
+		'before_widget' => '<li id="%1$s" class="widget-container %2$s">',
+		'after_widget' => "</li>",
+		'before_title' => '<h3 class="widget-title">',
+		'after_title' => '</h3>',
+	) );
+}
+
+function flatterbox_comments_number( $count ) {
+	if ( !is_admin() ) {
+		global $id;
+		$comments_by_type = &separate_comments( get_comments( 'status=approve&post_id=' . $id ) );
+		return count( $comments_by_type['comment'] );
+	} else {
+		return $count;
+	}
+}
+
+/* POST THUMBNAIL SIZES */
+add_image_size( 'blog-header', 875, 250, false );
+add_image_size( 'occasion-square', 290, 290, true );
+
+/* PAGE SLUG BODY CLASS */
+function add_slug_body_class( $classes ) {
+	global $post;
+	if ( isset( $post ) ) {
+		$classes[] = $post->post_type . '-' . $post->post_name;
+	}
+	return $classes;
+}
+add_filter( 'body_class', 'add_slug_body_class' );
+
+/* DIVIDER SHORTCODE */
+function divider_func( $atts ){
+	return "<div class='divider'></div>";
+}
+add_shortcode( 'divider', 'divider_func' );
+
+
+/* Custom Post Types */
+
+function custom_post_types() {
+	$labels = array(
+		'name'               => _x( 'Testimonials', 'post type general name' ),
+		'singular_name'      => _x( 'Testimonial', 'post type singular name' ),
+		'add_new'            => _x( 'Add New Testimonial', 'book' ),
+		'add_new_item'       => __( 'Add New Testimonial' ),
+		'edit_item'          => __( 'Edit Testimonial' ),
+		'new_item'           => __( 'New Testimonial' ),
+		'all_items'          => __( 'All Testimonials' ),
+		'view_item'          => __( 'View Testimonial' ),
+		'search_items'       => __( 'Search Testimonials' ),
+		'not_found'          => __( 'No Testimonials found' ),
+		'not_found_in_trash' => __( 'No Testimonials found in the Trash' ),
+		'parent_item_colon'  => '',
+		'menu_name'          => 'Testimonials'
+	);
+	$args = array(
+		'labels'        => $labels,
+		'description'   => 'What People Are Saying',
+		'public'        => true,
+		'menu_position' => 5,
+		'supports'      => array( 'title', 'editor', 'thumbnail', 'excerpt', 'comments', 'custom fields' ),
+		'has_archive'   => true,
+	);
+	register_post_type( 'testimonials', $args );
+
+	$labels = array(
+		'name'               => _x( 'Flatterboxes', 'post type general name' ),
+		'singular_name'      => _x( 'Flatterbox', 'post type singular name' ),
+		'add_new'            => _x( 'Add New Flatterbox', 'book' ),
+		'add_new_item'       => __( 'Add New Flatterbox' ),
+		'edit_item'          => __( 'Edit Flatterbox' ),
+		'new_item'           => __( 'New Flatterbox' ),
+		'all_items'          => __( 'All Flatterboxes' ),
+		'view_item'          => __( 'View Flatterbox' ),
+		'search_items'       => __( 'Search Flatterboxes' ),
+		'not_found'          => __( 'No Flatterboxes found' ),
+		'not_found_in_trash' => __( 'No Flatterboxes found in the Trash' ),
+		'parent_item_colon'  => '',
+		'menu_name'          => 'Flatterboxes'
+	);
+	$args = array(
+		'labels'        => $labels,
+		'description'   => 'Flatterboxes',
+		'public'        => true,
+		'menu_position' => 5,
+		'supports'      => array( 'title', 'editor', 'thumbnail', 'excerpt', 'comments', 'custom fields' ),
+		'has_archive'   => true,
+	);
+	register_post_type( 'flatterboxes', $args );
+
+	$labels = array(
+		'name'               => _x( 'Box Types', 'post type general name' ),
+		'singular_name'      => _x( 'Box Type', 'post type singular name' ),
+		'add_new'            => _x( 'Add New Box Type', 'book' ),
+		'add_new_item'       => __( 'Add New Box Type' ),
+		'edit_item'          => __( 'Edit Box Type' ),
+		'new_item'           => __( 'New Box Type' ),
+		'all_items'          => __( 'All Box Types' ),
+		'view_item'          => __( 'View Box Type' ),
+		'search_items'       => __( 'Search Box Types' ),
+		'not_found'          => __( 'No Box Types found' ),
+		'not_found_in_trash' => __( 'No Box Types found in the Trash' ),
+		'parent_item_colon'  => '',
+		'menu_name'          => 'Box Types'
+	);
+	$args = array(
+		'labels'        => $labels,
+		'description'   => 'Box Types',
+		'public'        => true,
+		'menu_position' => 5,
+		'supports'      => array( 'title', 'editor', 'thumbnail', 'excerpt', 'comments', 'custom fields', 'page-attributes' ),
+		'has_archive'   => true,
+	);
+	register_post_type( 'box_types', $args );
+
+	$labels = array(
+		'name'               => _x( 'Coupon Codes', 'post type general name' ),
+		'singular_name'      => _x( 'Coupon Code', 'post type singular name' ),
+		'add_new'            => _x( 'Add New Coupon Code', 'book' ),
+		'add_new_item'       => __( 'Add New Coupon Code' ),
+		'edit_item'          => __( 'Edit Coupon Code' ),
+		'new_item'           => __( 'New Coupon Code' ),
+		'all_items'          => __( 'All Coupon Codes' ),
+		'view_item'          => __( 'View Coupon Code' ),
+		'search_items'       => __( 'Search Coupon Codes' ),
+		'not_found'          => __( 'No Coupon Codes found' ),
+		'not_found_in_trash' => __( 'No Coupon Codes found in the Trash' ),
+		'parent_item_colon'  => '',
+		'menu_name'          => 'Coupon Codes'
+	);
+	$args = array(
+		'labels'        => $labels,
+		'description'   => 'Coupon Codes',
+		'public'        => true,
+		'menu_position' => 5,
+		'supports'      => array( 'title', 'editor', 'thumbnail', 'excerpt', 'comments', 'custom fields' ),
+		'has_archive'   => true,
+	);
+	register_post_type( 'coupon_codes', $args );
+
+	$labels = array(
+		'name'               => _x( 'Sentence Gallery', 'post type general name' ),
+		'singular_name'      => _x( 'Sentence Gallery', 'post type singular name' ),
+		'add_new'            => _x( 'Add New Sentence', 'book' ),
+		'add_new_item'       => __( 'Add New Sentence' ),
+		'edit_item'          => __( 'Edit Sentence' ),
+		'new_item'           => __( 'New Sentence' ),
+		'all_items'          => __( 'All Sentences' ),
+		'view_item'          => __( 'View Sentence' ),
+		'search_items'       => __( 'Search Sentences' ),
+		'not_found'          => __( 'No Sentences found' ),
+		'not_found_in_trash' => __( 'No Sentences found in the Trash' ),
+		'parent_item_colon'  => '',
+		'menu_name'          => 'Sentence Gallery'
+	);
+	$args = array(
+		'labels'        => $labels,
+		'description'   => 'Sentence Gallery',
+		'public'        => true,
+		'menu_position' => 5,
+		'supports'      => array( 'title', 'editor', 'thumbnail', 'excerpt', 'comments', 'custom fields' ),
+		'has_archive'   => true,
+	);
+	register_post_type( 'sentence_gallery', $args );
+
+	$labels = array(
+		'name'               => _x( 'Sentence Starters', 'post type general name' ),
+		'singular_name'      => _x( 'Sentence Starter', 'post type singular name' ),
+		'add_new'            => _x( 'Add New Sentence', 'book' ),
+		'add_new_item'       => __( 'Add New Sentence' ),
+		'edit_item'          => __( 'Edit Sentence' ),
+		'new_item'           => __( 'New Sentence' ),
+		'all_items'          => __( 'All Sentences' ),
+		'view_item'          => __( 'View Sentence' ),
+		'search_items'       => __( 'Search Sentences' ),
+		'not_found'          => __( 'No Sentences found' ),
+		'not_found_in_trash' => __( 'No Sentences found in the Trash' ),
+		'parent_item_colon'  => '',
+		'menu_name'          => 'Sentence Starters'
+	);
+	$args = array(
+		'labels'        => $labels,
+		'description'   => 'Sentence Starter',
+		'public'        => true,
+		'menu_position' => 5,
+		'supports'      => array( 'title', 'editor', 'thumbnail', 'excerpt', 'comments', 'custom fields' ),
+		'has_archive'   => true,
+	);
+	register_post_type( 'sentence_starter', $args );
+
+  register_taxonomy( 'flatterbox_type',
+    array('flatterboxes'), /* This is the name of your custom post type, I used "Images" */
+    array('hierarchical' => true,     /* if this is true it acts like categories */
+        'labels' => array(
+             /* OPTIONS */
+             'name' => 'Types'
+        ),
+        'show_ui' => true,
+        'query_var' => true,
+
+    )
+  );
+  
+  register_taxonomy( 'card_quantity',
+    array('box_types'), /* This is the name of your custom post type, I used "Images" */
+    array('hierarchical' => true,     /* if this is true it acts like categories */
+        'labels' => array(
+             /* OPTIONS */
+             'name' => 'Card Quantities'
+        ),
+        'show_ui' => true,
+        'query_var' => true,
+
+    )
+  );  
+
+}
+add_action( 'init', 'custom_post_types' );
+
+
+function gform_column_splits($content, $field, $value, $lead_id, $form_id) {
+	if(!IS_ADMIN) { // only perform on the front end
+
+		// target section breaks
+		if($field['type'] == 'section') {
+			$form = RGFormsModel::get_form_meta($form_id, true);
+
+			// check for the presence of multi-column form classes
+			$form_class = explode(' ', $form['cssClass']);
+			$form_class_matches = array_intersect($form_class, array('two-column', 'three-column'));
+
+			// check for the presence of section break column classes
+			$field_class = explode(' ', $field['cssClass']);
+			$field_class_matches = array_intersect($field_class, array('gform_column'));
+
+			// if field is a column break in a multi-column form, perform the list split
+			if(!empty($form_class_matches) && !empty($field_class_matches)) { // make sure to target only multi-column forms
+
+				// retrieve the form's field list classes for consistency
+				$form = RGFormsModel::add_default_properties($form);
+				$description_class = rgar($form, 'descriptionPlacement') == 'above' ? 'description_above' : 'description_below';
+
+				// close current field's li and ul and begin a new list with the same form field list classes
+				return '</li></ul><ul class="gform_fields '.$form['labelPlacement'].' '.$description_class.' '.$field['cssClass'].'"><li class="gfield gsection empty">';
+
+			}
+		}
+	}
+
+	return $content;
+}
+add_filter('gform_field_content', 'gform_column_splits', 10, 5);
+
+
+// Order information submission
+
+add_action("gform_after_submission_3", "set_post_content_3", 10, 2);
+function set_post_content_3($entry, $form){
+
+	global $wpdb;
+	
+	if($entry["8"] == 0)
+	{
+		$wpdb->insert( 
+			'orderinfo', 
+			array( 
+				'PID' => $_SESSION["sentimentPID"],
+				'FNAME' => $entry["2.3"],
+				'LNAME' => $entry["2.6"],
+				'ADDRESS' => $entry["3.1"],
+				'ADDRESS2' => $entry["3.2"],
+				'CITY' => $entry["3.3"],
+				'STATE' => $entry["3.4"],
+				'ZIP' => $entry["3.5"],
+				'COUNTRY' => $entry["3.6"],
+				'QUANTITY' => $entry["5"],
+				'COMMENTS' => $entry["4"]
+			), 
+			array( 
+				'%d',
+				'%s', 
+				'%s',
+				'%s',
+				'%s',
+				'%s',
+				'%s',
+				'%s',
+				'%s',
+				'%d',
+				'%s'
+			) 
+		);
+	
+	} else {
+	
+			$wpdb->update( 
+				'orderinfo',
+				array(
+					'FNAME' => $entry["2.3"],
+					'LNAME' => $entry["2.6"],
+					'ADDRESS' => $entry["3.1"],
+					'ADDRESS2' => $entry["3.2"],
+					'CITY' => $entry["3.3"],
+					'STATE' => $entry["3.4"],
+					'ZIP' => $entry["3.5"],
+					'COUNTRY' => $entry["3.6"],
+					'QUANTITY' => $entry["5"],
+					'COMMENTS' => $entry["4"]
+				), 
+				array(
+					'OID' => $entry["8"]
+				), 
+				array(
+					'%s', 
+					'%s',
+					'%s',
+					'%s',
+					'%s',
+					'%s',
+					'%s',
+					'%s',
+					'%d',
+					'%s'
+				),
+				array('%d')
+			); 	
+	
+	}
+	
+	
+	if($entry["7"] == "1")
+	{
+	
+		wp_redirect("http://www.sbdcstage.com/flatterbox/order-shipping-information/?adding=1");
+		
+	} else {
+		
+		wp_redirect("http://www.sbdcstage.com/flatterbox/order-preview-order/");
+		
+	}
+
+}
+
+
+// the following code takes submissions from gravity forms, creates a flatterbox (using session varibales gathered in step 2) and writes the form results to it
+
+// Birthday submission
+add_action("gform_after_submission_6", "set_post_content_6", 10, 2);
+function set_post_content_6($entry, $form){
+// Create flatterbox post object
+	//Get the current user info to insert into flatterbox information
+	$current_user = wp_get_current_user();
+	$current_user_name = $current_user->user_login;
+
+	//Set up the flatterbox information to insert
+	$my_flatterbox = array(
+	  'post_title'    => $current_user_name . '\'s ' . $_SESSION["occasion_name"] . ' Flatterbox',
+	  'post_type'	  => 'flatterboxes',
+	  'post_content'  => '',
+	  'post_status'   => 'publish',
+	  'post_author'   => get_current_user_id()
+	);
+	// Insert the post into the database
+	if(!isset($_SESSION["new_flatterbox_id"]))
+	{
+	$new_post_id = wp_insert_post( $my_flatterbox );
+	$newpid = $new_post_id;
+	} else {
+	$newpid = $_SESSION["new_flatterbox_id"];
+	}
+	
+	wp_set_object_terms($new_post_id, 'birthday', 'flatterbox_type', $_SESSION["occasion_id"]);
+	
+	//Convert date to ACF's format
+	$date = new DateTime($entry["2"]);
+	$newdate = $date->Format(Ymd);	
+	
+	__update_post_meta( $newpid, 'who_is_this_for', $value = $entry["1"]);
+	__update_post_meta( $newpid, 'date_of_birthday', $value = $newdate);
+	__update_post_meta( $newpid, 'birthday_occassion', $value = $entry["3"]);
+	__update_post_meta( $newpid, 'card_style', $value = $_SESSION["cardcolor"]);
+	__update_post_meta( $newpid, 'box_style', $value = $_SESSION["boxtype"]);
+	__update_post_meta( $newpid, 'introductory_card_message', $value = $entry["4"]);
+	__update_post_meta( $newpid, 'special_instructions_to_flatterers', $value = $entry["5"]);
+	__update_post_meta( $newpid, 'allow_to_see_eachother', $value = $entry["7"]);
+	__update_post_meta( $newpid, 'allow_to_share', $value = $entry["8"]);
+	__update_post_meta( $newpid, 'allow_profanity', $value = $entry["9"]);
+	__update_post_meta( $newpid, 'notification_frequency', $value = $entry["10"]);
+	__update_post_meta( $newpid, 'total_price', $value = $_SESSION["totalprice"]);
+	__update_post_meta( $newpid, 'box_image_url', $value = $_SESSION["boxtypeimg"]); //$_SESSION["boxtypeimg"]
+	__update_post_meta( $newpid, 'box_color', $value = $_SESSION["boxcolor"]);
+
+	// Dates for Deadlines
+	__update_post_meta( $newpid, 'date_of_delivery', $value = $newdate);
+	__update_post_meta( $newpid, 'date_of_project_complete', $value = $newdate);
+	__update_post_meta( $newpid, 'date_sentiments_complete', $value = $newdate);
+	
+	// Dates for Deadlines
+	//Convert dates to ACF's format
+	$date = new DateTime($entry["18"]);
+	$delivery = $date->Format(Ymd);
+	$date = new DateTime($entry["19"]);
+	$project = $date->Format(Ymd);
+	$date = new DateTime($entry["20"]);
+	$sentiment = $date->Format(Ymd);
+
+	__update_post_meta( $newpid, 'date_of_delivery', $value = $delivery);
+	__update_post_meta( $newpid, 'date_of_project_complete', $value = $project);
+	__update_post_meta( $newpid, 'date_sentiments_complete', $value = $sentiment);
+
+	$_SESSION["new_flatterbox_id"] = $newpid;
+}
+
+// Funeral submission
+add_action("gform_after_submission_7", "set_post_content_7", 10, 2);
+function set_post_content_7($entry, $form){
+// Create flatterbox post object
+	//Get the current user info to insert into flatterbox information
+	$current_user = wp_get_current_user();
+	$current_user_name = $current_user->user_login;
+
+	//Set up the flatterbox information to insert
+
+	$my_flatterbox = array(
+
+	  'post_title'    => $current_user_name . '\'s ' . $_SESSION["occasion_name"] . ' Flatterbox',
+	  'post_type'	  => 'flatterboxes',
+	  'post_content'  => '',
+	  'post_status'   => 'publish',
+	  'post_author'   => get_current_user_id()
+
+	);
+
+	// Insert the post into the database
+
+	if(!isset($_SESSION["new_flatterbox_id"]))
+	{
+	$new_post_id = wp_insert_post( $my_flatterbox );
+	$newpid = $new_post_id;
+	} else {
+	$newpid = $_SESSION["new_flatterbox_id"];
+	}
+	
+	wp_set_object_terms($new_post_id, 'funeral', 'flatterbox_type', $_SESSION["occasion_id"]);
+	
+	//Convert date to ACF's format
+	$date = new DateTime($entry["2"]);
+	$newdate = $date->Format(Ymd);	
+	
+	__update_post_meta( $newpid, 'who_is_this_for', $value = $entry["1"]);
+	__update_post_meta( $newpid, 'date_of_funeral', $value = $newdate);
+	__update_post_meta( $newpid, 'funeral_occassion', $value = $entry["3"]);
+	__update_post_meta( $newpid, 'card_style', $value = $_SESSION["cardcolor"]);
+	__update_post_meta( $newpid, 'box_style', $value = $_SESSION["boxtype"]);
+	__update_post_meta( $newpid, 'introductory_card_message', $value = $entry["4"]);
+	__update_post_meta( $newpid, 'special_instructions_to_flatterers', $value = $entry["5"]);
+	__update_post_meta( $newpid, 'allow_to_see_eachother', $value = $entry["7"]);
+	__update_post_meta( $newpid, 'allow_to_share', $value = $entry["8"]);
+	__update_post_meta( $newpid, 'allow_profanity', $value = $entry["9"]);
+	__update_post_meta( $newpid, 'notification_frequency', $value = $entry["10"]);
+	__update_post_meta( $newpid, 'total_price', $value = $_SESSION["totalprice"]);
+	__update_post_meta( $newpid, 'box_image_url', $value = $_SESSION["boxtypeimg"]);
+	__update_post_meta( $newpid, 'box_color', $value = $_SESSION["boxcolor"]);
+
+	// Dates for Deadlines
+	__update_post_meta( $newpid, 'date_of_delivery', $value = $newdate);
+	__update_post_meta( $newpid, 'date_of_project_complete', $value = $newdate);
+	__update_post_meta( $newpid, 'date_sentiments_complete', $value = $newdate);
+	
+	// Dates for Deadlines
+	//Convert dates to ACF's format
+	$date = new DateTime($entry["18"]);
+	$delivery = $date->Format(Ymd);
+	$date = new DateTime($entry["19"]);
+	$project = $date->Format(Ymd);
+	$date = new DateTime($entry["20"]);
+	$sentiment = $date->Format(Ymd);
+
+	__update_post_meta( $newpid, 'date_of_delivery', $value = $delivery);
+	__update_post_meta( $newpid, 'date_of_project_complete', $value = $project);
+	__update_post_meta( $newpid, 'date_sentiments_complete', $value = $sentiment);
+	
+	$_SESSION["new_flatterbox_id"] = $newpid;
+
+}
+// Wedding submission
+add_action("gform_after_submission_8", "set_post_content_8", 10, 2);
+function set_post_content_8($entry, $form){
+// Create flatterbox post object
+	//Get the current user info to insert into flatterbox information
+	$current_user = wp_get_current_user();
+	$current_user_name = $current_user->user_login;
+
+	//Set up the flatterbox information to insert
+
+	$my_flatterbox = array(
+
+	  'post_title'    => $current_user_name . '\'s ' . $_SESSION["occasion_name"] . ' Flatterbox',
+	  'post_type'	  => 'flatterboxes',
+	  'post_content'  => '',
+	  'post_status'   => 'publish',
+	  'post_author'   => get_current_user_id()
+
+	);
+
+	// Insert the post into the database
+	
+	if(!isset($_SESSION["new_flatterbox_id"]))
+	{
+	$new_post_id = wp_insert_post( $my_flatterbox );
+	$newpid = $new_post_id;
+	} else {
+	$newpid = $_SESSION["new_flatterbox_id"];
+	}
+	
+	wp_set_object_terms($new_post_id, 'wedding', 'flatterbox_type', $_SESSION["occasion_id"]);
+	
+	//Convert date to ACF's format
+	$date = new DateTime($entry["2"]);
+	$newdate = $date->Format(Ymd);	
+	
+	__update_post_meta( $newpid, 'who_is_this_for', $value = $entry["1"]);
+	__update_post_meta( $newpid, 'date_of_wedding', $value = $newdate);
+	__update_post_meta( $newpid, 'wedding_occassion', $value = $entry["3"]);
+	__update_post_meta( $newpid, 'card_style', $value = $_SESSION["cardcolor"]);
+	__update_post_meta( $newpid, 'box_style', $value = $_SESSION["boxtype"]);
+	__update_post_meta( $newpid, 'introductory_card_message', $value = $entry["4"]);
+	__update_post_meta( $newpid, 'special_instructions_to_flatterers', $value = $entry["5"]);
+	__update_post_meta( $newpid, 'allow_to_see_eachother', $value = $entry["7"]);
+	__update_post_meta( $newpid, 'allow_to_share', $value = $entry["8"]);
+	__update_post_meta( $newpid, 'allow_profanity', $value = $entry["9"]);
+	__update_post_meta( $newpid, 'notification_frequency', $value = $entry["10"]);
+	__update_post_meta( $newpid, 'total_price', $value = $_SESSION["totalprice"]);
+	__update_post_meta( $newpid, 'box_image_url', $value = $_SESSION["boxtypeimg"]);
+	__update_post_meta( $newpid, 'box_color', $value = $_SESSION["boxcolor"]);
+	
+	// Dates for Deadlines
+	//Convert dates to ACF's format
+	$date = new DateTime($entry["18"]);
+	$delivery = $date->Format(Ymd);
+	$date = new DateTime($entry["19"]);
+	$project = $date->Format(Ymd);
+	$date = new DateTime($entry["20"]);
+	$sentiment = $date->Format(Ymd);
+
+	__update_post_meta( $newpid, 'date_of_delivery', $value = $delivery);
+	__update_post_meta( $newpid, 'date_of_project_complete', $value = $project);
+	__update_post_meta( $newpid, 'date_sentiments_complete', $value = $sentiment);
+	
+	$_SESSION["new_flatterbox_id"] = $newpid;
+
+}
+
+// Engagement submission
+add_action("gform_after_submission_9", "set_post_content_9", 10, 2);
+function set_post_content_9($entry, $form){
+// Create flatterbox post object
+	//Get the current user info to insert into flatterbox information
+	$current_user = wp_get_current_user();
+	$current_user_name = $current_user->user_login;
+
+	//Set up the flatterbox information to insert
+
+	$my_flatterbox = array(
+
+	  'post_title'    => $current_user_name . '\'s ' . $_SESSION["occasion_name"] . ' Flatterbox',
+	  'post_type'	  => 'flatterboxes',
+	  'post_content'  => '',
+	  'post_status'   => 'publish',
+	  'post_author'   => get_current_user_id()
+
+	);
+
+	// Insert the post into the database
+
+	if(!isset($_SESSION["new_flatterbox_id"]))
+	{
+	$new_post_id = wp_insert_post( $my_flatterbox );
+	$newpid = $new_post_id;
+	} else {
+	$newpid = $_SESSION["new_flatterbox_id"];
+	}
+	
+	wp_set_object_terms($new_post_id, 'engagement', 'flatterbox_type', $_SESSION["occasion_id"]);
+	
+	//Convert date to ACF's format
+	$date = new DateTime($entry["2"]);
+	$newdate = $date->Format(Ymd);	
+	
+	__update_post_meta( $newpid, 'who_is_this_for', $value = $entry["1"]);
+	__update_post_meta( $newpid, 'date_of_engagement', $value = $newdate);
+	__update_post_meta( $newpid, 'engagement_occassion', $value = $entry["3"]);
+	__update_post_meta( $newpid, 'card_style', $value = $_SESSION["cardcolor"]);
+	__update_post_meta( $newpid, 'box_style', $value = $_SESSION["boxtype"]);
+	__update_post_meta( $newpid, 'introductory_card_message', $value = $entry["4"]);
+	__update_post_meta( $newpid, 'special_instructions_to_flatterers', $value = $entry["5"]);
+	__update_post_meta( $newpid, 'allow_to_see_eachother', $value = $entry["7"]);
+	__update_post_meta( $newpid, 'allow_to_share', $value = $entry["8"]);
+	__update_post_meta( $newpid, 'allow_profanity', $value = $entry["9"]);
+	__update_post_meta( $newpid, 'notification_frequency', $value = $entry["10"]);
+	__update_post_meta( $newpid, 'total_price', $value = $_SESSION["totalprice"]);
+	__update_post_meta( $newpid, 'box_image_url', $value = $_SESSION["boxtypeimg"]);
+	__update_post_meta( $newpid, 'box_color', $value = $_SESSION["boxcolor"]);
+	
+	// Dates for Deadlines
+	//Convert dates to ACF's format
+	$date = new DateTime($entry["18"]);
+	$delivery = $date->Format(Ymd);
+	$date = new DateTime($entry["19"]);
+	$project = $date->Format(Ymd);
+	$date = new DateTime($entry["20"]);
+	$sentiment = $date->Format(Ymd);
+
+	__update_post_meta( $newpid, 'date_of_delivery', $value = $delivery);
+	__update_post_meta( $newpid, 'date_of_project_complete', $value = $project);
+	__update_post_meta( $newpid, 'date_sentiments_complete', $value = $sentiment);
+	
+	$_SESSION["new_flatterbox_id"] = $newpid;
+
+}
+
+// Newborn submission
+add_action("gform_after_submission_10", "set_post_content_10", 10, 2);
+function set_post_content_10($entry, $form){
+// Create flatterbox post object
+	//Get the current user info to insert into flatterbox information
+	$current_user = wp_get_current_user();
+	$current_user_name = $current_user->user_login;
+
+	//Set up the flatterbox information to insert
+
+	$my_flatterbox = array(
+
+	  'post_title'    => $current_user_name . '\'s ' . $_SESSION["occasion_name"] . ' Flatterbox',
+	  'post_type'	  => 'flatterboxes',
+	  'post_content'  => '',
+	  'post_status'   => 'publish',
+	  'post_author'   => get_current_user_id()
+
+	);
+
+	// Insert the post into the database
+
+	if(!isset($_SESSION["new_flatterbox_id"]))
+	{
+	$new_post_id = wp_insert_post( $my_flatterbox );
+	$newpid = $new_post_id;
+	} else {
+	$newpid = $_SESSION["new_flatterbox_id"];
+	}
+	
+	wp_set_object_terms($new_post_id, 'newborn', 'flatterbox_type', $_SESSION["occasion_id"]);
+	
+	//Convert date to ACF's format
+	$date = new DateTime($entry["2"]);
+	$newdate = $date->Format(Ymd);
+	
+	
+	__update_post_meta( $newpid, 'who_is_this_for', $value = $entry["1"]);
+	__update_post_meta( $newpid, 'date_of_newborn', $value = $newdate);
+	__update_post_meta( $newpid, 'newborn_occassion', $value = $entry["3"]);
+	__update_post_meta( $newpid, 'card_style', $value = $_SESSION["cardcolor"]);
+	__update_post_meta( $newpid, 'box_style', $value = $_SESSION["boxtype"]);
+	__update_post_meta( $newpid, 'introductory_card_message', $value = $entry["4"]);
+	__update_post_meta( $newpid, 'special_instructions_to_flatterers', $value = $entry["5"]);
+	__update_post_meta( $newpid, 'allow_to_see_eachother', $value = $entry["7"]);
+	__update_post_meta( $newpid, 'allow_to_share', $value = $entry["8"]);
+	__update_post_meta( $newpid, 'allow_profanity', $value = $entry["9"]);
+	__update_post_meta( $newpid, 'notification_frequency', $value = $entry["10"]);
+	__update_post_meta( $newpid, 'total_price', $value = $_SESSION["totalprice"]);
+	__update_post_meta( $newpid, 'box_image_url', $value = $_SESSION["boxtypeimg"]);
+	__update_post_meta( $newpid, 'box_color', $value = $_SESSION["boxcolor"]);
+	
+	// Dates for Deadlines
+	//Convert dates to ACF's format
+	$date = new DateTime($entry["18"]);
+	$delivery = $date->Format(Ymd);
+	$date = new DateTime($entry["19"]);
+	$project = $date->Format(Ymd);
+	$date = new DateTime($entry["20"]);
+	$sentiment = $date->Format(Ymd);
+
+	__update_post_meta( $newpid, 'date_of_delivery', $value = $delivery);
+	__update_post_meta( $newpid, 'date_of_project_complete', $value = $project);
+	__update_post_meta( $newpid, 'date_sentiments_complete', $value = $sentiment);
+	
+	$_SESSION["new_flatterbox_id"] = $newpid;
+	
+
+}
+
+// Anniversary submission
+add_action("gform_after_submission_1", "set_post_content_1", 10, 2);
+function set_post_content_1($entry, $form){ 
+// Create flatterbox post object
+	//Get the current user info to insert into flatterbox information
+	$current_user = wp_get_current_user();
+	$current_user_name = $current_user->user_login;
+
+	//Set up the flatterbox information to insert
+
+	$my_flatterbox = array(
+
+	  'post_title'    => $current_user_name . '\'s ' . $_SESSION["occasion_name"] . ' Flatterbox',
+	  'post_type'	  => 'flatterboxes',
+	  'post_content'  => '',
+	  'post_status'   => 'publish',
+	  'post_author'   => get_current_user_id()
+
+	);
+
+	// Insert the post into the database
+
+	if(!isset($_SESSION["new_flatterbox_id"]))
+	{
+	$new_post_id = wp_insert_post( $my_flatterbox );
+	$newpid = $new_post_id;
+	} else {
+	$newpid = $_SESSION["new_flatterbox_id"];
+	}
+	
+	wp_set_object_terms($new_post_id, 'anniversary', 'flatterbox_type', $_SESSION["occasion_id"]);
+	
+	//Convert date to ACF's format
+	$date = new DateTime($entry["2"]);
+	$newdate = $date->Format(Ymd);	
+	
+	__update_post_meta( $newpid, 'who_is_this_for', $value = $entry["1"]);
+	__update_post_meta( $newpid, 'date_of_anniversary', $value = $newdate);
+	__update_post_meta( $newpid, 'anniversary_occassion', $value = $entry["3"]);
+	__update_post_meta( $newpid, 'card_style', $value = $_SESSION["cardcolor"]);
+	__update_post_meta( $newpid, 'box_style', $value = $_SESSION["boxtype"]);
+	__update_post_meta( $newpid, 'introductory_card_message', $value = $entry["4"]);
+	__update_post_meta( $newpid, 'special_instructions_to_flatterers', $value = $entry["5"]);
+	__update_post_meta( $newpid, 'allow_to_see_eachother', $value = $entry["7"]);
+	__update_post_meta( $newpid, 'allow_to_share', $value = $entry["8"]);
+	__update_post_meta( $newpid, 'allow_profanity', $value = $entry["9"]);
+	__update_post_meta( $newpid, 'notification_frequency', $value = $entry["10"]);
+	__update_post_meta( $newpid, 'total_price', $value = $_SESSION["totalprice"]);
+	__update_post_meta( $newpid, 'box_image_url', $value = $_SESSION["boxtypeimg"]);
+	__update_post_meta( $newpid, 'box_color', $value = $_SESSION["boxcolor"]);
+	
+	// Dates for Deadlines
+	//Convert dates to ACF's format
+	$date = new DateTime($entry["18"]);
+	$delivery = $date->Format(Ymd);
+	$date = new DateTime($entry["19"]);
+	$project = $date->Format(Ymd);
+	$date = new DateTime($entry["20"]);
+	$sentiment = $date->Format(Ymd);
+
+	__update_post_meta( $newpid, 'date_of_delivery', $value = $delivery);
+	__update_post_meta( $newpid, 'date_of_project_complete', $value = $project);
+	__update_post_meta( $newpid, 'date_sentiments_complete', $value = $sentiment);
+
+	$_SESSION["new_flatterbox_id"] = $newpid;
+
+}
+
+// Bar Mitzvah submission
+add_action("gform_after_submission_11", "set_post_content_11", 10, 2);
+function set_post_content_11($entry, $form){
+// Create flatterbox post object
+	//Get the current user info to insert into flatterbox information
+	$current_user = wp_get_current_user();
+	$current_user_name = $current_user->user_login;
+
+	//Set up the flatterbox information to insert
+
+	$my_flatterbox = array(
+
+	  'post_title'    => $current_user_name . '\'s ' . $_SESSION["occasion_name"] . ' Flatterbox',
+	  'post_type'	  => 'flatterboxes',
+	  'post_content'  => '',
+	  'post_status'   => 'publish',
+	  'post_author'   => get_current_user_id()
+
+	);
+
+	// Insert the post into the database
+
+	if(!isset($_SESSION["new_flatterbox_id"]))
+	{
+	$new_post_id = wp_insert_post( $my_flatterbox );
+	$newpid = $new_post_id;
+	} else {
+	$newpid = $_SESSION["new_flatterbox_id"];
+	}
+
+	wp_set_object_terms($new_post_id, 'bar mitzvah', 'flatterbox_type', $_SESSION["occasion_id"]);
+	
+	//Convert date to ACF's format
+	$date = new DateTime($entry["2"]);
+	$newdate = $date->Format(Ymd);	
+	
+	__update_post_meta( $newpid, 'who_is_this_for', $value = $entry["1"]);
+	__update_post_meta( $newpid, 'date_of_bar_mitzvah', $value = $newdate);
+	__update_post_meta( $newpid, 'bar_mitzvah_occassion', $value = $entry["3"]);
+	__update_post_meta( $newpid, 'card_style', $value = $_SESSION["cardcolor"]);
+	__update_post_meta( $newpid, 'box_style', $value = $_SESSION["boxtype"]);
+	__update_post_meta( $newpid, 'introductory_card_message', $value = $entry["4"]);
+	__update_post_meta( $newpid, 'special_instructions_to_flatterers', $value = $entry["5"]);
+	__update_post_meta( $newpid, 'allow_to_see_eachother', $value = $entry["7"]);
+	__update_post_meta( $newpid, 'allow_to_share', $value = $entry["8"]);
+	__update_post_meta( $newpid, 'allow_profanity', $value = $entry["9"]);
+	__update_post_meta( $newpid, 'notification_frequency', $value = $entry["10"]);
+	__update_post_meta( $newpid, 'total_price', $value = $_SESSION["totalprice"]);
+	__update_post_meta( $newpid, 'box_image_url', $value = $_SESSION["boxtypeimg"]);
+	__update_post_meta( $newpid, 'box_color', $value = $_SESSION["boxcolor"]);
+	
+	// Dates for Deadlines
+	//Convert dates to ACF's format
+	$date = new DateTime($entry["18"]);
+	$delivery = $date->Format(Ymd);
+	$date = new DateTime($entry["19"]);
+	$project = $date->Format(Ymd);
+	$date = new DateTime($entry["20"]);
+	$sentiment = $date->Format(Ymd);
+
+	__update_post_meta( $newpid, 'date_of_delivery', $value = $delivery);
+	__update_post_meta( $newpid, 'date_of_project_complete', $value = $project);
+	__update_post_meta( $newpid, 'date_sentiments_complete', $value = $sentiment);
+	
+	$_SESSION["new_flatterbox_id"] = $newpid;
+
+}
+
+// Get Well submission
+add_action("gform_after_submission_12", "set_post_content_12", 10, 2);
+function set_post_content_12($entry, $form){
+// Create flatterbox post object
+	//Get the current user info to insert into flatterbox information
+	$current_user = wp_get_current_user();
+	$current_user_name = $current_user->user_login;
+
+	//Set up the flatterbox information to insert
+
+	$my_flatterbox = array(
+
+	  'post_title'    => $current_user_name . '\'s ' . $_SESSION["occasion_name"] . ' Flatterbox',
+	  'post_type'	  => 'flatterboxes',
+	  'post_content'  => '',
+	  'post_status'   => 'publish',
+	  'post_author'   => get_current_user_id()
+
+	);
+
+	// Insert the post into the database
+
+	if(!isset($_SESSION["new_flatterbox_id"]))
+	{
+	$new_post_id = wp_insert_post( $my_flatterbox );
+	$newpid = $new_post_id;
+	} else {
+	$newpid = $_SESSION["new_flatterbox_id"];
+	}
+	
+	wp_set_object_terms($new_post_id, 'get well', 'flatterbox_type', $_SESSION["occasion_id"]);
+	
+	//Convert date to ACF's format
+	$date = new DateTime($entry["2"]);
+	$newdate = $date->Format(Ymd);	
+	
+	__update_post_meta( $newpid, 'who_is_this_for', $value = $entry["1"]);
+	__update_post_meta( $newpid, 'date_of_get_well', $value = $newdate);
+	__update_post_meta( $newpid, 'get_well_occassion', $value = $entry["3"]);
+	__update_post_meta( $newpid, 'card_style', $value = $_SESSION["cardcolor"]);
+	__update_post_meta( $newpid, 'box_style', $value = $_SESSION["boxtype"]);
+	__update_post_meta( $newpid, 'introductory_card_message', $value = $entry["4"]);
+	__update_post_meta( $newpid, 'special_instructions_to_flatterers', $value = $entry["5"]);
+	__update_post_meta( $newpid, 'allow_to_see_eachother', $value = $entry["7"]);
+	__update_post_meta( $newpid, 'allow_to_share', $value = $entry["8"]);
+	__update_post_meta( $newpid, 'allow_profanity', $value = $entry["9"]);
+	__update_post_meta( $newpid, 'notification_frequency', $value = $entry["10"]);
+	__update_post_meta( $newpid, 'total_price', $value = $_SESSION["totalprice"]);
+	__update_post_meta( $newpid, 'box_image_url', $value = $_SESSION["boxtypeimg"]);
+	__update_post_meta( $newpid, 'box_color', $value = $_SESSION["boxcolor"]);
+	
+	// Dates for Deadlines
+	//Convert dates to ACF's format
+	$date = new DateTime($entry["18"]);
+	$delivery = $date->Format(Ymd);
+	$date = new DateTime($entry["19"]);
+	$project = $date->Format(Ymd);
+	$date = new DateTime($entry["20"]);
+	$sentiment = $date->Format(Ymd);
+
+	__update_post_meta( $newpid, 'date_of_delivery', $value = $delivery);
+	__update_post_meta( $newpid, 'date_of_project_complete', $value = $project);
+	__update_post_meta( $newpid, 'date_sentiments_complete', $value = $sentiment);
+
+	$_SESSION["new_flatterbox_id"] = $newpid;
+	
+}
+add_action("gform_after_submission_13", "set_post_content_13", 10, 2);
+function set_post_content_13($entry, $form){
+	if (isset($_SESSION['returnURL']) && !empty($_SESSION['returnURL'])) :
+		$url = $_SESSION['returnURL'];
+		$_SESSION['returnURL'] == '';
+		header('Location: '.$url);
+	endif;
+}
+
+
+function __update_post_meta( $post_id, $field_name, $value = '' )
+{
+    if ( empty( $value ) OR ! $value ) :
+        delete_post_meta( $post_id, $field_name );
+    elseif ( ! get_post_meta( $post_id, $field_name ) ) :
+        add_post_meta( $post_id, $field_name, $value );
+    else :
+        update_post_meta( $post_id, $field_name, $value );
+    endif;
+}
+
+// Disable Admin Bar for everyone but administrators
+if (!function_exists('df_disable_admin_bar')) {
+
+	function df_disable_admin_bar() {
+		
+		if (!current_user_can('manage_options')) {
+		
+			// for the admin page
+			remove_action('admin_footer', 'wp_admin_bar_render', 1000);
+			// for the front-end
+			remove_action('wp_footer', 'wp_admin_bar_render', 1000);
+			
+			// css override for the admin page
+			function remove_admin_bar_style_backend() { 
+				echo '<style>body.admin-bar #wpcontent, body.admin-bar #adminmenu { padding-top: 0px !important; }</style>';
+			}	  
+			add_filter('admin_head','remove_admin_bar_style_backend');
+			
+			// css override for the frontend
+			function remove_admin_bar_style_frontend() {
+				echo '<style type="text/css" media="screen">
+				html { margin-top: 0px !important; }
+				* html body { margin-top: 0px !important; }
+				</style>';
+			}
+			add_filter('wp_head','remove_admin_bar_style_frontend', 99);
+			
+		}
+  	}
+}
+add_action('init','df_disable_admin_bar');
+
+//Set Page Backgroud Image
+function getOccasionBGImg($OID) {
+	$page_background_photo = '';
+	if (isset($OID)) :
+		switch ($OID) {
+			case 3: // Birthday
+				$page_background_photo = "fb_occasion_large_birthday.jpg";
+				break;
+			case 4: // Funeral
+				$page_background_photo = "fb_occasion_large_funeral.jpg";
+				break;
+			case 5: // Wedding
+				$page_background_photo = "fb_occasion_large_wedding.jpg";
+				break;
+			case 6: // Engagement
+				$page_background_photo = "fb_occasion_large_engagement.jpg";
+				break;
+			case 7: // Newborn
+				$page_background_photo = "fb_occasion_large_newborn.jpg";
+				break;
+			case 8: // Anniversary
+				$page_background_photo = "fb_occasion_large_anniversary.jpg";
+				break;
+			case 9: // Bar Mitzvah
+				$page_background_photo = "fb_occasion_large_barmitzvah.jpg";
+				break;
+			case 10: // Get Well
+				$page_background_photo = "fb_occasion_large_getwell.jpg";
+				break;
+			default: // Just in case
+				$page_background_photo = "fb_occasion_large_default.jpg";
+		}
+	endif;
+	return $page_background_photo;
+}
+function curPageURL() {
+    $pageURL = 'http';
+    if ($_SERVER["HTTPS"] == "on") {$pageURL .= "s";}
+        $pageURL .= "://";
+    if ($_SERVER["SERVER_PORT"] != "80") {
+        $pageURL .= $_SERVER["SERVER_NAME"].":".$_SERVER["SERVER_PORT"].$_SERVER["REQUEST_URI"];
+    } else {
+        $pageURL .= $_SERVER["SERVER_NAME"].$_SERVER["REQUEST_URI"];
+    }
+    return $pageURL;
+}
+?>

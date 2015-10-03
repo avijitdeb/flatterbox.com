@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2654-001</orderId>
+    <orderDate><![CDATA[8/14/15]]></orderDate>
+    <shipTo><![CDATA[Kara Dallimore]]></shipTo>
+    <shipAdd1><![CDATA[342 West 15th Street]]></shipAdd1>
+    <shipAdd2><![CDATA[Apt 2]]></shipAdd2>
+    <shipCity><![CDATA[new york]]></shipCity>
+    <shipState><![CDATA[NY]]></shipState>
+    <shipZip><![CDATA[10011]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[navy]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Farewell Volp]]></heading>
+            <to><![CDATA[Volp]]></to>
+            <from><![CDATA[Search & Staffing]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[go/pickupthephoneandcall/Ryourcustomers/R/R#Simple]]></note>
+            <author><![CDATA[Kara Dallimore]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You inspire me to understand that demanding excellence is just the beginning... /R/R]]></note>
+            <author><![CDATA[Liz]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for always bringing out our best regardless of the challenge at hand, but keeping things lighthearted and fun along the way. Wish you the best! ]]></note>
+            <author><![CDATA[Kevin Gillies]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for demanding excellence and supporting with compassion. You are a true leader that leaves giant shoes to fill.]]></note>
+            <author><![CDATA[Kevin the Texan]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[That you remove all the noise and make it easy for me to crush it in my career ]]></note>
+            <author><![CDATA[Shayna Katz]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I can't do justice to the transformation that has taken place in staffing since you joined. We went from living day-to-day to a team that is built to last. All of us are & will be more successful individually because of what you built & how you built it. Deepest thanks!]]></note>
+            <author><![CDATA[Aaron Dylenski]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[No matter how busy you are that day, you stop by and chat with a few members of our team to see how things are going. /R/RWe will miss you in Staffing! /R/R]]></note>
+            <author><![CDATA[Danielle ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You are one of the main reasons I chose to move over to Staffing.  Your leadership skills are beyond excellent. There are so many things I appreciate about you, but your humbleness after such a successful career path is definitely what I appreciate about you most.]]></note>
+            <author><![CDATA[Melissa Belitsky]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[James,/R/RThank you for welcoming me to the LTS team and making me feel like I'm joining a family rather than a corporation. You will be missed!]]></note>
+            <author><![CDATA[Tom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["You adapt well." 3 little words that moved me in a way that a KUDOS never would. I appreciate you for seeing this in me. This acknowledgement uplifted my confidence to continuously better myself. This is what successful Leaders do! You transformed me, and S&S. ]]></note>
+            <author><![CDATA[Anita ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Our 1:1s always start with the same exact question, "How can I help you today?" What a nice default. Thank you and good luck!]]></note>
+            <author><![CDATA[Julie Campbell]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Two weeks after I started work at LinkedIn, we crossed paths in the hall and you greeted me by name. I was impressed that you took the time to know all new hires, no matter the level. It was a simple, 20-second interaction, but an important lesson in leadership. Thanks.]]></note>
+            <author><![CDATA[Christina Guerland]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[James, I appreciate the leadership you have demonstrated throughout our time working together. You have had a huge impact on me and the entire company. Your greatness will be felt for years to come my friend.]]></note>
+            <author><![CDATA[Mike Nesser]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I keep following you and you keep leaving - hmmm. Seriously though Volp, you've transformed S&S (as you do everything you touch) into not only one of the top performing teams, but also one of the most well respected. LinkedIn is lucky to have your talent in our ranks.]]></note>
+            <author><![CDATA[Roger]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I really appreciate that you always had faith in me and my team and trusted me to cover my part of your business.  You're a great partner to work with.]]></note>
+            <author><![CDATA[Natalie (and the CSO Team)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for the great team you built and congrats for your next play! Lynda.com is gonna be the next LinkedIn's success :)]]></note>
+            <author><![CDATA[Hugues]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I appreciate that Volp believes family comes first. When I mentioned I was getting married he said you only get married once, so you better do it right. Work will be here when you get back./RIt is small things like this that bring a company and culture together. ]]></note>
+            <author><![CDATA[Jefferson Mangus]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[To the fearless leader I've had the privilege of working with...you will be missed! Congrats on your next play!]]></note>
+            <author><![CDATA[Mandy Kilpatrick]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Discount Reason.]]></note>
+            <author><![CDATA[Sully]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[To be so approachable and generous with your advice and guidance inspired me to give back more to my colleagues. Your example shows that being too busy in never an excuse. You don't just preach it, you show how relationships matter.  ]]></note>
+            <author><![CDATA[Glenn House]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Your passion, dedication & leadership has been so inspiring. Thank you for everything! Best of luck in your new role.]]></note>
+            <author><![CDATA[Sam Povar]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for leading by example, setting clear boundaries, and being advocate for both client and all partners across the board.  You made life easier in Search & Staffing!]]></note>
+            <author><![CDATA[Thomas (Pillow Talk) Martin]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[James - Best of luck in the new role!  Thank you for your leadership and for being a great thought partner over the last 2 years.  We are going to miss you!]]></note>
+            <author><![CDATA[Dave]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I've always appreciated your calm, yet strong leadership to our S&S team. You definitely helped take our team to the next level!!/R/RWishing you all the best on your "Next Play" and know you will help do the same for the Lynda.com team. They are lucky to have you!]]></note>
+            <author><![CDATA[Sue Samiljan]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I have always appreciated Volp’s sense of humor…./ROh yeah...in addition, he is always thinking about raising the bar and that spans across talent, results, processes and much more. He has a tremendous following, which speaks volumes as to who he is a person and leader. ]]></note>
+            <author><![CDATA[Tessa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I appreciate the way you made us feel like a close-knit team rather than a large sales org.   The geographic distance between teams was a non-issue thanks to your leadership.]]></note>
+            <author><![CDATA[Chris]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One of the things I appreciate the most about Volp is even though he went to the University of Washington, he is still a good dude and his leadership will be greatly missed.  Congrats on the new role!]]></note>
+            <author><![CDATA[Adrian]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for always being extremely approachable & warm. You make me proud to be a part of the staffing org. I've loved getting to know you over the past couple years. You will be greatly missed!]]></note>
+            <author><![CDATA[Ali]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Volp, Thank you for always being very approachable.  I never feel like you are too busy to discuss work or personal topics.  I wish you the best of luck in your new role and hope we can stay in touch!]]></note>
+            <author><![CDATA[Ben Pascale]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Volp - One thing I appreciate most about you is your genuine care for each and every rep. Thank you for being a great leader. Congrats on the new role!]]></note>
+            <author><![CDATA[Mimi  ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[James, /RI appreciate how you always take the time to speak with us individually, especially when you're visiting our offices. /R/RI also appreciate how quickly you approve discounts./R/R]]></note>
+            <author><![CDATA[Raouf Tarazi]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It is always nice to see you when you visit the NYC office! No matter how busy you are, you take the time to come by & say hello to me. Thanks for building our such a great team, I wish you the best!]]></note>
+            <author><![CDATA[Ruthie ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for teaching us the value of being consistent across our customers even when that requires tough conversations.]]></note>
+            <author><![CDATA[Anna Wright]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for your words of advice and encouragement, even while I was an SD./R/RI will look out for you on the soccer pitch at GSK./R/RAll the best!]]></note>
+            <author><![CDATA[Patrick Lan aka. PLan]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[James-/R/RThank you for all of your guidance, advice, and support.  It has been a pleasure getting to know you, as well as working on your team.  Wishing you the best of luck in your new role-I know you will crush it.  Hope to see you again soon!]]></note>
+            <author><![CDATA[Rachel Tucker]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Not only have you helped transform me as a business leader, you have helped me make healthier eating choices through your scrutiny of my expense reports.  No more McDonalds!  Good luck on your next play.  Thanks again for all your support and guidance over the years.]]></note>
+            <author><![CDATA[John Hassett]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

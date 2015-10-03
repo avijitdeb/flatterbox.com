@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2148-001</orderId>
+    <orderDate><![CDATA[5/31/15]]></orderDate>
+    <shipTo><![CDATA[Tara Dolan]]></shipTo>
+    <shipAdd1><![CDATA[530 Forrest Avenue]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Drexel Hill]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[19026]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[scarlet]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[You are loved, Mrs. Ray!]]></heading>
+            <to><![CDATA[Mrs. Ray]]></to>
+            <from><![CDATA[CJF First Grade Class 2015]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[We love Mrs. Ray!!!!  /RYou have been such a gift to Fitz and our  family this year! He just ADORES you! You have modeled a gentle kindness, a deep faith, a positive attitude, and a strong love of learning- ALWAYS with a big smile and cheerful heart! Amazingly grateful!]]></note>
+            <author><![CDATA[Sean & Tara Dolan]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[She is a good teacher. She is good at teaching me. /RShe is caring./RShe is loving. ]]></note>
+            <author><![CDATA[Parker Serafino]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Ray,/RI have to thank you for being such a great teacher to Parker these last two years. You are so thoughtful and caring. He has grown so much and that is with your help. Words can not explain how thankful I am. ]]></note>
+            <author><![CDATA[Christine Magrann(Parker)]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[  I appreciate Mrs. Ray because she always has a smile on her face.  Mrs. Ray always makes me have a wonderful day.]]></note>
+            <author><![CDATA[Charlie Kraus]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Teacher, mentor, friend…THANK YOU!  For two years we have been blessed to have you in our lives, each day a comfort knowing our son was in your care...THANK YOU!  There would never be enough THANK YOUs for all that you have given to our family.  ]]></note>
+            <author><![CDATA[The Kraus Family]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Ray is so funny, she is a nice teacher, and she really encourages us to do stuff. And she's really nice. And really funny. Thank you for being a great teacher. ]]></note>
+            <author><![CDATA[Katie Keffer]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Mrs. Ray, /RYou have been so great with our Katie; she's had a great year. She loves you, and has thrived in your class. Thank you for all you do for her and all the other children!]]></note>
+            <author><![CDATA[The Keffers]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Instead of saying pets and plants, I remember one time that you said "pets and pants" and it was really funny.]]></note>
+            <author><![CDATA[RJ Hepner]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I think you are the best teacher ever because you are funny and you help us sound out words.]]></note>
+            <author><![CDATA[RJ Hepner]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you so much for your dedication, love, patience, and enthusiasm that you demonstrated to all of the children in your 'first' First Grade class at CJF]]></note>
+            <author><![CDATA[The Gosseaux Family]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you Mrs. Ray for being a awesome teacher. I learned a lot and will miss you very much! ]]></note>
+            <author><![CDATA[Love, Olivia Ann Gosseaux]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you, Mrs. Ray, for helping me get through First Grade!  I cannot believe soon I will be in Second Grade!  I wish I could stay in First Grade with you!  You are an awesome teacher!]]></note>
+            <author><![CDATA[Love, Fitz Dolan]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you Mrs. Ray for your LOVE, PATIENCE and KINDNESS that you have shown towards Riley this year.  She has grown so much in 1st grade with your help and dedication.  We can not THANK YOU enough!!  ]]></note>
+            <author><![CDATA[The Schwarz Family]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Ray you are a nice teacher and I loved being in your class.  You always take time for me.  I like talking to you when I have a problem.  I will miss you.  ]]></note>
+            <author><![CDATA[Sean Lawson]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I like Mrs. Ray because she is fantastic and she is so much fun!]]></note>
+            <author><![CDATA[Love Claire Wylie]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you Mrs. Ray for your LOVE, PATIENCE and KINDNESS that you have shown towards Riley this year. She has grown so much in 1st grade with your help and dedication. We can not THANK YOU enough!!]]></note>
+            <author><![CDATA[The Schwarz Family]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Ray is funny especially when she stands on the desks.  She is an awesome teacher.  Thank you for all our lollipop breaks.  Thank you for making 1st grade great!!]]></note>
+            <author><![CDATA[Love, Riley Schwarz]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Ray is a devoted educator, she is awesome!  We have been blessed over the past two years.  Thank you!]]></note>
+            <author><![CDATA[The Wylie Family]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Ray is funny especially when she stands on the desks.  She is an awesome teacher.  Thank you for all our lollipop breaks.  Thank you for making 1st grade great!!]]></note>
+            <author><![CDATA[Love, Riley Schwarz]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There are a bunch of things I love about you Mrs. Ray, you are loving, you are sweet, & you are VERY special. You have taught me so much these last two years & I will miss you very much. Thanks for being the BEST teacher ever!]]></note>
+            <author><![CDATA[Payton Small]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There is not "one thing" we like about Mrs. Ray because there are "many things" that she has to offer our child.  Her patience, kindness, and love for teaching has been imprinted on her for life!  I thank you for your love and respect towards her!  We will miss you!]]></note>
+            <author><![CDATA[Karen Montagna ]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Ray, you are the best teacher ever!  You always make me laugh and I love your funny stories.  I will miss you next year but will come to visit you!  I love Snowy too and will miss her too.  Have a great summer and go to the beach.]]></note>
+            <author><![CDATA[Ana lise Albertini]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Ray,/RYou have taught me for two years. Thank you for helping me learn to read. I really wish you could come with me to second grade. You will always have a special place in my heart.]]></note>
+            <author><![CDATA[John Thomson]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We thank you from the bottom of our hearts for nurturing John these two years. You have given him confidence, shared his joys, rejoiced in his successes and taught him to persevere. He has learned so much from your loving heart...we will be eternally grateful for you.]]></note>
+            <author><![CDATA[Colleen and Michael Thomson]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for making Jay's first grade such a great experience.  You made him feel so special and interested in so many new things.]]></note>
+            <author><![CDATA[The Barrett's]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you Mrs. Ray for being a great teacher.  You made this year fun with your boo boo's and desk jumping. XOXO]]></note>
+            <author><![CDATA[Jay Barrett 2015]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Oh, the Places I'll Go, the Great Places I'll see, thanks to the wonderful things you taught me!]]></note>
+            <author><![CDATA[Ben Leinhauser]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[A mediocre teacher tells, a good teacher explains, a superior teacher demonstrates and a GREAT TEACHER inspires.  Thank you so much for INSPIRING Ben!]]></note>
+            <author><![CDATA[The Leinhauser Family]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I like when Mrs. Ray tells us stories about her dog Bailey and when she taught me how to freeze steam.  I also like when Mrs. Ray reads to us and when we play games!  She is my favorite teacher!]]></note>
+            <author><![CDATA[Love, Henry]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Ray,/R/RThank you for being such a positive and dedicated teacher.  It is clear that your heart is with our children and we couldn't ask for a better person to be with Henry this year.  We are very grateful for you!]]></note>
+            <author><![CDATA[Love, the Galias]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs.Ray is a burst of sunshine! We love her and her dedication to CJF students, driving two hours each day to make a positive impact on their education and Catholic faith!]]></note>
+            <author><![CDATA[The Abramson Family]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs.Ray is so nice! She makes learning fun.]]></note>
+            <author><![CDATA[McCauley Abramson]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love how Mrs. Ray is always so funny when she teaches us. She uses silly words and dances! I will really miss having her as my teacher. ]]></note>
+            <author><![CDATA[Maggie Conway]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you, Mrs. Ray for the caring, enthusiastic way you have taught Mags these past two years. You have given her the greatest gift -a true love of learning- and that is irreplaceable! Our family has been blessed to have you in our life, and we will always be grateful!]]></note>
+            <author><![CDATA[The Conways]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You make us happy inside!!!]]></note>
+            <author><![CDATA[Your First Grade]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We will never forget FIRST GRADE because you made learning so much fun!!!]]></note>
+            <author><![CDATA[Your First Grade]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for being such an amazing example of faith-in-action, Mrs. Ray!]]></note>
+            <author><![CDATA[The Parents]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for nurturing such a special  community of friendship, learning, and faith!  You did it every single day!]]></note>
+            <author><![CDATA[The Parents]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We are so grateful for your goodness at every turn....]]></note>
+            <author><![CDATA[The Parents]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One question: How did Cardinal Foley School get so lucky?]]></note>
+            <author><![CDATA[The Parents]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You teach us what is important.]]></note>
+            <author><![CDATA[Your First Grade]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Every child feels so deeply loved and valued in your care.  We marvel at it!  That is no small thing; it is pure gift!]]></note>
+            <author><![CDATA[The Parents]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We love God more because of you.]]></note>
+            <author><![CDATA[Your First Grade]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You know how to have fun, Mrs. Ray!   We love the way you balance work and play even INSIDE the classroom!!!  ]]></note>
+            <author><![CDATA[The Parents]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You are forever a part of each and every one of our stories.  ]]></note>
+            <author><![CDATA[The Parents]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for meeting our children where they were and for walking right alongside each one all year through.  They always knew you were right there beside them cheering them on!  ]]></note>
+            <author><![CDATA[The Parents]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Ray is our friend.  We know she really cares about us and how we learn.]]></note>
+            <author><![CDATA[Your First Grade]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You really are as wonderful as they say you are.]]></note>
+            <author><![CDATA[The Parents]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We couldn't ask for a more perfect FIRST GRADE teacher for our child!  We will never ever forget you, MRS. RAY! ]]></note>
+            <author><![CDATA[The Parents]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[scarlet]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

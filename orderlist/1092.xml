@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+    <orderId>1092-001</orderId>
+    <orderDate><![CDATA[3/6/15]]></orderDate>
+    <shipTo><![CDATA[Sagan Medvec]]></shipTo>
+    <shipAdd1><![CDATA[1855 Sepviva St]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Philadelphia]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[19125]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia>NotAvailable</shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[fbcustom_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+        <card>
+            <note><![CDATA[TEST]]></note>
+            <author><![CDATA[TEST]]></author>
+            <image><![CDATA[olive]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Test 2]]></note>
+            <author><![CDATA[Test 2]]></author>
+            <image><![CDATA[olive]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Test 3]]></note>
+            <author><![CDATA[Test 3]]></author>
+            <image><![CDATA[olive]]></image>
+        </card>
+    </box>
+</order>

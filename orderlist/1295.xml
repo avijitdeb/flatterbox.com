@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+<subOrder>
+    <orderId>1295-001</orderId>
+    <orderDate><![CDATA[4/2/15]]></orderDate>
+    <shipTo><![CDATA[Sagan Medvec]]></shipTo>
+    <shipAdd1><![CDATA[2424 e York street, Ste 201]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Philadelphia]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[19125]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia>NotAvailable</shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[1234_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+        <titlecard>
+            <heading><![CDATA[]]></heading>
+            <to><![CDATA[]]></to>
+            <from><![CDATA[]]></from>
+        </titlecard>
+    </box>
+</subOrder>
+</order>

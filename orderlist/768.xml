@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+    <orderId>768-001</orderId>
+    <orderDate><![CDATA[2/6/15]]></orderDate>
+    <shipTo><![CDATA[Sagan Medvec]]></shipTo>
+    <shipAdd1><![CDATA[]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia>NotAvailable</shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[345_100]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+    <orderId>768-002</orderId>
+    <orderDate><![CDATA[2/6/15]]></orderDate>
+    <shipTo><![CDATA[Sagan Medvec]]></shipTo>
+    <shipAdd1><![CDATA[]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia>NotAvailable</shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[345_200]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[cardboard-blue]]></boxType>
+    </box>
+</order>

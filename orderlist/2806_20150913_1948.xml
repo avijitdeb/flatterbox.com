@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2806-001</orderId>
+    <orderDate><![CDATA[9/13/15]]></orderDate>
+    <shipTo><![CDATA[Eric Radist]]></shipTo>
+    <shipAdd1><![CDATA[600 North Kingsbury]]></shipAdd1>
+    <shipAdd2><![CDATA[1006]]></shipAdd2>
+    <shipCity><![CDATA[Chicago]]></shipCity>
+    <shipState><![CDATA[IL]]></shipState>
+    <shipZip><![CDATA[60654]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_100]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[purple]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Happy 60th Lisa]]></heading>
+            <to><![CDATA[Lisa Radist]]></to>
+            <from><![CDATA[Mitch, Eric, Stef, Carly & Nick]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[What I love most about you is how you always goes the extra mile for your family, friends and colleagues. You consistently demonstrate the right way to build and maintain relationships and I have a ton of respect for you both personally and professionally. I love you.]]></note>
+            <author><![CDATA[Eric]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Lisa is one of the most kind and thoughtful people I have ever met. Her generosity and support is seemingly unlimited. I'm so lucky to have her in my life! ]]></note>
+            <author><![CDATA[Leah Corselli]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You have always been so kind to my sister and I, and of course to my mom. You are loving and fun and I always look forward to our little family get togethers!]]></note>
+            <author><![CDATA[Natalie Sellers]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You always made us feel part of your extended family. Your warmth, love and friendship are forever appreciated.]]></note>
+            <author><![CDATA[Terise & Eric Parnes]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I first met Lisa when I was a kid, and thought she was kind, beautiful, glamorous, funny and smart.  Now that I'm older, I think she is kind, beautiful, glamorous, funny and smart.  I also now know what an awesome mom she is.  /RThe Shapiros are glad to call her family.]]></note>
+            <author><![CDATA[Lisa, Will, Joseph and Eva Shapiro]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Penthouse was the platform and Lisa offered to be my guide into media sales. If it had not been for you Lisa no one would have taught me what to do in my new job. You were not my manager - nor responsible for me, but you took it upon yourself to give me a lift. Love you]]></note>
+            <author><![CDATA[Susan Sanford]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There isn't just one thing that I like about Lisa, there are countless things that I love about Lisa such as her resilience, zeal for life, loyalty, generosity, and sense of humor. Those are just a few...there are so many more. She is one of my dearest friends. ]]></note>
+            <author><![CDATA[Sending you lots of love, Lana]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Can't just pick one thing.  Besides the fact that you are an amazing baker, your enduring friendship has meant the world to us.  Sharing life's moments from so far away and making it feel like we are still down the street. Fabulous SHOES always makes me think of you! xo]]></note>
+            <author><![CDATA[Love you, Alycia & Rob Margolis]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[/Rhappy birthday!  We always love you're cheerful smile!]]></note>
+            <author><![CDATA[Liz Kirschner and family]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[After all these years, how can I pick just one thing??? We've seen each other through the best and worst of times and across thousands of miles! Looking forward to many more decades of this enduring friendship. Love you!]]></note>
+            <author><![CDATA[Debbie Rath]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When it comes to baking, Lisa's treats cannot be beat. My favorite memory of Lisa's baking is when she went out of her way to make Eric's FAVORITE red velvet cake (in a heart shape!) for the weekend of our shower.. & then red velvet leftovers backed up the new shower! ]]></note>
+            <author><![CDATA[Love, Stef ]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The things I love most about Lisa is her outgoing nature and her loyalty as a friend ]]></note>
+            <author><![CDATA[Lisa Weiss]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There are so many things we love about Lisa, but her loyalty and commitment to our friendship is right up there.  She is always there for us, ready to share good times and support us during bumps in the road.  We consider her a life long friend.  Happy 60th, Lisa!]]></note>
+            <author><![CDATA[With love, Steve & Darlene]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[A few of the things I love most about Lisa are how thoughtful, loving, and passionate she is. I am so thankful for the values that she has instilled in her children. I see so much of Lisa's passion, thoughtfulness, and love in Eric.]]></note>
+            <author><![CDATA[Love always, Stef]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One thing I like most about Lisa Radist is that WE ARE NOW RELATED AND HER SON ERIC IS NOW MY WONDERFUL GRANDSON SINCE NOV. 8, 2014, the marriage of my granddaughter Stefani and Eric. I am so thrilled that Stefani is another "daughter" to Lisa. HAPPY BIRTHDAY LISA!]]></note>
+            <author><![CDATA[Grandma Joan Silberstein]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[30+ years of LOVE, friendship, caring and wonderful memories - everything I share with you. As we watch our families grow, we grow closer everyday. We are as close as sister, confiding in each other, and sharing so much. /R Wishing you a wonderful day./R     xoxo]]></note>
+            <author><![CDATA[Jill]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I can't pick one thing I like most as I love everything about you so I'll say thank you for taking me seriously when we didn't know each other very well yet in Palm Springs all those years ago when I said, "we need to go to the hospital now!"/RHappy Birthday/RI Love You!]]></note>
+            <author><![CDATA[Roberta Griefer]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Lisa - you will always have a special place in all our hearts!  From the early days of swimming lessons and parenthood to today's sagas and beyond.  We are forever linked!  LOVE!!!!]]></note>
+            <author><![CDATA[Bev, Barry & Lindsey]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[That adorable girl who sat  in my class so long ago has become one of my very special & closest friends.  Lisa, your kindness & generosity are unmatched, & it's been a privilege knowing you.  /RLove you, Lisa/RHAPPY BIRTHDAY!!/R]]></note>
+            <author><![CDATA[Beverly]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The one thing I like the most about Lisa is how devoted she is to her career, her relationships with her clients is amazing./RShe is also madly in love with her family!!/R]]></note>
+            <author><![CDATA[Carmen]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Your love, belief and unyielding support to lift up the people you care the most about no matter what situation is going on in your own personal life, you make yourself always available to them by giving your unconditional love...]]></note>
+            <author><![CDATA[Ken Margolis]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Lisa,/RYou have been the most important part of my life for the past 35 years and I treasure every day that we've been together. We've built such a wonderful life and created a beautiful family. I can't imagine life without you. The best is yet to come. I love you.]]></note>
+            <author><![CDATA[Mitchell]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Lisa's generosity of her knowledge, her kindness and her heart know no limits.]]></note>
+            <author><![CDATA[Claudia and Bill]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Lisa-we shared many poignant moments. At SLC we ventured into adulthood; I was there when you and Mitch fell in love; you were the first person I told when I got engaged; I held Eric when he was colicky; you gave me parenting advice; we laughed and cried with your mom. ]]></note>
+            <author><![CDATA[Deirdre xoxoxoxoxo]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One of many things that I LOVE about my friend Lisa is her sense of style...not only in her clothing, jewelry and home design choices, but also in relationships with her TRILLIONS of friends. She is one classy lady and I am very fortunate to have her as my dear friend!]]></note>
+            <author><![CDATA[Marcia Weiss ]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[From the first time you invited us over for dinner because we were lucky enough to get you as our host family, to introducing us to Dave and everything in between you couldn't be a more generous friend! And always fun. Much love on your birthday. You make 60 look great!]]></note>
+            <author><![CDATA[Barry and Tracy]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You inspire me to reach for the stars and follow my dreams. I'm so lucky to have you as my role model and to call you my best friend. I wouldn't trade you in for any other mother; I hit the jackpot. I love you to the moon and back again! Happy 60th to the very best mom!]]></note>
+            <author><![CDATA[C]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Her constant, unwavering friendship through thick and thin. A rare quality in the modern business landscape]]></note>
+            <author><![CDATA[Ian Beavis]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We believe the following anonymous quote sums up our friend Lisa.  "Who finds a faithful friend, finds a treasure."/RHappy birthday Lisa!/RWe love you]]></note>
+            <author><![CDATA[Carin and Glenn Freeman and family]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Lisa, /RI'm so grateful that we were brought together through the mentorship program. Since then you've been more than a mentor, you've become a true & special friend. Even though we don't connect all the time, you're always in my heart. I wish you the happiest birthday!]]></note>
+            <author><![CDATA[Love, Tracy ]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Lisa, /RI love your energy,your "can do" determination to climb over every obstacle, your creative,compassionate, generous and loving spirit.  Your fierce loyalty which makes everyone feel they will be your friend for life.  And of course, your million dollar smile!/R]]></note>
+            <author><![CDATA[Love you! Marcie and Cliff]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The prompt said to choose 1 thing I like most about you, but even in the brief time we've known each other it's unfair to select a singular item. From sushi in LA to Italian in Chi, it has been so incredible to experience this journey w/ such a welcoming & loving woman]]></note>
+            <author><![CDATA[Nick]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We are so happy, lucky and grateful to be brought together as family. We could not have picked a more kind, loving or caring person to share Stefani with and we so look forward to all the wonderful things to share in the future. Happy Birthday and many many more!]]></note>
+            <author><![CDATA[Love, Sheryl and Mat]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for always including me, and making me feel like family (especially since we are now)!  It means more than you know, and I always love seeing you when you visit./R/RHappy happy birthday, and I hope this next year is your best year yet!  xoxo]]></note>
+            <author><![CDATA[Amy Silberstein]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My first business lunch at the hottest LA restaurant, how could I not fall in love with this woman. We all know how the play continues....marries a great college friend, 2 very special kids. Life changes, people change, but our love and commitment only gets stronger!!]]></note>
+            <author><![CDATA[All my love , Uncle Phil]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I can’t just tell about one memory. We have been friends for 53 years! We unknowingly rolled in manure, went on the fastest roller-coaster, tea parties, dressing up, ballet, baking.You are the most wonderful friend and I treasure every moment we spend together.]]></note>
+            <author><![CDATA[Julie Fluegel]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We couldn't possibly limit ourselves to ONE thing about Lisa, as there are too many to count. She's a true friend, kind, considerate, putting others first. She has impeccable taste always, a true Renaissance Woman. Warm, loving, lovely--one of the best people we know.]]></note>
+            <author><![CDATA[Marla + Bill Goldstein]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Throughout your life people come and go, and if you're lucky you can count your true friends on one hand. Lisa is one of our five! Smart, dependable, supportive and fun to be with. Great fashion sense too!  So blessed to have shared 30+ years of friendship, we love you!]]></note>
+            <author><![CDATA[Gena and Stu Schreiberg]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Happy 60th Birthday, Lisa!!!  It's only a number!  May the next "chapter" be beyond your wildest imagination!  /RBest love,]]></note>
+            <author><![CDATA[Shelley and Michael]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You are such a caring and giving person and we always have so much fun spending time with you. "A true friend is someone who thinks that you are a good egg even though she knows that you are slightly cracked." It's been a long journey but there's so much more ahead. xo]]></note>
+            <author><![CDATA[Marie & David Mandel & family]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Lisa, /RAnna, Chelsea, Phoebe and Dean wanted to wish you a wonderful and special birthday. One of the main things we love most about you is alhough we don't get to see you nearly enough we alway feel so close and  familiar when we do. /RLove The Backers]]></note>
+            <author><![CDATA[Dean, Anna, Chelsea and Phoebe]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love your friendship, support, and unwavering commitment to those in your life.  I know I can always count on you,  no matter how long since we last spoke.  I've learned many things from you, but the most important is commitment to family and friends above all else. ]]></note>
+            <author><![CDATA[Love you!! Tiffany Kaplan]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Happy 60th Lisa,/RWe are elated that you have arrived at this milestone in your life! Allow us to tell you from the bottom of our hearts how we feel about you. No one we know has a smile as beautiful as yours. You fill everyone's heart with such warmth with your smile!]]></note>
+            <author><![CDATA[Orna and David]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Good things come in small packages! For such a petite person, Lisa packs a wallop. Big on thoughtfulness, sweetness, curiosity, interests, ideas, creativity and smarts. Lisa is a connector. She brings people together and we love her for that. Happy 60th Birthday!!]]></note>
+            <author><![CDATA[Cathie and John Kanuit]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dearest Lisa,/R/RI've always said you did a great job raising your children and the fact that they have organized this for your birthday is testament to that.  What a great idea. I am proud to add my best and warmest wishes  for the Happiest Birthday and many, many more.]]></note>
+            <author><![CDATA[Michael Petruncola]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Lisa has always been so warm and welcoming to us!  We love how she is  always ready to take and share pictures, capturing special moments! Lisa with your beautiful smile you are a true ray of California sunshine!  Wishing you a very  Happy Healthy  Sweet"60" Birthday !!]]></note>
+            <author><![CDATA[Love Fran + Rick Lipson and family]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Lisa - in the short time we have known you, we have learned that you are awesome...a great mom, having raised amazing children that we are proud to have as part of our family (as well as you and Mitchell). We look forward to many more birthdays (and other celebrations)]]></note>
+            <author><![CDATA[Ron and Stephanie Silberstein]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It was late summer in 2006 when I met Lisa and Mitch at a Starbucks in Studio City.  We shared a love of UM, family, and bonded immediately.  So began a beautiful friendship.  Happy Special Birthday dear friend! /R/R Much Love, Judy and Pepper]]></note>
+            <author><![CDATA[Judy and Pepper Mintz]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[/R Lisa is an inspiring woman! For her optimistic, up attitude. Her beautiful smile. Her way around a fabulous raspberry tart. Her keen listening skills making you feel heard and cared for. Her love for her family and her giving presence.  All our Best!  /RLinda & Cliff]]></note>
+            <author><![CDATA[Love, L]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[.Lisa is an inspiration to us! For her optimism and up attitude. Her beautiful smile that lights up her eyes. Her way around a raspberry tart. Her keen listening skills. Her fierce love for her family. Her love of life and adventure. Wishing you the best always!!]]></note>
+            <author><![CDATA[Love, Linda & Cliff]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I remember the first time I met Lisa.  I had come to interview for a babysitting position to watch Eric and Carly.  I had no idea that day would turn into a lifelong friendship.  She is a warm, loving, caring person and my life wouldn't be the same without her!]]></note>
+            <author><![CDATA[Stacy Solomon]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I always loved when I would bake cookies with you when my mom and I would fly down to California. Also, during my first year of sleep away camp, you sent me a care package with games for me to play with my friends. I hope you have the happiest birthday ever.]]></note>
+            <author><![CDATA[Justin]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Lisa,/ROne of the many memories that stands out in my mind are our ski trips many years ago out west.Those were awesome trips and wouldn't have been possible without you. I remember Eric making his first snowman! It wasn't bad for a kid from LA!/RHappiest Birthday Ever!!!]]></note>
+            <author><![CDATA[Claudia Radist]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My friend Lisa has tremendous warmth and empathy that are rare and wonderful qualities. Her positive nature is inspiring and refreshing! Wishing you a happy and healthy birthday!!! Cheers to our valued friendship and years of fun to come!!!/R/Rxo ]]></note>
+            <author><![CDATA[Kim Sattinger]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Happy Birthday! Since we first met over 30 years ago, it has been a great gift to call you our friend. The miles have separated us, but our love and friendship have remained steady and true. Mom/Wife/Employee/Family you are a great multitasker with class and charm. XOXO]]></note>
+            <author><![CDATA[David and Betsy]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love you Lisa, because, among other things, you always understood my relationship with Mitchell. Many women would not. You have made a beautiful family and we want to wish you the Happiest 60th Birthday ever!/RMuch love to you always! Wish we were in Chicago!!/RXOXO ]]></note>
+            <author><![CDATA[Robin and Joel]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[ I'm most grateful for: the fact that you have always been there for me-- and for every member of our family. No matter what. In times of need, you are the one we can truly depend on; lean on. You are the strong, safe, wise "rock" of our family, and I love you for it.  ]]></note>
+            <author><![CDATA[Wendie Sellers]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I really admire how you were able to succeed as a working mother. A difficult task. But, you managed it beautifully. I also admire your happy, working, wonderful marriage. Yours is a full and rich life with much to celebrate. ]]></note>
+            <author><![CDATA[Wendie Sellers]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It seems like we first met several years ago when you were getting married. Over the years we have shared many happy occasions together and I look forward to sharing many more together. /RHave a wonderful birthday and to many, many more. With much love.]]></note>
+            <author><![CDATA[Len Mogil]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love that Lisa Radist is my friend even when I never bought advertising from her for over 15 years, that's a true friend! /RSeriously, Lisa is always there to support , listen and love me as a sister and I am so grateful she as allowed me to call her a friend. Love Amy]]></note>
+            <author><![CDATA[Amy Gruberg]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Lisa is an optimist. She is positive and always uplifting.  She seeks and finds the good in all people and we should strive to be more like her! Lisa has a heart of gold. After 35 years, we are always proud to be her friend. Happy Birthday Lisa! ???]]></note>
+            <author><![CDATA[With our love, Maure&David Gardner]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Lisa,/RWe cherish and appreciate the loyalty of your  friendship with our family and that you have supported us through happy times and sad times.  We are grateful that we have celebrated many great times together and we love you very much!!!/RHappy happy birthday!/R/R]]></note>
+            <author><![CDATA[The Jacobs-Fitzpatrick family ]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There are so many wonderful memories growing up, swimming, making forts, vacations to Newport Beach. You are a great cousin and I think of you as a sister. I love you very much and know I can always count on you!!]]></note>
+            <author><![CDATA[Leslie & Liv Cain]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Impossible to list one thing I like most about Lisa because everything about Lisa is special. Her smile, her warmth, her loving nature, her advice and her friendship.. How's that? Love you Lisa... Happy Birthday and cheers to many many more]]></note>
+            <author><![CDATA[Melissa Smith ]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[well u finally made the big 60 .. about time/Rits been a pleasure living across the street from u and your fam for the last 23 years..crazy how time flies when u r having fun   Stay clam and carry on  have a wonderful birthday   love, u/R/R]]></note>
+            <author><![CDATA[joanne]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Aunt Lisa,/RHappy Birthday! I'm so happy that we have gotten closer these last few years because spending time with you is so much fun. You are Always there for me and I can trust you with anything. You are always thinking of others, and you inspire me. Love you!]]></note>
+            <author><![CDATA[Lily ]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Happy birthday Lisa! I hope you have an amazing day! Thank you for everything that you've done over the years! You're the best! Xoxo/R]]></note>
+            <author><![CDATA[Becky]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There is no way to pick just one thing that is special about you when there are so many choices! Your warmth, generosity of spirit, and sincere friendship has bonded you to us as though we have been close friends forever. You are unique and wonderful …and we love you ]]></note>
+            <author><![CDATA[Doug and Jill FRIEDMAN]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Lisa:/R/RWishing you a very happy birthday...I can't believe that I have known you for 34 years...Time has flown by so fast. Enjoy the time now because before you know it another 34 years will have gone by. Pam sends her love too. Wishing you many more healthy years. ]]></note>
+            <author><![CDATA[Gerald Bagg]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for always being like a second mom to me.  I will always cherish our baking sessions and the times when we used to watch TV in your bed.  I am so fortunate to have the endless, loving support from a person I so greatly look up to.  Love you so much! xo]]></note>
+            <author><![CDATA[Rachel Harris]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I remember the first time I met Lisa. I had come to interview for a babysitting position to watch Eric and Carly. I had no idea that day would turn into a lifelong friendship. She is a warm, loving, caring person and my life wouldn't be the same without her!]]></note>
+            <author><![CDATA[Stacy Solomon]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Lisa has always managed to balance both a busy career and her loving family, and make it appear as though it was easy to do. She is totally devoted to her family and her extended family, and somehow made time for shopping, dancing and her friends, as well.]]></note>
+            <author><![CDATA[Jeannie and Steven Orenstein]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

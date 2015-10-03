@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+    <orderId>1021-001</orderId>
+    <orderDate><![CDATA[2/23/15]]></orderDate>
+    <shipTo><![CDATA[PA]]></shipTo>
+    <shipAdd1><![CDATA[1855 Sepviva St]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Philadelphia]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[19125]]></shipZip>
+    <giftWrapped><![CDATA[yes/no]]></giftWrapped>
+    <shipVia>NotAvailable</shipVia>
+    <box>
+        <shipQty>4</shipQty>
+        <sku><![CDATA[fbcustom_200]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+        <card>
+            <note><![CDATA[This is a test sentiment.]]></note>
+            <author><![CDATA[Theordore]]></author>
+            <image><![CDATA[pewter]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Another sentiment for Albert.]]></note>
+            <author><![CDATA[Eleanor]]></author>
+            <image><![CDATA[pewter]]></image>
+        </card>
+    </box>
+</order>

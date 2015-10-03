@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2158-001</orderId>
+    <orderDate><![CDATA[6/2/15]]></orderDate>
+    <shipTo><![CDATA[Sarah Solari]]></shipTo>
+    <shipAdd1><![CDATA[4411 Moss Drive]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Sacramento]]></shipCity>
+    <shipState><![CDATA[CA]]></shipState>
+    <shipZip><![CDATA[95822]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[sea-foam]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Ms. Johnson 2014/15 Class]]></heading>
+            <to><![CDATA[Ms. Johnson]]></to>
+            <from><![CDATA[Room 8 Families]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[Abraham Lincoln said, "Teach the children so it will not be necessary to teach the adults." /R/RThank you Ms. J /Rfor teaching us all.]]></note>
+            <author><![CDATA[Sarah Solari]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for always being so nice and helpful.]]></note>
+            <author><![CDATA[Isabel Iniguez]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I really like your positive attitude and your shiny sandals (LOL).]]></note>
+            <author><![CDATA[Isabel Iniguez]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for making learning a fun and creative process for Elsa this year!  We are so grateful for your positive and thoughtful influence.    ]]></note>
+            <author><![CDATA[The Williams Family]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Recently Logan said to me that this school year flew by.  He stated that he was never once bored in class and that there were always fun and interesting things to do. We know this is a testament to your hard work and creative teaching style.  Forever grateful,]]></note>
+            <author><![CDATA[Gabriel and Suzanna Tiffany]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Ms. J, we feel so lucky that Joe and Nicole both got to have you as their third grade teacher.  From the time we first met you six years ago, we have always loved your positive, can-do attitude.  Joe and Nicole will always remember you.  Room 8 is truly great!]]></note>
+            <author><![CDATA[The Archers]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Just wanted to thank you for the opportunity to help teacher your students to knit. ]]></note>
+            <author><![CDATA[Joy Duncan (Isabel's Grandmother)]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It is really fun to see a gifted teacher at work! Mrs. Johnson, you have been a great teacher for Zane this year, motivating him to do his best. We couldn't have asked for a better teacher for his first year at LDV. We hope to see you again in a few years with Lilly!]]></note>
+            <author><![CDATA[Shaun and Mike Gray]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We appreciate you holding Drew accountable for his actions, his school work, for being consistent, kind, organized, and a great role model. You are the perfect blend of strong and caring and have been the best 3rd grade teacher!]]></note>
+            <author><![CDATA[The Garfield's ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You are a good teacher because you help us and cheer us on. Also you help us knit you  are a good teacher. You are fun. My favorite year was learning my times tables. ]]></note>
+            <author><![CDATA[Claire Marshall]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I loved painting the gourd birds with you. I like doing art with you and learning about art. I also enjoy math and I'm so happy I learned my times tables. You are the best teacher. Room 8 the Great!]]></note>
+            <author><![CDATA[Ryan Marshall ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[ Thank you very much for all that you have done for Rosalie and the class. You have made 3rd grade a great experience. Oh, and thanks for making Zoey feel like she is part of your class too! It makes her eager for school.]]></note>
+            <author><![CDATA[Jeannine, Mickey, Rosalie and Zoey]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Ms. Johnson,/RBenjamin Franklin said "Tell me and I forget. Teach me and I remember. Involve me and I learn." Thank you for inspiring me to be ready for the big change to 4th grade. You made my year special and joyful. ]]></note>
+            <author><![CDATA[Gianna Solari]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Ms. Johnson:  This was a great year. I loved knitting with you, having you help me with my /Rgourd bird and teaching me /Rall my times facts. /R/RI had great times with you this year - thank you for making this year special!]]></note>
+            <author><![CDATA[Gianna Solari]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We had heard through the years that you were the best!  You sure did not disappoint, thank you for a great year.  Our kids will be well prepared for 4th grade thanks to you!]]></note>
+            <author><![CDATA[The Hammad Family]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for helping me to improve in my writing, artwork and math.  You have made this year the best year ever.  Room #8, the great.  YAY!]]></note>
+            <author><![CDATA[Jackson Hammad ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Education breeds confidence. Confidence breeds hope. Hope breeds peace.]]></note>
+            <author><![CDATA[Confucius]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The mediocre teacher tells. The good teacher explains. The superior teacher demonstrates. The great teacher inspires.]]></note>
+            <author><![CDATA[William A. Ward]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Education is not filling of a pail but the lighting of a fire.]]></note>
+            <author><![CDATA[William Butler Yeats]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The function of education is to teach one to think intensively and to think critically. Intelligence plus character – that is the goal of true education.]]></note>
+            <author><![CDATA[Martin Luther King, Jr.]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The secret in education lies in respecting the student.]]></note>
+            <author><![CDATA[Ralph Waldo Emerson]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When you learn, teach. /RWhen you get, give.]]></note>
+            <author><![CDATA[Maya Angelou]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don’t just teach your kids to read, teach them to question /Rwhat they read. /R/RTeach them to question everything!]]></note>
+            <author><![CDATA[George Carlin]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Live as if you were /Rto die tomorrow. /R/RLearn as if you were /Rto live forever.]]></note>
+            <author><![CDATA[Mahatma Gandhi]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The beautiful thing about /Rlearning is that/R no one can take it /Raway from you.]]></note>
+            <author><![CDATA[B.B. King]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Education is the most powerful weapon which you can use to change the world.]]></note>
+            <author><![CDATA[Nelson Mandela]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Ms. Johnson you have made my work better because you constantly remind me to double check my work./RYou are always calm and patient with us and you never stress out which makes me feel great about being in your class./R/RI appreciate you being my 3rd grade teacher./R]]></note>
+            <author><![CDATA[Katie James]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One thing I was particularly struck by when I picked my daughter Lucy up from school is that every day, without exception, Ms. Johnson always hugged every kid (except the ones who preferred to high five) as they left class. To me this showed how much she cared.]]></note>
+            <author><![CDATA[Lucy, Jani and Ivor]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Ms. J made my first year at LDV really fun!  I think she is a really good artist too.  I love how many fun events and field trips we all got to go on together.]]></note>
+            <author><![CDATA[Zane Gray]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The Gueffroy Family - Ms. J., thank you so much for guiding both of our children in their education journey.  3rd grade was a wonderful year for all of us, and we are sad that we don’t have any more to send your way.  /RWe’ll miss Room 8!]]></note>
+            <author><![CDATA[The Gueffroy Family ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You are a very nice, friendly teacher and I enjoyed being in your class.  I feel like I’m ready /Rfor 4th grade after being in /Ryour classroom!]]></note>
+            <author><![CDATA[Charlotte Gueffroy ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for taking us /Ron field trips.  /RI will always remember the /ROld Schoolhouse!]]></note>
+            <author><![CDATA[Mela Eselekhomhen ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for helping me /Rlearn and teaching me how to /Rdo different things.]]></note>
+            <author><![CDATA[Azul Padilla ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for being the best /R3rd grade teacher!]]></note>
+            <author><![CDATA[Annabelle Davis ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for taking us on /Rall the field trips.  /R/RMy favorite was Effie Yeaw because I liked the stations.]]></note>
+            <author><![CDATA[Logan Tiffany ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for teaching us.  /R/RI really enjoyed knitting.]]></note>
+            <author><![CDATA[Vadim Marushka ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for being my teacher and thank you for all of the great stuff you’ve done for our class.]]></note>
+            <author><![CDATA[Kennedy Rechs ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Ms. Johnson,/R/RI liked doing the Young Authors and the gourd birds.]]></note>
+            <author><![CDATA[Kristina Herr ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My favorite thing in 3rd grade /Rwas all the art projects /Rwe got to do!]]></note>
+            <author><![CDATA[Elsa Williams ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The drumming and art projects in 3rd grade were a lot of fun.  I also like the Young Authors project.]]></note>
+            <author><![CDATA[Drew Garfield ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you Ms. Johnson - I had fun drumming and doing /Rwatercolor art projects.  /R/RI liked the Genius Hour /Rand book reviews.]]></note>
+            <author><![CDATA[Kenyon Jones ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Your are a great /R3rd grade teacher!]]></note>
+            <author><![CDATA[Sage Johnson ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Ms. Johnson -/RI liked doing all the art! /R/RMy favorite project was making the gourd bird.]]></note>
+            <author><![CDATA[Cole Tyzzer ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you Ms. Johnson!/R/RI liked all of the fun field trips we got to go on.  /R/RThe Maidu Field Day was /Rmy favorite!]]></note>
+            <author><![CDATA[Zane Gray ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Ms. Johnson:/R/RI really liked all of /Rthe field trips we went on./R/RThank you SO MUCH!]]></note>
+            <author><![CDATA[Rosalie ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Ms. Johnson, you are THE BEST 3rd grade teacher!]]></note>
+            <author><![CDATA[Grant Towne ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Ms. J:  Thank you for being our 3rd grade teacher.  You are a wonderful teacher and I learned a lot.  You really helped me.]]></note>
+            <author><![CDATA[Victoria ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You are a nice teacher.]]></note>
+            <author><![CDATA[Lucy ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you Ms. Johnson!]]></note>
+            <author><![CDATA[Elijah and Julian]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

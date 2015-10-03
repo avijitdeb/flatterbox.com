@@ -1,0 +1,167 @@
+<?php
+
+/* Template Name: FB Step 3 Options */
+get_header(); ?>
+<?php
+
+global $minusDeliveryDays, $minusSubmitDays, $minusApproveDays;
+
+
+// Write step 2 pertinent data to session
+if( (!isset($_SESSION["boxtype"]) && $_GET["boxtype"]) ) : $_SESSION["boxtype"] = $_GET["boxtype"]; endif;
+if( (!isset($_SESSION["boxprice"]) && $_GET["boxprice"]) ) : $_SESSION["boxprice"] = $_GET["boxprice"]; endif;
+if( (!isset($_SESSION["boxcolor"]) && $_GET["boxcolor"]) ) : $_SESSION["boxcolor"] = $_GET["boxcolor"]; endif;
+if( (!isset($_SESSION["cardcolor"]) && $_GET["cardcolor"]) ) : $_SESSION["cardcolor"] = $_GET["cardcolor"]; endif;
+if( (!isset($_SESSION["cardquantity"]) && $_GET["cardquantity"]) ) : $_SESSION["cardquantity"] = $_GET["cardquantity"]; endif;
+if( (!isset($_SESSION["cardquantityprice"]) && $_GET["cardquantityprice"]) ) : $_SESSION["cardquantityprice"] = $_GET["cardquantityprice"]; endif;
+if( (!isset($_SESSION["totalprice"]) && $_GET["totalprice"]) ) : $_SESSION["totalprice"] = $_GET["totalprice"]; endif;
+if( (!isset($_SESSION["cardcolorimg"]) && $_GET["cardcolorimg"]) ) : $_SESSION["cardcolorimg"] = $_GET["cardcolorimg"]; endif;
+if( (!isset($_SESSION["boxtypeimg"]) && $_GET["boxtypeimg"]) ) : $_SESSION["boxtypeimg"] = $_GET["boxtypeimg"]; endif;
+
+?>
+<?php $page_background_photo = getOccasionBGImg($_SESSION["occasion_id"]); ?>
+<?php if ( have_posts() ) : while ( have_posts() ) : the_post(); ?>
+<main id="main" role="main" style="background-image: url('<?php echo get_template_directory_uri().'/images/'.$page_background_photo; ?>');>">
+	<div class="container">
+		<div class="heading">
+			<h1><?php the_field('page_title'); ?></h1>
+		</div>
+		<ul id="status-bar">
+			<li id="step1" class="done"><a href="<?php echo do_shortcode('[site_url]'); ?>/create/"><span>Choose Occasion</span></a></li>
+			<li id="step2" class="done"><a href="<?php echo do_shortcode('[site_url]'); ?>/choose-card/"><span>Design Flatterbox</span></a></li>
+			<li id="step3" class="active"><a><span>Customize Message</span></a></li>
+			<li id="step4"><a><span>Invite Flatterers</span></a></li>
+			<li id="step5" class="last"><a><span>Confirm</span></a></li>
+		</ul>
+		<div class="box">
+			<div class="direction options">
+			<?php the_content(); ?>
+			<?php
+			//Find out the occasion from the session variable and output that occasion specific gravity form
+
+			switch ($_SESSION["occasion_id"]) {
+
+				case 3: // Birthday
+					gravity_form(6, $display_title=false, $display_description=false, $display_inactive=false, $field_values=null, $ajax=false, $tabindex);
+					$submitid = "#gform_submit_button_6";
+					$iForm = 6;
+					break;
+
+				case 4: // Funeral
+					gravity_form(7, $display_title=false, $display_description=false, $display_inactive=false, $field_values=null, $ajax=false, $tabindex);
+					$submitid = "#gform_submit_button_7";
+					$iForm = 7;
+					break;
+
+				case 5: // Wedding
+					gravity_form(8, $display_title=false, $display_description=false, $display_inactive=false, $field_values=null, $ajax=false, $tabindex);
+					$submitid = "#gform_submit_button_8";
+					$iForm = 8;
+					break;
+
+				case 6: // Engagement
+					gravity_form(9, $display_title=false, $display_description=false, $display_inactive=false, $field_values=null, $ajax=false, $tabindex);
+					$submitid = "#gform_submit_button_9";
+					$iForm = 9;
+					break;
+
+				case 7: // Newborn
+					gravity_form(10, $display_title=false, $display_description=false, $display_inactive=false, $field_values=null, $ajax=false, $tabindex);
+					$submitid = "#gform_submit_button_10";
+					$iForm = 10;
+					break;
+
+				case 8: // Anniversary
+					gravity_form(1, $display_title=false, $display_description=false, $display_inactive=false, $field_values=null, $ajax=false, $tabindex);
+					$submitid = "#gform_submit_button_1";
+					$iForm = 1;
+					break;
+
+				case 9: // Bar Mitzvah
+					gravity_form(11, $display_title=false, $display_description=false, $display_inactive=false, $field_values=null, $ajax=false, $tabindex);
+					$submitid = "#gform_submit_button_11";
+					$iForm = 11;
+					break;
+
+				case 10: // Get Well
+					gravity_form(12, $display_title=false, $display_description=false, $display_inactive=false, $field_values=null, $ajax=false, $tabindex);
+					$submitid = "#gform_submit_button_12";
+					$iForm = 12;
+					break;
+			}
+			?>
+
+
+
+			</div>
+			<div class="styles previewstyles">
+				<div class="hold">
+					<h2>Card Style</h2>
+					<div class="choose">
+						<div class="selected"><img src="<?php echo $_SESSION["cardcolorimg"]; ?>" /></div>
+					</div>
+				</div>
+				<!--
+				<div class="hold add">
+					<h2>Paper Style</h2>
+					<div class="choose">
+						<div class="selected"><span>LINEN</span></div>
+					</div>
+				</div>
+				-->
+				<div class="hold add">
+					<h2>Box Style</h2>
+					<div class="choose">
+						<div class="selected"><img src="<?php echo $_SESSION["boxtypeimg"]; ?>" /></div>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="control-bar bottom">
+			<a href="<?php echo do_shortcode('[site_url]'); ?>/choose-card/" class="back">Back to Design Flatterbox</a>
+			<a href="javascript:;" class="btn save" onclick="jQuery( '<?php echo $submitid; ?>' ).trigger( 'click' );">Next</a>
+		</div>
+	</div>
+</main>
+<?php endwhile; endif; ?>
+<script type="text/javascript">
+	jQuery( document ).ready(function($) {
+	    $('#input_<?php echo $iForm; ?>_2').bind("change",updateDates);
+	});
+	function updateDates() {
+		d = new Date(jQuery('#input_<?php echo $iForm; ?>_2').val());
+		delivery = new Date(d);
+		delivery.setDate(delivery.getDate() - parseInt(<?php echo $minusDeliveryDays; ?>));
+		project = new Date(delivery);
+		project.setDate(project.getDate() - parseInt(<?php echo $minusSubmitDays; ?>));
+		sentiment = new Date(project);
+		sentiment.setDate(sentiment.getDate() - parseInt(<?php echo $minusApproveDays; ?>));
+
+		dm = delivery.getMonth() + 1;
+		pm = project.getMonth() + 1;
+		sm = sentiment.getMonth() + 1;
+
+		jQuery('#input_<?php echo $iForm; ?>_18').val(dm + '/'+ delivery.getDate() + '/'+ delivery.getFullYear());
+		jQuery('#input_<?php echo $iForm; ?>_19').val(pm + '/'+ project.getDate() + '/'+ project.getFullYear());
+		jQuery('#input_<?php echo $iForm; ?>_20').val(sm + '/'+ sentiment.getDate() + '/'+ sentiment.getFullYear());
+	}
+</script>
+
+<?php
+	if(isset($_SESSION["new_flatterbox_id"]))
+	{
+	$populatePID = $_SESSION["new_flatterbox_id"];
+?>
+
+<script>
+	jQuery("#input_<?php echo $iForm; ?>_1").val('<?php the_field('who_is_this_for',$populatePID); ?>');
+	jQuery("#input_<?php echo $iForm; ?>_7 input[value=<?php if(get_field('allow_to_see_eachother',$populatePID)){ the_field('allow_to_see_eachother',$populatePID); } else { echo "0"; } ?>]").prop("checked", true);
+	jQuery("#input_<?php echo $iForm; ?>_8 input[value=<?php if(get_field('allow_to_share',$populatePID)){ the_field('allow_to_share',$populatePID); } else { echo "0"; } ?>]").prop("checked", true);
+	jQuery("#input_<?php echo $iForm; ?>_9 input[value=<?php if(get_field('allow_profanity',$populatePID)){ the_field('allow_profanity',$populatePID); } else { echo "0"; } ?>]").prop("checked", true);
+	jQuery("#input_<?php echo $iForm; ?>_10 input[value=<?php the_field('notification_frequency',$populatePID); ?>]").prop("checked", true);
+</script>
+
+<?php
+	}
+?>
+<?php get_footer(); ?>

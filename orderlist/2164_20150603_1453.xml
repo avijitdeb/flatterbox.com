@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2164-001</orderId>
+    <orderDate><![CDATA[6/3/15]]></orderDate>
+    <shipTo><![CDATA[Patti Skiljan]]></shipTo>
+    <shipAdd1><![CDATA[1 S. Memorial Drive]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[St. Louis]]></shipCity>
+    <shipState><![CDATA[MO]]></shipState>
+    <shipZip><![CDATA[63102]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[sky-blue]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Our Dad Dave]]></heading>
+            <to><![CDATA[David]]></to>
+            <from><![CDATA[Love, Your Awesome Kids]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[I've always respected the manner in which you comport yourself when you coach your son and mine on their little league baseball team. You are an excellent role model for our sons.]]></note>
+            <author><![CDATA[Dave Plastino]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I can't begin to express how much you mean to me.  You know how to lift me up when I'm down, raise my confidence with just a few words and your wisdom had kept me from making some pretty poor decisions in my life.  I love you with all my heart.]]></note>
+            <author><![CDATA[Kaitlyn]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Not only are you my dad, you're my best friend.  You have been the best coach and I'm so proud every time I hear my friends say you're the best coach, because you are.  I love you!]]></note>
+            <author><![CDATA[David, Jr.]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I thought you would be a great dad when I married you and I knew it the moment you held our first born.  You've been everything I could have imagined in a husband and so much more.  You're the glue that holds us together. ]]></note>
+            <author><![CDATA[Jessica]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I know you like to call yourself the "head of the caterpillar" and we always laugh and pretend you aren't, but you really are.  Thanks for protecting us and guiding us through life.  I don't know where I'd be without you.  I love you, Daddy.]]></note>
+            <author><![CDATA[Audrey ]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You ever see the letters, "WWJD".  I like to replace the J with a D and say, "WWDD - what would Dave do" - ha!  You're the kind of dad that makes the rest of us look bad and we all look up to.  Happy Father's Day, my friend.]]></note>
+            <author><![CDATA[Gary]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My wife thinks you're my hottest friend, so let's make sure we keep the hugs to a minimum! ]]></note>
+            <author><![CDATA[Joey]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[If there is one person I think my husband would leave me for... it's you!  The bromance you two have going is ridiculous!  I'm thrilled to be able to call you my friend.  And thanks for keeping Gary out of trouble.  It takes the pressure off me. ]]></note>
+            <author><![CDATA[Megan]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[D - Dynamic (you could talk to a wall and make it interesting)/RA - Awesome /RV - Victorious (always, which pisses me off)/RE - Exceptional dad and brother]]></note>
+            <author><![CDATA[Steven ]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My heart bursts with pride when I see the father you have become.  Your patience and understanding shows your maturity while you're playful nature keeps laughter in the house.  I may be your dad, but you're my role model. ]]></note>
+            <author><![CDATA[I love you, Dad]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I tried to raise you to be patient, kind, compassionate and giving.  I didn't think I'd hit on all four, but somehow I did.  Your generous spirit is your greatest gift and you use it wisely.  What a wonderful combination.  I love you with all my heart!]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[David, you're obvioulsy the reason the statue was created.]]></note>
+            <author><![CDATA[JG]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dave is a great friend and amazing father. His patience coaching baseball is legendary ...it has to be coaching my kids!]]></note>
+            <author><![CDATA[Ryan H.]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA["A man never stands as tall as when he kneels to help a child." /R/R~ Knights of Pythagoras]]></note>
+            <author><![CDATA[Bob]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You always make time for your kids...no matter how busy or demanding your career can be.  Your kids are very lucky, you are a great dad!]]></note>
+            <author><![CDATA[Linda and Matt]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Father, Philanthropist, Teacher, Husband. Dave is each and every one of these things. That is why he is so dearly loved.]]></note>
+            <author><![CDATA[Sammy]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sky-blue]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

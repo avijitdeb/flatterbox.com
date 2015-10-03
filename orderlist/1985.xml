@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>1985-001</orderId>
+    <orderDate><![CDATA[5/6/15]]></orderDate>
+    <shipTo><![CDATA[Krysta Kemp]]></shipTo>
+    <shipAdd1><![CDATA[150 Donna Ave]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Morgantown]]></shipCity>
+    <shipState><![CDATA[WV]]></shipState>
+    <shipZip><![CDATA[26508]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[navy]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Never Stop Dreaming]]></heading>
+            <to><![CDATA[Krysta Beth Kemp]]></to>
+            <from><![CDATA[With Love, Mom and Dad]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[We are so proud of you. Being humble and thankful, you didn't let anything get in the way of your dreams. With your smile, personality and good attitude toward everything, you became our inspiration. We will always be in the stands cheering on our favorite cheerleader! ]]></note>
+            <author><![CDATA[Love, Mom and Dad]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always do your best. What you plant now, you will harvest later.]]></note>
+            <author><![CDATA[Mom and Dad]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Some things can be a blessing in disguise. You just gotta dig through the disguise to find your blessing.]]></note>
+            <author><![CDATA[Mom ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Life can turn on a dime. Hang on and don't get thrown off! ]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Believe and know in your heart that everything will be alright. ]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You matter...everyone matters.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't worry, when you find God you don't have to change your life, He changes it for you.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It does not matter how slow you go, as long as you do not stop.]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Know that we are always here for you.]]></note>
+            <author><![CDATA[Mom and Dad]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Remember where ever you go, there you are. Lol]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Brandon Thomas Kemp and Krysta Beth Kemp: Our greatest inventions ]]></note>
+            <author><![CDATA[Mom and Dad]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You are beautiful inside and out.]]></note>
+            <author><![CDATA[Mom and Dad]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Keep looking up, that's where you will find your strength. ]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always reach for the stars! ]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I say brrr it's cold in here, must be an OT in the atmosphere! ]]></note>
+            <author><![CDATA[Mom and Dad]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Falling is not failing...getting back up is the achievement.]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Wake up ready to take on the world...or the cats. ]]></note>
+            <author><![CDATA[Lucy Lu]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Friends may come and go, but true friends are always there.]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Never give up your place on the couch.]]></note>
+            <author><![CDATA[Samantha ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Sometimes the only thing you can do is pray.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I have a huge heart...somewhere.]]></note>
+            <author><![CDATA[Chellie ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The grass isn't always greener on the other side...it could be AstroTurf.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When you are upset, take a deep breath and count to 10...or 100.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[A guide to happiness: eat, sleep, poop, and play.]]></note>
+            <author><![CDATA[Lucy Lu]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always keep calm...unless your food bowl is empty.]]></note>
+            <author><![CDATA[Samantha]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You can never go into the bathroom alone...I must always be with you.]]></note>
+            <author><![CDATA[Chellie]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't take it to heart if someone does not have time for you...they are the one missing out.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Stay humble and pray for people. ]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[KBK gonna graduate and be an OT today. ]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mind over matter...if you don't mind, it don't matter.]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I hope you continue to seek happiness in your adventures of life.]]></note>
+            <author><![CDATA[Brandon]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be sure to dodge flying umbrellas. ]]></note>
+            <author><![CDATA[Brandon]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't let mistakes from the past catch up with you...keep moving forward.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Chocolate and wine are magic...they somehow make the day better.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Believe in yourself...always.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Whenever you are bored with nothing to do, there is always Pinterest.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Learn to love yourself.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Some people are like leaves on a tree, some are like the branches, and some are the roots. You have to learn to know the difference.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You have the heart of a champion and you are unstoppable. ]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Whatever does not break you...let it make you stronger.]]></note>
+            <author><![CDATA[Mom and Dad]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Never stop praying. Let your prayers give you peace and strength and guidance. ]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Let the things that are out of your control just roll off your back. ]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Life always gives you a second chance. It is called tomorrow.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Live...Laugh...Love.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Only you can decide who enters your life and who is allowed to stay there. Choose wisely. ]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Once A Mountaineer...Always A Mountaineer.]]></note>
+            <author><![CDATA[Krysta ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[If Cheerleading was easy, everyone would be doing it.]]></note>
+            <author><![CDATA[Krysta]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Keep your heart full of love and it may just spill out on everyone else.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always be yourself and don't change for anyone. You will always be great. God don't make mistakes.]]></note>
+            <author><![CDATA[Mom and Dad]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

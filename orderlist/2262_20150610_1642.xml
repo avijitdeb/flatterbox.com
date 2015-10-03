@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2262-001</orderId>
+    <orderDate><![CDATA[6/10/15]]></orderDate>
+    <shipTo><![CDATA[Laurie Salita]]></shipTo>
+    <shipAdd1><![CDATA[823 Forest ln ]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Malvern ]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[19355]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[sea-foam]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Loving you for the next 50 yrs]]></heading>
+            <to><![CDATA[Arionne Achackzad]]></to>
+            <from><![CDATA[B-day wishes, Your Friends & Family]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[I love your unique and cherished ability to make any and every "place" feel like "home."]]></note>
+            <author><![CDATA[Love You, Laurie]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Love Ari's Caring Soul]]></note>
+            <author><![CDATA[Mitchell's]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[What I love most about mommy is she's really fun because she skis, paddle boards, swims and jumps off waterfalls. /R-I also love that she cares for and loves everyone. /R]]></note>
+            <author><![CDATA[Jolene]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[What I love most about mommy is she's she super funny and enjoyable to be around. /R- I also love that she is my best friend and is always there when I need her and listens to my problems. /R]]></note>
+            <author><![CDATA[Maddie]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Ari, you are my best friend and the love of my life.  I am who I am because of you, and my life would not be complete without you.  ]]></note>
+            <author><![CDATA[I love you, Abe]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We love your smile, your wit, how you execute fun ideas and your willingness to expand your family for us.]]></note>
+            <author><![CDATA[The Salitas]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I can't believe we've known each other for only a few years.  Feels like we've been friends forever.  Our girls love each other, our hubbies love each other and we couldn't have more fun together...it just doesn't get any better than that!/RWho Loves Ya!]]></note>
+            <author><![CDATA[Joe Julie & Gracie]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Now let's do a shot to celebrate your 50th!]]></note>
+            <author><![CDATA[Your partner in crime, Julie]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When you just click with someone, you click with them. I'm so lucky to have met such a loving, caring, beautiful person. Ari, I value your friendship and thoroughly enjoy our conversations whether they are serious or funny. Love you! Happy Birthday from me and the crew!]]></note>
+            <author><![CDATA[Jenn, Mike & The Boys]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA["We didn't realize we were making memories, we just knew we were having fun!" ]]></note>
+            <author><![CDATA[-The Smedleys]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Once or maybe twice in a lifetime you meet someone who can read your soul, understand your fears and celebrate your happinness./RThank you for the honor of being my friend.]]></note>
+            <author><![CDATA[Diana]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[ Thank you for helping me find a sport that I really love and that I am good at.  And thank you for being like a mom to me when my mom is not around!]]></note>
+            <author><![CDATA[Daniela]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We love your family so much! and we can't imagine having better friends.  Our girls are like sisters, our husbands love each other and our younger kids will eventually get married!!/RHappy birthday dear friend!/R]]></note>
+            <author><![CDATA[The Uribes]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

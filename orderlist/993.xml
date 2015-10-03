@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+    <orderId>993-001</orderId>
+    <orderDate><![CDATA[2/21/15]]></orderDate>
+    <shipTo><![CDATA[PA]]></shipTo>
+    <shipAdd1><![CDATA[]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[]]></shipZip>
+    <giftWrapped><![CDATA[yes/no]]></giftWrapped>
+    <shipVia>NotAvailable</shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[234_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+    </box>
+    <orderId>993-002</orderId>
+    <orderDate><![CDATA[2/21/15]]></orderDate>
+    <shipTo><![CDATA[PA]]></shipTo>
+    <shipAdd1><![CDATA[]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[]]></shipZip>
+    <giftWrapped><![CDATA[yes/no]]></giftWrapped>
+    <shipVia>NotAvailable</shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[fbcustom_100]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+    </box>
+</order>

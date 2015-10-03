@@ -1,0 +1,773 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2326-001</orderId>
+    <orderDate><![CDATA[6/16/15]]></orderDate>
+    <shipTo><![CDATA[Lauren Wagner]]></shipTo>
+    <shipAdd1><![CDATA[840 East Green Street]]></shipAdd1>
+    <shipAdd2><![CDATA[Unit 412]]></shipAdd2>
+    <shipCity><![CDATA[Pasadena]]></shipCity>
+    <shipState><![CDATA[CA]]></shipState>
+    <shipZip><![CDATA[91101]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_110]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[navy]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Here's to 43 Year's of LIVING!]]></heading>
+            <to><![CDATA[Frank]]></to>
+            <from><![CDATA[Love, your BIGGEST Fans]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[That Christmas you dressed me up like a Mexican and told me we were headed to Cancun!]]></note>
+            <author><![CDATA[Lauren]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Crashing at the HoJo for 36 days and nights.]]></note>
+            <author><![CDATA[Lauren]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Getting engaged at the top of Half Dome!]]></note>
+            <author><![CDATA[Lauren]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Saturday morning beach bike rides.]]></note>
+            <author><![CDATA[Lauren]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mack The Knife karaoke!]]></note>
+            <author><![CDATA[Lauren]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The first time you met Gerble :)]]></note>
+            <author><![CDATA[Lauren]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The wild and crazy adventures of Ron Burgundy and Barbie Halloween shenanigans.]]></note>
+            <author><![CDATA[Lauren]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The creation of Milking Bad.]]></note>
+            <author><![CDATA[Lauren]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Renting Precious 6 times at $16.99 a pop.]]></note>
+            <author><![CDATA[Lauren]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My forehead will never be the same....]]></note>
+            <author><![CDATA[Carolyn]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Rio]]></note>
+            <author><![CDATA[Carolyn]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Thriller" on the back of the Maple Cookie]]></note>
+            <author><![CDATA[Carolyn]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Go EAGLES]]></note>
+            <author><![CDATA[Scott]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I will never forget staring at a Grizzly Bear coming towards us and whispering to you: /R "Should we be worried, Frank?"   /RYou answered, "We'll be fine, just stay all together..."]]></note>
+            <author><![CDATA[XOXOXOXOXOXOXOXO]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I SO enjoyed having Lauren, you and your Dad for holiday meals.... especially Easter.  Sending my love and wishes for your continued success and happiness.]]></note>
+            <author><![CDATA[Love from G-Ma Gaeta]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[No matter how old you get you'll always be Frank the Chipmunk and the person who got Alex addicted to Far Cry 3]]></note>
+            <author><![CDATA[Marissa and Alex]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When you give me steak when Mamas isn't looking :)]]></note>
+            <author><![CDATA[Gerble]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Every night when you come home from work...and waking you up on Saturday mornings...it's a tie :)]]></note>
+            <author><![CDATA[Jackson Brown]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dippy tango at Buddakan with Sammy!]]></note>
+            <author><![CDATA[Lauren]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There are way too many to mention. But one that sticks out in my mind above all was the infamous Island in the sun party and losing my shoes on 28th street! That was one hell of a party!]]></note>
+            <author><![CDATA[Steve Morrison]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Teeth!!!"]]></note>
+            <author><![CDATA[Steve Morrison]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["It's been great hanging with you big guy and seeing you get your salsa on!! You've got a great personality and a great sense of humor. All the best on your birthday!" /R/RP.S. Yes, I forgive you for trying to kill me on the cycle :)]]></note>
+            <author><![CDATA[Rodney Walker]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You took me aside and told me how proud you were that I started to conquer my fear of heights AND that I survived my 1st family vacation! Someone who told me you CAN conquer your fears one step at a time. Here's to many more life changing, family vacation moments!!]]></note>
+            <author><![CDATA[Virginia]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The day I met you at your going away party at Sandi's and you the OTB bumper msgnet!]]></note>
+            <author><![CDATA[Tricia Cosgrove ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'll never forget your kindness when I went through cancer. The flowers were beautiful!]]></note>
+            <author><![CDATA[Rhondi]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Your positive outlook and love for life are contagious. Keep spreading the good in the world!]]></note>
+            <author><![CDATA[Rhondi ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The time you wanted to take Rusty for a walk & he took you for one.]]></note>
+            <author><![CDATA[Rhondi]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[the Attitude of Gratitude experiences... top of the world vibrations- Happy Birthday bruthahhh !! ]]></note>
+            <author><![CDATA[tolcher ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The night we all celebrated your move to California at the Cellar will always be a fond memory of mine. The happiness and positivity was palpable, and genuinely inspiring. You guys are such a great couple. I wish you all of the best in this world :) Happy Birthday!]]></note>
+            <author><![CDATA[Kristen Wittkowski]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[How do I choose from so many memories. The time we coined the phrase "Nardiac arrest" to being present for the infamous "Frank, one day you're going to wake up on a respirator and you're not going to know why!!" All are my fav. Love ya Frank. Happy birthday. ]]></note>
+            <author><![CDATA[Jazzy Golden]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The best time hanging out with you at Nardigras! Drinks galore, good food, and great people. Can't forget about drinking and laughing with you during and after our wedding. Happy birthday dude. Can't wait for more memories. ]]></note>
+            <author><![CDATA[Shawn Gordley ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My hand still hurts from the hardest high five in history that took place on the streets of Belgium. /R]]></note>
+            <author><![CDATA[Susan]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One word - portapotty! So much fun hanging out at the jetty and cramming 3 of us into that thing!]]></note>
+            <author><![CDATA[Jax]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Create every day]]></note>
+            <author><![CDATA[Jax]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You have inspired me for many years. ]]></note>
+            <author><![CDATA[Darren]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[A special moment I think we shared was when you took Kayla and I to see your job, and I was amazed with what you did. ]]></note>
+            <author><![CDATA[Gabriella Veremeychik ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The day you hugged me goodby one year ago to move on to a new adventure.I was so proud.]]></note>
+            <author><![CDATA[Mom (Lois as you call me)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Discussing the Law of Attraction, over cocktails at the Laguna Rum Bar; Intelligence finding it's way into a sea of distraction & ignorance!! No monkey see, monkey do; just rising above the fray, every chance he gets! Bravo Frank; Bravo! Happy Birthday Friend! Enjoy! <3]]></note>
+            <author><![CDATA[Stephen T. Weeks]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hey Frank! Happy birthday. I really enjoy our awesome conversations about life, business, and tech. I hope we have many more in the future! ]]></note>
+            <author><![CDATA[Zach Schleien]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[  You are an inspiring & courageous person with an uplifting presence. Your unwavering determination & conviction to shine is most admirable. Your noble heart has touched others deeper than you know. Especially your story telling ability which goes unmatched! LOVE YOU!]]></note>
+            <author><![CDATA[Coley]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[PETE:    Frank, you're not "stuck"...... you're "temporarily lodged."           -Rat's Nest Cave]]></note>
+            <author><![CDATA[Peter Wagner]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[G-Ma Wagner:    It was surprising to see you hanging 100 feet in the air, with your feet dangling.... and a worried look on your face.  Thank Goodness the guide agreed to come save you.   ZIP AWAAAAAY]]></note>
+            <author><![CDATA[G-Ma Wagner]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[G-Ma Wagner:  Remember the night we walked into the restaurant with a case of beer?  The stories you told that night were over the top.... henseforth - you're a BULLSH*&^%R!  ]]></note>
+            <author><![CDATA[G-Ma Wagner]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hey, remember that time you shit on a rock?]]></note>
+            <author><![CDATA[Yosemite Wildlife]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["WHO'S GONNA CLEAN THAT UP?"]]></note>
+            <author><![CDATA[Yosemite Park Ranger]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Duck in a Jar?]]></note>
+            <author><![CDATA[Anonymous]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Powder Hound.....Honey Badger..... and beyond.....]]></note>
+            <author><![CDATA[Beer Tasters for Vacation]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I can't believe I forgot my F&%$*ing keys....]]></note>
+            <author><![CDATA[The Turkish Eye]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for saving my life when I fell through the Glacier, we all know Lauren wasn't interested....]]></note>
+            <author><![CDATA[Keith]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Cards Against Humanity.  Nuff said.]]></note>
+            <author><![CDATA[Virginia]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Milking BAD, because nobody likes shitty milk.]]></note>
+            <author><![CDATA[Wagner Farms]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We still remember having to pull off the side of the road in Alaska to let the van air out, do you?]]></note>
+            <author><![CDATA[The Wagner Family]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Remember being stuck in the middle of yet another "line" in Alaska - the hand tram outside of Alyeska Hotel.]]></note>
+            <author><![CDATA[Wagner Vacation Crew]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[IF A BEAR ATTACKS:/RFight a black bear.  If a grizzly bear attacks, play dead.  If it starts to eat you, fight back.]]></note>
+            <author><![CDATA[That's funnier than funny -- Pete]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Man VS Food -- a never ending story.]]></note>
+            <author><![CDATA[The Wagner Vacation Crew]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'LL RAY RICE YOU! ]]></note>
+            <author><![CDATA[Wagner Family]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[THE SHAFT:   Coffee liqueur, vodka, espresso and milk on the rocks.  Followed by the locals deal from POPPY.]]></note>
+            <author><![CDATA[the Lake Louise Adventurers]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[DING DING]]></note>
+            <author><![CDATA[Tyrone]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Do you think your ancestry.com profile states everyone has shit themselves in public? So far we can prove 2 for 2 on the blood line. ]]></note>
+            <author><![CDATA[Virginia- Yeah that happened]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My plumbing is a LOT older than all your plumbing.   MAN DOWN.]]></note>
+            <author><![CDATA[confuscious says]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Everyday with you buddy. Life is better when we're together :)]]></note>
+            <author><![CDATA[The Mamas]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Nardi Gras 2011 Covered in filth @ Dave Matthews Band Caravan  Bader Field Atlantic City, NJ /Ror/RFirefly 2012 The Killers set the tone for a party bus full of drunk white people to stop in Camden, NJ for natural fuel to get us home.../R/RBoth Epic... ]]></note>
+            <author><![CDATA[Karoly's]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[So many good times in the little time we have known Frank. He is such a gifted story teller-- I either end up wildly amused or laughing my ass off! ]]></note>
+            <author><![CDATA[Joan ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Happy Birthday, Frank!!! We are so sad we are missing the epic Nardi Gras!!!]]></note>
+            <author><![CDATA[Joan]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Frankie, would you look at this animal!"/R"Hi Honey. How was your day?"]]></note>
+            <author><![CDATA[Brian Kelly]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Summer vacations in Wildwood with you and Sammy. ]]></note>
+            <author><![CDATA[B-Rock]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Who's drinking milk?]]></note>
+            <author><![CDATA[B-Rock]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We really appreciate the friendship you and Lauren have forged with Tiffany. It is really special and something to treasure. My memorable moment is the Attitude of Gratitude party in Brig. The music, the surprise all awesome. You are top notch Frank, We are Big fans!!!]]></note>
+            <author><![CDATA[David & Marta]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[From Conversations with God to the Law of Attraction. Deep conversations and spiritual growth. ]]></note>
+            <author><![CDATA[B-Rock]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'll never forget those skittles...(The skittle incident) ]]></note>
+            <author><![CDATA[Kayla ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["KAYLA! You got Pop-pop all wet!" ]]></note>
+            <author><![CDATA[Kay]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Be the place you seek" ]]></note>
+            <author><![CDATA[Anonymous]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When you be like that lion!!!!]]></note>
+            <author><![CDATA[Mateusz]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Sprang Break, Sprang Break, Fo-evaaaaaaahhh!]]></note>
+            <author><![CDATA[Your favorite neighbor.]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Remember that time when we were sitting around for dinner at a 20s and 30s Meetup Group, and somebody started talking about how older people were trying to infiltrate the group?]]></note>
+            <author><![CDATA[J-Dogg]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[when I first meet frank, he was moving. I asked him where are we taking the trash? He said idk yet lol. So we found someone's dumpster and that was that haha. Every since its been an adventure with him.  Happy birthday dude miss ya. Can't wait to catch up soon. ]]></note>
+            <author><![CDATA[Pula (macgyer) ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[So many great moments with you Frank but I guess the one that stands out is yours and Lauren's going away party at my house.  It was a wonderful day with so many great people joining together to celebrate your time in Brigantine and to wish you the best future. HB Baby]]></note>
+            <author><![CDATA[Love Sandy P.]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Sharing the same love for Batman and filmscores.  ]]></note>
+            <author><![CDATA[Jillian Randsdorp ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[AUTHORIZE YOURSELF /RTO BE GREAT!/R/Rnotice...dissociate.../Rtranscend...reintegrate/R/RBe true to your core values./R/R*do your daily boxes*/R       ]]></note>
+            <author><![CDATA[heartfelt thanks,  Mar]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[That time we wore Batman masks while playing filmscores.  ]]></note>
+            <author><![CDATA[Jillian (Catwoman) ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Batman. ]]></note>
+            <author><![CDATA[Jillian Randsdorp ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[That time I thought you were like 28, but in reality you were 40! ]]></note>
+            <author><![CDATA[Jillian Randsdorp ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["It's not who we are underneath, but what we do that defines us. " - Batman]]></note>
+            <author><![CDATA[Jillian Randsdorp ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The looks we got during work when we would talk filmscores. ]]></note>
+            <author><![CDATA[Jillian Randsdorp ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[HEY BUDDY! ]]></note>
+            <author><![CDATA[Jillian Randsdorp ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I have spent some memorable offsite time with Frank and it has always been a pleasure. Our recent leadership trip to Arrowhead was full of hilarity, old fashioneds, board games, and a glimpse into the passion Frank brings to the work he does. Frank is always genuine! ]]></note>
+            <author><![CDATA[Kevin Lewis]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[That time I served you at Starbucks. ]]></note>
+            <author><![CDATA[Jillian Randsdorp ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Your enthusiasm for life is contagious!! Watching the EAGLES games at your house was always fun ;)]]></note>
+            <author><![CDATA[Nina]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Yea Lauren has me on some kind of fiber diet" ]]></note>
+            <author><![CDATA[Nina]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I have so many great memories with Frank at the Avanti conferences. From the rat story in New Orleans to the huge pizza in San Diego and everything in between. Also the great times in Chicago at the piano bar with Lauren. So glad our paths crossed. Happy birthday!]]></note>
+            <author><![CDATA[Karen Meyers]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There's too many special moments but I will list as many as I can, Gypsy Bar, Laguna, Cigars in the basement, Nardi Gras, Island in the Sun, Sunday Funday @ Laguna, The Office Marathons, Bayfest, BeerFest followed by Angelo's & of course, the NFL Draft - HBD Buddy!!]]></note>
+            <author><![CDATA[George "Jorge" Rodgers]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Is that your car?! Have you looked inside it yet?"]]></note>
+            <author><![CDATA[The Brig PoPo]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Our sunshiney walk across the Brigantine bridge, shortly followed by an epic journey to our new So Cal home. So grateful to be on this WILD and CRAZY and FUN adventure with my very favorite person. "It's a beautiful day, don't let it get away." Everyday! Mama Love :*]]></note>
+            <author><![CDATA[Wagzes]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Remember when we were building the Audry plant in my mothers garage with Joey. He was pulling the cotton off of the foam cushions.../RThat moment he realized? Lol!!!!!!!!]]></note>
+            <author><![CDATA[Darren]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When you and the Mamas smuggled me into the NYC theater to see Elf. SANTA!!! I KNOW HIM! I KNOW HIM!]]></note>
+            <author><![CDATA[Gerble]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Proud to have you as a son. You know one's true character by their friends, whom all talk highly of you because of your caring personality. Happy Birthday and thanks for making me more than proud! GO GIANTS!!!]]></note>
+            <author><![CDATA[Sammy]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Playoffs? You kiddin me!?]]></note>
+            <author><![CDATA[PLAYOFFS?!?]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I will never forget how you ran through/Rsticker bushes to get Peg. If it wasn't for you I wouldn't have Peg]]></note>
+            <author><![CDATA[ Love Aunt DD]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[NFC Championship game, San Fran vs NY and getting to share 2 Super Bowl victories with you.]]></note>
+            <author><![CDATA[Brian Kelly]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Word of the Day:/R/R"COMIN' AH YEAAH HAAAH"!!!/R(adjective)/R/R1. An utterance used to describe complete triumph.]]></note>
+            <author><![CDATA[Coley]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You're an inspiration and I admire your positivity and outlook on life, you're a go~getter and I wish you nothing but great success and happiness ~ much love]]></note>
+            <author><![CDATA[Heather]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We had lots of laughs in our places. Remember the first time I hung out with you and Brooklyn Brian. It was at fire Waters, there was a sexy Santa contest and Brian screams, " show me your...!" You didnt know how I was going to react (or anyone)! Your face was priceless]]></note>
+            <author><![CDATA[Betz]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Still and forever will have that super girl poster you made me ;) ]]></note>
+            <author><![CDATA[Kayla (a.k.a super girl)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There are so many treasured moments... You taught me to ride a bike without training wheels, stood up for me at my Confirmation, taken me to many awesome concerts, and are the God Father to my daughter.  You are truly and inspiration to me:) ]]></note>
+            <author><![CDATA[Janine ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Taking me to the beach]]></note>
+            <author><![CDATA[Owen ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Taking me to where the weather is warm ]]></note>
+            <author><![CDATA[Zoey]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Celebrate we will... For life is short but sweet for certain. Remembering all of the desk tapping, DMB jamming, funny stories and good laughs we had through the years! Good times for sure. Cheers, Nardi, and here's to many more! Eat, drink, and be merry for sure.]]></note>
+            <author><![CDATA[Kristy Migone]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Talkin' all Southern, imitating Timmy Goad.]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Fantasy Football... Can't trust the face!]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Visiting Uncle Frank & Aunt Lauren was the best vacation EVER!]]></note>
+            <author><![CDATA[Nathan & Bethany]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Client meetings. Killin' it! Bringin' home the hardware. Wearing blue in Philly. Gold! High fives all around. When husbands no longer find their wives desirable... WTF?? You can't make this shit up!]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Critiquing the daily Express fashion show. Flamingo. The rotation. "Garanimal" solid color shirts with perfectly coordinated patterned socks and pre-tied loose ties... all on a hanger, ready-to-go, with just a touch of a button in your closet. ]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Trip to Cali. That time you brought way more luggage than a girl. Taking us to Rodeo Dr. when everything was closed. People-watching and post meeting laughs, drinks, and more drinks. Food and drink sharing. TAPAS bar. Bruno Mars... I know where you are, I can hear you.]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[That time we went to the Addy's at Vie and you forgot to put the car in park before we got out. ]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Does a bear shit in the woods?" I know Frank does. And I know it's just as massive.  Yosemite 2014]]></note>
+            <author><![CDATA[Tiffany Rios]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["...and then, I'ma kill ya!"]]></note>
+            <author><![CDATA[Shaun T]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[That time I fed you a low carb diet before taking you on a 6 mile uphill hike- which ended with you sprawled out on a rock and two people attending to your needs: one feeding you raisins and  the other fanning you.]]></note>
+            <author><![CDATA[Tiffany]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Inspiring life conversations, shenanigans, plans, and secret bitch sessions in the kitchen and black hole. Really great times that I truly miss. ]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Frank, do you have kids?"]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Black bean brownies and brussel sprouts. ]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The halloween you moonwalked in your anchorman costume with two Barbies by your side :) /R]]></note>
+            <author><![CDATA[Tiffany ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Drinking vodka, I mean water, from a mason jar. How do you think I get through the day?]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[So many great memories! I think my favorite was the Sunday Funday that brought us from the Deck to Eden Lounge to many, many bottles of wine and great food at Luke Palladino's. I miss you guys, have a great, f'n birthday!]]></note>
+            <author><![CDATA[Nate Weber]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Whatevs! :p]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[YW!]]></note>
+            <author><![CDATA[Yolanda]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Frank, you are a remarkable person who inspires me to be a better version of myself. Thank you for bringing so much life, love, and passion to all those around you :)]]></note>
+            <author><![CDATA[Tiffany ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Your driving. Enough said. ]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You fight negativity like Batman fights crime. /R]]></note>
+            <author><![CDATA[Tiffany ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Who's pussy car is that?"]]></note>
+            <author><![CDATA[???????]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[That time I "Boo'd" you with Batman stuff and you didn't know it was me. ]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[That time you got your first Above & Beyond. ]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Servin' it up on a silver platter. ]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always having to go south to go north. ]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You passed out, remote in hand, February 5th, 2012. Victory!]]></note>
+            <author><![CDATA[The Champion NY Football Giants]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Welcome to fabulous...]]></note>
+            <author><![CDATA[Las Vegas]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Middle of the morning after a fabulous New Year's Eve. Mr Frank Ocean plays motivational hip-hop oratories to me and Celina. We were all the worse for wear on New Year's Day and still living positive.  That's a friend who makes the small moments special. One Love Nardz]]></note>
+            <author><![CDATA[Ricky Smooth]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The Ho-Jo. The Black Panther. The Ricky Smooth.  The Jaguar. The Old Fashioneds. The Champs. The Vodka Sodas.  Pasadena wouldn't be the same without The Frankie  Ocean. /RTo many more Laughs and Great Times!  /R/RCheers and Happy Birthday!]]></note>
+            <author><![CDATA[Jaguar]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["I Can! I Will!  I Must!" ]]></note>
+            <author><![CDATA[Jaguar (aka Celina) ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Revel. Making shit up. The Think Room. The heckler. Presenting with no conference room table or chairs. ]]></note>
+            <author><![CDATA[Lisa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

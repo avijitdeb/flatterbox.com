@@ -1,0 +1,145 @@
+<?php 
+
+/* Template Name: FB Step 6 Sentiment */
+
+get_header(); ?>
+<?php
+
+	//If this is the first time the box is being configured, get the initial flatterer list and insert into DB.
+	if($_GET["initialinvite"])
+	{
+		global $wpdb;
+	
+		for ($i = 0; $i < count($_SESSION['flatterernames']); $i++)
+		{
+			if($_SESSION['flatterernames'][$i] != "")
+			{
+	
+				$wpdb->insert( 
+					'flatterers', 
+					array( 
+						'PID' => $_SESSION["new_flatterbox_id"], 
+						'flatterer_email' => $_SESSION["flattereremails"][$i],
+						'flatterer_name' => $_SESSION["flatterernames"][$i],
+						'responded' => 0
+					), 
+					array( 
+						'%d', 
+						'%s',
+						'%s',
+						'%d'
+					) 
+				);
+			}
+		}		
+	}
+	
+	
+	//If this page was reached by a flatterer inviting other flatterers, get the new flatterer list and insert into DB.
+	if($_GET["flattererinvite"])
+	{
+		global $wpdb;
+	
+		for ($i = 0; $i < count($_SESSION['flatterernames']); $i++)
+		{
+			if($_SESSION['flatterernames'][$i] != "")
+			{
+	
+				$wpdb->insert( 
+					'flatterers', 
+					array( 
+						'PID' => $_SESSION["sentimentPID"], 
+						'flatterer_email' => $_SESSION["flattereremails"][$i],
+						'flatterer_name' => $_SESSION["flatterernames"][$i],
+						'responded' => 0
+					), 
+					array( 
+						'%d', 
+						'%s',
+						'%s',
+						'%d'
+					) 
+				);
+			}
+		}		
+	}	
+?>
+<main id="main" role="main" style="background-image: url('<?php the_field('page_background_photo'); ?>');>">
+	<div class="lightbox others">
+		<?php include('includes/lightbox-what-others-said.php'); ?>
+	</div>
+	<div class="lightbox sentences">
+		<?php include('includes/lightbox-sentence-starters.php'); ?>
+	</div>
+	<div class="container">
+		<div class="heading">
+			<h1>Create Your <?php echo $_SESSION["occasion_name"]; ?> Flatterbox</h1>
+		</div>
+		<section class="sentiment-holder">
+			<div class="compose">
+				<h2>Compose your sentiment.</h2>
+				<p>Somebody thinks you’re pretty special. You have been selected to write a heart-felt sentiment to Jack & Diane for their 1st Anniversary Flatterbox.</p>
+				<p>Please share one happy marriage tip. Write your sentiment in the form below. You’ll have the opportunity to write another card after completing this one.</p>
+				<form action="<?php echo do_shortcode('[site_url]'); ?>/my-flatterbox" class="compose-form" id="sentiment-form" method="post">
+					<fieldset>
+						<div class="row">
+							<textarea class="textarea" id="sentimenttext" name="sentimenttext" onkeyup="countChar(this,300);cloneText(this);" placeholder="A vetri olorem sei mas nostra proin acru vetri otto viverra nec. Pdui eges congue loremi magnaiana."></textarea>
+							<span class="note"><strong class="charNum">300</strong> CHARACTERS LEFT</span>
+						</div>
+						<div class="row">
+							<input type="text" id="namefamily" name="namefamily" onkeyup="countChar(this,100);cloneName(this);" placeholder="Your Name (or family)">
+							<span class="note"><strong class="charNum">100</strong> CHARACTERS LEFT</span>
+						</div>
+					</fieldset>
+				</form>
+				<div class="wrap">
+					<a id="others-wrote" href="<?php echo do_shortcode('[site_url]'); ?>/">See what others wrote</a>
+					<a id="sentence-starters" href="<?php echo do_shortcode('[site_url]'); ?>/">Sentence starters</a>
+				</div>
+			</div>
+			<div class="example">
+				<div id="card-preview" class="img-holder blank-card">
+					<span id="card-preview-text">A vetri olorem sei mas nostra proin acru vetri otto viverra nec. Pdui eges congue loremi magnaiana.</span>
+					<span id="card-preview-name">Your Name (or family)</span>
+				</div>
+			</div>
+		</section>
+		<div class="control-bar bottom">
+			<a href="<?php echo do_shortcode('[site_url]'); ?>/invitations/" class="back">Back to Invitations</a>
+			<a href="javascript:;" onclick="$('#sentiment-form').submit();" class="btn save">Confirm</a>
+		</div>
+	</div>
+</main>
+<script>
+jQuery( "#others-wrote" ).click(function($) {
+	event.preventDefault();
+  	jQuery( ".lightbox.others" ).fadeToggle("fast");
+});
+jQuery( "#sentence-starters" ).click(function($) {
+	event.preventDefault();
+  	jQuery( ".lightbox.sentences" ).fadeToggle("fast");
+});
+jQuery( "#btn-confirm" ).click(function() {
+	jQuery( "#sentiment-form" ).submit();
+});
+function countChar(val,limit) {
+    var len = val.value.length;
+    var countLimit = parseInt(limit);
+    var jelm = val.id;
+    if (len >= countLimit) {
+        val.value = val.value.substring(0, countLimit);
+    } else {
+        jQuery("#"+val.id+"").siblings().find(".charNum").text(countLimit - len);
+    }
+};
+function cloneText(sentiment)
+{
+	$("#card-preview-text").html(sentiment.value);
+}
+
+function cloneName(sentimentname)
+{
+	$("#card-preview-name").html(sentimentname.value);
+}
+</script>
+<?php get_footer(); ?>		

@@ -1,0 +1,2 @@
+[06-Sep-2015 06:43:01 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/flatterbox/public_html/wp-content/plugins/login-with-ajax/login-with-ajax-admin.php on line 378
+[06-Sep-2015 06:43:02 UTC] PHP Fatal error:  Call to undefined function add_action() in /home/flatterbox/public_html/wp-content/plugins/login-with-ajax/login-with-ajax-admin.php on line 378

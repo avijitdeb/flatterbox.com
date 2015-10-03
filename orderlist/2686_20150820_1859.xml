@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2686-001</orderId>
+    <orderDate><![CDATA[8/20/15]]></orderDate>
+    <shipTo><![CDATA[Tiffany Wolcott]]></shipTo>
+    <shipAdd1><![CDATA[281 Bair Road]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Berwyn]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[19312]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[navy]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Happy 40th Birthday, Rob!]]></heading>
+            <to><![CDATA[Rob Wolcott]]></to>
+            <from><![CDATA[For you, with love...]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[Favorite memory...must be the day that I said "I do."  My birthday wish for you is that you continue to love life and always find happiness.  Can't wait to celebrate the next 40 years with you.]]></note>
+            <author><![CDATA[T]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One special day i shared with Rob is when we celebrated New Year's Day at the Mummers Parade in Philadelphia.  Rob, being a very religous man, attempted to warn unsuspecting pedestrians about the "Devil", saying, "The devil will get you!"  Ah, the good times. Happy Bday]]></note>
+            <author><![CDATA[Mike McD]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One of our funniest moments with Robby was the Christmas Eve we told the family we had a hot tub. Rob came to the door  with his bathing suit and towel. He ran straight outside to jump in the hot tub! Only to his surprise there was no hot tub! Ha! Ha! Happy 40th!]]></note>
+            <author><![CDATA[Uncle John, Aunt Denise, Matt & A.J]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Happy Birthday, Rob! I did not know when I was laughing at your antics from our balcony in Avalon that you would be the husband of my dear friend, the father of her beautiful children, and the man that makes her smile every day! I am so grateful for that and you!]]></note>
+            <author><![CDATA[Kara (White) Roy]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Send me a laser, down the road that I must travel/RSend me a laser, through the darkness of the night/RSend me a laser, where I'm going, will you follow?/RSend me a laser, on a highway in the light./RHappy 40th brother!  Go treat yourself to bottle of Windex, you deserve it]]></note>
+            <author><![CDATA[The Hawkins Family]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[To the only man who would view dime stack as a compliment./RDon't worry, Malone still loves you./R/RBest wishes on your 40th Birthday!]]></note>
+            <author><![CDATA[The Hawkins Family]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Happy Birthday Rob!/RHard to imagine you are now 40!!/RFavorite Memory:  Watching you grow into the fine young man that you are. Have a great Birthday.]]></note>
+            <author><![CDATA[Love, Aunt Cindy & Uncle Bill]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My fondest memory of Rob is a very funny one. When Rob was a little boy he was such a picky eater that he would sit at the dinner table for hours with food on his plate or stored in his mouth rather than just swallowing it and move on! Happy Birthday nephew!]]></note>
+            <author><![CDATA[Aunt Nancy &Uncle Pete]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[No know will ever forget the "Send me a Laser" karaoke sessions before heading to the P]]></note>
+            <author><![CDATA[Wachs]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[All I have to say is: Send me a laser!!]]></note>
+            <author><![CDATA[Hawkins]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Oh Robbie! Where to begin.. There was the time on the school bus when you and Jarrod asked Amy and I if we had "boxes".  I'm pretty sure at some point the 4 of us were all dating in like 6th grade for Rock Springs rollerskating parties.  Happy 40th Birthday old friend!]]></note>
+            <author><![CDATA[Darla]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[So I'm pretty sure we teased Jody Heasley so bad on the bus that she bit Amy on the arm and then you and Jarrod told everyone that she gave Amy rabies.]]></note>
+            <author><![CDATA[Darla]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Summers where you and Jarrod rode your bikes up to my house to play some kickball with your mad kickball skills.]]></note>
+            <author><![CDATA[Darla]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'm pretty sure Mrs. Iapalucci and Miss Casale were in love with you!  Seriously, a photo of the 3 of you in the yearbook!]]></note>
+            <author><![CDATA[Darla]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'm pretty sure you dated Shirley in elementary school around her birthday in May for fear that her cousin, Jody Gaskill, would kill you if you refused.  ]]></note>
+            <author><![CDATA[Darla]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[No one wore shin guards like you in soccer! I think Coach Gazze had a crush]]></note>
+            <author><![CDATA[Darla]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Class Clown of the Class of 1994!  And you didn't even sign my yearbook!  Whatever]]></note>
+            <author><![CDATA[Darla]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Winning Gold Cup!  Getting Laurie and Dr. Rex wasted! Brewsters Millions, Dr. Shire, Dr. Newman, Maise, gummy train to NYC, watching your face as you deployed your first Mynx]]></note>
+            <author><![CDATA[Brad Meyers]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We knew you were a cool white kid when you hit that half court hook shot at 5th ward...]]></note>
+            <author><![CDATA[larry, joey, & jermaine ramsey]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I've never laughed so hard as I flew down the hallway in an industrial sized garbage can.../R/R]]></note>
+            <author><![CDATA[Andrew Messer]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Scaring kids with masking tape on our faces in 7th grade is a fond memory...]]></note>
+            <author><![CDATA[Dean Zisek]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I knew we would be good friends when I first met you high as hell at the mall..]]></note>
+            <author><![CDATA[zeke waugaman]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[If I could fall out of a ceiling to surprise you on your birthday, I would...]]></note>
+            <author><![CDATA[Harry Susman]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[sorry i ruined your beer party in highschool. /R/R/R/R-]]></note>
+            <author><![CDATA[Vince pellis]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I feel like I could eat the world...]]></note>
+            <author><![CDATA[Mike Berzansky]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Forget who's wedding, but first time we met was - not surprisingly - in a Bar.   You were an instant party and drove much of the fun and laughter..  Happy Birthday.  Keep Smiling!]]></note>
+            <author><![CDATA[Tony Ryan ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Anything DOT COM!  /R/REnough Said! ]]></note>
+            <author><![CDATA[Tony Ryan ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Happy 40th birthday, Rob!  To  a great guy whom I met Freshman year of H.S.  I really cannot narrow down one memory, so I will list several phrases:  cinder bites, duct tape in music office, corning cars and hiding in woods terrified, computer class clown, fun times! ]]></note>
+            <author><![CDATA[Frances "Niggel" Bors]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One special moment I recall... involved you and Caranfa dancing with/around a trashcan at the Princeton. Sounds silly but I remember laughing so hard I cried! Happy 40th Rob, from all of the Totos!]]></note>
+            <author><![CDATA[Christine, JP and Emerson Toto]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Happy Birthday Friend!/RLet's go celebrate at Hidden Valley!  Mr. Murphy said he would drive and Wendy Miller said she would bring the drinks!/R/RLove You!]]></note>
+            <author><![CDATA[Jen Yarnell]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Freund Robby!/RI remember all of our fun times in German class/club!  Remember how I was the German Club president and couldn't speak a lick of German???  You were always the first one to turn something serious and boring into fun and mischief ; )/RHappy Birthday!!!  ]]></note>
+            <author><![CDATA[Frau Gretchen Hockensmith Wilson]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Rob- Without you we could not have become the Grandmom and Pop-Pop we have always dreamed of being.]]></note>
+            <author><![CDATA[Mom & Dad Sebastian]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hard to believe that 20 some odd years ago I was going on my very first official date. Being picked up in car and going out on our own. What a sense of total freedom that was!! I also still remember the movie we went to see, Singles!! (Continued on next card)]]></note>
+            <author><![CDATA[Sue ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We sure have come a long way since then. We haven't seen each other for years but you will always hold that special place in my heart as my official first date. (Continued on next card)]]></note>
+            <author><![CDATA[Sue]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I can only hope that when my daughter grows up that she also has that memorable first date with a person who treats her just the way you treated me. (Continued on next card)]]></note>
+            <author><![CDATA[Sue]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You have a beautiful family Rob and I wish you nothing but love, health, and prosperity today and for your next 40 years and beyond. Happy 40th Birthday my friend!! Enjoy every second of it!! ]]></note>
+            <author><![CDATA[All my love, Sue]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Robbie Wolcott- twice I've been in the hospital for both a surgery & to have a baby, and I would be in a ton of pain and into the room would walk Rob saying "heeeeeyyyyy, What's going oooonnn!!" He always came through to help us out in his special & crazy Rob way! ]]></note>
+            <author><![CDATA[Lori Caranfa ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One of my favorite memories of Rob was the summer of the "WWW DOT COM" when he would tell random people to go check out websites such as "www.getalife.com".  Hilarious!!]]></note>
+            <author><![CDATA[Robin G]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Boston, Nov 2007.  Stacy hits the Liver Meeting, we hit the town.  Many beverages later, the sun begins to rise.  After punching walls, a crazy cab ride, and Combos, we crash, waking at noon (green).  Missed Fantasy Football, and almost your flight.  Good times!]]></note>
+            <author><![CDATA[Greg]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Michael's Wedding, Altoona PA. Hotel Parking Lot.  Smoking cigars, telling stories.  "You don't like MY cigarettes; I don't like YOUR pants".  The pint tossing contest settled the score.]]></note>
+            <author><![CDATA[Greg]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The Pearl deal, Greensburg Pa. Mom wanted some pearl earrings. White, shiny.  The sales girl wanted you. Give me date -- 50% off. It's a deal.  Mom got the pearls, but no Robbie for her. Missed connection. ]]></note>
+            <author><![CDATA[Your Dad, Bob]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Meet the Parents, Greensburg Pa. Bringing the future in-laws to meet Bob and Elaine. "Dad, don't say anything embarrassing." You're pouring the wine--dad starts on his diatribe on "how THEY'RE ruining the neighborhood!!" Could hear a pin drop-- your face: PRICELESS!!]]></note>
+            <author><![CDATA[Your Sis, Stacy]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The Graduation Party, 1994. The family is visiting, Peter pees on Grandma's car. The sun goes down and Dad's Ginny cream ale starts flowing.  The keg is kicked, and Mom's short order grill from the kitchen window opens. "Want some chips with that Italian beef?"]]></note>
+            <author><![CDATA[Your Sis, Stacy]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I have so many fond memories of Rob I don't know where to start. But what takes the cake, may be the time I went to see him in Philly when he was trying to get rid of a crazy girlfriend and he made me answer his phone to throw her for a loop! Love you Robby!]]></note>
+            <author><![CDATA[Cousin Court]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[No matter how old we get, you will always be Robbie to me! I will always remember your funny voicemails, especially when you pretended to be Josh Miles. I'm pretty sure I still have one of those saved. IT WAS RAMIE, NOT ME!! :)]]></note>
+            <author><![CDATA[Rayni Brindley]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Although we we went through a period in high school where we hated each other, in our adult lives, I always described you as my best guy friend. And regardless of distance or time, I will always think of you as one of my dearest friends. Happy 40th Rob (with 2 B's)!!]]></note>
+            <author><![CDATA[Rayni Brindley]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I remember the first night that you were introduced to us many years ago as “Justin’s friend from Pittsburgh” at the Rock Bottom in KofP. Since then, you went from one of the guys, to a friend, to (most importantly) the love of my dear friend’s life. Happy 40th!]]></note>
+            <author><![CDATA[Emily Walsh]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[So many, I think I will just write some quick phrases to jog your memory in no particular order...1996 Seattle trip,  "I can't feel my legs" day off of school, Vince Pellis beer thief, Phi Sig weekend visits, Boston visit, Vegas trip, IUP NYE, many Avalon weekends!!!]]></note>
+            <author><![CDATA[Justin Caranfa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Happy Birthday Rob! So I remember meeting you as Justin's friend from home one weekend many, many years ago..and you were (& still are) so funny, cool, and easy to get along with! Glad to have you living nearby in the "hood". /RWelcome to the 40 club old man :)]]></note>
+            <author><![CDATA[Christy Bosler]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

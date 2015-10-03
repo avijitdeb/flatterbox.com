@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2471-001</orderId>
+    <orderDate><![CDATA[7/9/15]]></orderDate>
+    <shipTo><![CDATA[Brittany Tuosto]]></shipTo>
+    <shipAdd1><![CDATA[745 Fifth Avenue]]></shipAdd1>
+    <shipAdd2><![CDATA[FL 25]]></shipAdd2>
+    <shipCity><![CDATA[New York]]></shipCity>
+    <shipState><![CDATA[NY]]></shipState>
+    <shipZip><![CDATA[10151]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDEX_FEDEX2DAY]]></shipVia>
+    <box>
+        <shipQty>3</shipQty>
+        <sku><![CDATA[FB_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[sand]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Happy Anniversary, Fundamental]]></heading>
+            <to><![CDATA[Fundamental Anniversary - HN, DF, LG gift (surprise)]]></to>
+            <from><![CDATA[-your Fundamental Family]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[No one realizes how the creation of Fundamental resulted in a financial windfall for me. I was playing golf with LG when he got the call about the favorable decision from Performance Equities. His focus on golf completely evaporated and he lost a bundle to me that day.]]></note>
+            <author><![CDATA[Bruce]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dana, you should be very proud of what you helped create.  Turning the "two investors in a garage" into a real organization is attempted by many and successfully executed by few.]]></note>
+            <author><![CDATA[Bruce]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hector, can you explain exactly why you don't wear socks in the winter?]]></note>
+            <author><![CDATA[Bruce]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It is encouraged to take more calls from the outdoor patio.]]></note>
+            <author><![CDATA[Blacky]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We have the nicest ice machine in New York City.]]></note>
+            <author><![CDATA[Blacky]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The sliding glass office doors will never be perfect. ]]></note>
+            <author><![CDATA[Blacky]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We have a gym?]]></note>
+            <author><![CDATA[Blacky]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'm extremely proud and lucky to be part of an organization so dedicated and committed to excellence, on every level, whose reputation seems to grow exponentially every day.  /R/RI look forward to the journey ahead.]]></note>
+            <author><![CDATA[Cody]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you all for the past few years. I appreciate your leadership which has always been thoughtful and inspiring.]]></note>
+            <author><![CDATA[Stephen Dunn]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dana,/R/RI appreciate our girls' nights (as seldom as they may be).  It is always great to spend time with you!]]></note>
+            <author><![CDATA[Christine Menna]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you so much for all you do to make Fundamental a truly special and great place to work.  It takes a lot of hard work and dedication to create the amazing culture we have here and I am so thankful to be a part of it.  ]]></note>
+            <author><![CDATA[Allison]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Leadership is the capacity to translate vision into reality' /RWarren Bennis /R/RThank you for sharing your visions with us. "]]></note>
+            <author><![CDATA[Becky J. Doster ]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When I first started, I thought the temp job would only last a few weeks, which was ok with me as I only imagined a Fin-Serv firm to be stuffy and cold. I was happily surprised that I was wrong and found a place I enjoy - both working at and the people. /RThank you all!]]></note>
+            <author><![CDATA[DB]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dana, Hector, and Laurence:/R/RIt is difficult to put into words just how grateful I am for your guidance, wisdom, and mentorship over the years. We are all so lucky to have leaders like you to look up to!]]></note>
+            <author><![CDATA[Brittany]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One thing I appreciate most about Fundamental (in addition to summer Fridays) is the warm, genuine welcome you've shown this newcomer.  ]]></note>
+            <author><![CDATA[Robyn Huffman]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Laurence,/R/RThank you dearly for always approving my wires in an expedient manner./R/RWarmest regards,]]></note>
+            <author><![CDATA[The Controller]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dana- from dragging you around a Boston parking garage looking for my car, to getting punked in the middle of the night, to partying with you and your family at The Curtis, and Fireball shots in Vail, I look forward to more good times and great work with you!]]></note>
+            <author><![CDATA[Mario]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Laurence-after a 3 year break from running you got me back on the course 1 month before the Philly Half in 2012. I am glad I did it bec/ it led to a regular routine of races with you and an amazing crew from FA. Thanks for creating such a fun and collaborative culture! ]]></note>
+            <author><![CDATA[Mario]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The culture and environment that you guys have created is one of a kind and has brought out the best in me.  Dana, LG and Hec, thank you so much for all that you do for this firm.  I could not be more happy at Fundamental./R/RCheers to 8 Years!]]></note>
+            <author><![CDATA[Matty]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi all,/RJust a quick "shout out" to say how much I appreciate all of the love that I receive from everyone./R/RMuch respect,]]></note>
+            <author><![CDATA[Rick!]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Before my internship at Fundamental I can honestly say I had no idea what I envisioned for my career. I now not only have a clear goal, but also the skills and support system to get me there. And for that I will be eternally grateful. ]]></note>
+            <author><![CDATA[Larkin Bailey]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hector, /REvery day is a new adventure with you and I couldn't be more grateful to be along for the ride. Thank you for everything that you do-to quantify it would be impossible, but I hope that my appreciation is evident in the unconditional respect that I have for you.]]></note>
+            <author><![CDATA[Christine]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Laurence, /R/RFrom party buses to dinners to anniversary and holiday parties, the memories are endless.  Thanks for engendering such a dynamic firm culture.  It is a privilege to be a part of the team./R/R#Drop the beat James]]></note>
+            <author><![CDATA[Christine]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Extremely blessed and honored to be a part of the Fundamental family. Thank you both for all you do!!]]></note>
+            <author><![CDATA[DA]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for creating this amazing environment and culture. It is a pleasure working here!]]></note>
+            <author><![CDATA[Joshua]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One thing I appreciate about Fundamental is having the fanciest and strongest espresso offered in the NYC office.]]></note>
+            <author><![CDATA[Jen]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[What I love about Dana the most is her willingness to teach and share.]]></note>
+            <author><![CDATA[Jen]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I LOVE Laurence's contests. Especially when they involve the hambergler, Rob Weiss.]]></note>
+            <author><![CDATA[Jen]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love that there is always cold beer in the fridge.]]></note>
+            <author><![CDATA[beer lover]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love Hector's Wahoo's./R]]></note>
+            <author><![CDATA[Taco lover]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Working at Fundamental is the most welcoming and inspiring places I love to walk into every day. - Thanks to the leadership for making it so.]]></note>
+            <author><![CDATA[Jen]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[LG : steel core, Tony Blair, Melbourne Cup, auchentoshan.. just to quickly name a few of our best memories.. looking forward to making many more! Thank you for being such wonderful boss, leader, and friend.]]></note>
+            <author><![CDATA[Brit]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I've had an amazing year at Fundamental and that's because of the amazing people that work here. From the beginning everyone was welcoming and I look forward to coming to work everyday. I look forward to many more years (and anniversary parties!) at this awesome place!]]></note>
+            <author><![CDATA[Ryan Martin]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[That's what she said.]]></note>
+            <author><![CDATA[Justin Vinci]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

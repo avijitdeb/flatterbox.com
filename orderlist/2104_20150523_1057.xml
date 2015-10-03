@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2104-001</orderId>
+    <orderDate><![CDATA[5/23/15]]></orderDate>
+    <shipTo><![CDATA[Michelle McGough]]></shipTo>
+    <shipAdd1><![CDATA[13 Boulder Road]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Hanover]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[17331]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_110]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[sunshine]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Words of Wisdom]]></heading>
+            <to><![CDATA[Carolyn McGough]]></to>
+            <from><![CDATA[From Family & Friends]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[Good things come to those who believe, better things come to those who are patient, and the best things come to those who don't give up.]]></note>
+            <author><![CDATA[Love, Mom & Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Do what you Love the most.]]></note>
+            <author><![CDATA[From Jill Hieronimus]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[As you graduate, please remember to keep an open mind and give yourself a chance to explore all the "flavors" of experiences.  Stay true to your beautiful self and keep God in your daily routine.  May you experience every success and happiness life has to offer. ]]></note>
+            <author><![CDATA[Sincerely, The Kenworthy Family]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Follow your heart in all you do./R]]></note>
+            <author><![CDATA[Christine Smith]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[To Trust Your Intuition!]]></note>
+            <author><![CDATA[With Love ~ The Crouthamel Family]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Life is too Short, to wake up in the morning with regrets.  So LOVE the people who treat you right FORGIVE the ones that don't and believe that EVERYTHING happens for a Reason!]]></note>
+            <author><![CDATA[Love, Aunt Lisa]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[NEVER give up!]]></note>
+            <author><![CDATA[Brandon]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[To Make a difference in someones life you don't have to be brilliant, rich, beautiful or perfect.  You just need to have to care enough to be there., ]]></note>
+            <author><![CDATA[Connor]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The past is your LESSON. The present is your GIFT.  The future is your MOTIVATION. Reach for your dreams. ]]></note>
+            <author><![CDATA[Uncle Kevin]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One of your Grandpa's favorite sayings was../R"And Away We Go"...And away you go My Dear, off to the real world of Carolyn.  So Shoulders Back, Chin Up, Smile..../RYou Can Handle This!]]></note>
+            <author><![CDATA[Love you much , Grandma]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't ask, just Embrace]]></note>
+            <author><![CDATA[Rob]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always keep smiling and remember when things seem hard your Delone family will always be here cheering you on.  You're a wonderful young woman with a bright future ahead!]]></note>
+            <author><![CDATA[Much Love, Sherry Grenchik ]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Get to know your professors.  They can be a great blessing to you.]]></note>
+            <author><![CDATA[Rosemary Wivagg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Build relationships and don't burn bridges.  We live in a competitive world and access to resources is crucial for attaining personal and career goals.  Being able to call old friends/family and colleagues for advice and guidance will be a valuable resource.]]></note>
+            <author><![CDATA[Raymond T. Gallagher]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Carolyn, we've watched you grow into a beautiful, talented, and confident young woman over the past 6 years. Hold onto that self-confidence and believe in yourself in all that you set out to accomplish. Rely on your inner strength, have faith that things will work out. ]]></note>
+            <author><![CDATA[Love, Mr. & Mrs. Henry]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always remember how special your are!]]></note>
+            <author><![CDATA[With Love, The Smith Family]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Never settle for anything less than you deserve whether its future jobs, relationships, or goals.  Always go in with a positive attitude regardless of the situation.  Best of luck!]]></note>
+            <author><![CDATA[Lauren (Kwiatkowski) Markle]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't let others dictate your future.]]></note>
+            <author><![CDATA[Niki Swingler]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't be reckless with people's hearts and don't put up with people who are reckless with yours.]]></note>
+            <author><![CDATA[Niki Swingler]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[To know that each day is a new start, a fresh beginning.  We are confident that God's mercies are new every morning and the steadfast love of the Lord never ceases (Lamentations 3:22-23).]]></note>
+            <author><![CDATA[Love, Mrs. DeSales Hernandez]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The journey of a thousand miles begins with one step.  Whenever you feel yourself sinking, just take the next step and trust "This too shall pass and God's mercies are new every morning and He will renew your strength as His love endures forever."]]></note>
+            <author><![CDATA[Mrs. DeSales Hernandez]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Share your sparkle in all your future endeavors !!  /R/R~ Best Wishes Always!!]]></note>
+            <author><![CDATA[Tres, Francesca,Bella&Ava Sapp]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[ Remember to stay curious about your own self and others. Everyone has something important to say or share, and we all have amazing potential to unlock through lifelong learning.]]></note>
+            <author><![CDATA[Aunt Grace and Uncle Rusty]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be kind to yourself and others, and try to make a positive difference each day.  As said so perfectly in Aesop's Fables, "No act of kindness is ever wasted."]]></note>
+            <author><![CDATA[Aunt Grace and Uncle Rusty]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Querida Tina,/R/RHa sido un placer tenerte en las clases de /REspañol.  Tu has sido una estudiante excelente en tu comportamiento.  Gracias por tu ayuda en todo.  Buena suerte en la universidad.  Ven a visitarme.]]></note>
+            <author><![CDATA[Doctora Brown]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dream your dreams because your dreams of today are your deeds of tomorrow.]]></note>
+            <author><![CDATA[Charlie McGough]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Fear is the mind-killer.  Fear is the little-death that brings total obliteration.  I will face my fear.  I will permit it to pass over me and through me.  Where the fear has gone there will be nothing. Only I will remain.]]></note>
+            <author><![CDATA[Bene Gesserit proverb (Dune)]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It does not do to dwell on dreams and forget to live. /R/RAlbus Dumbledore from Harry Potter & The Sorcerer's Stone]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It is our choices...that show what we truly are, far more than our abilities./R/RJ.K. Rowling]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Whoever is happy will make others happy too./R/RAnne Frank]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Despite everything, I believe that people are really good at heart./R/RAnne Frank]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Do not take life so seriously and have fun.  Life is too short to do it any other way.]]></note>
+            <author><![CDATA[Mrs. Colleen Lopes]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Our beliefs become our thoughts. Our thoughts become our words. Our words become our habits. Our habits become our values. Our values become our destiny./R/RGandhi]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Spend time with positive people.]]></note>
+            <author><![CDATA[Mrs. Julia Hawbaker]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One's destination is never a place, but a new way of seeing things.  /R/RHenry Miller]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Credit belongs to the person in the arena whose face is marred by dust and sweat not the critic on the sideline./R/RTheodore Roosevelt]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[University is where you learn how to think.]]></note>
+            <author><![CDATA[Charlie McGough]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[15 minutes more.]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Every night go to bed with a plan for tomorrow.]]></note>
+            <author><![CDATA[Carolyn McGough (namesake)]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be curious.]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Actions have consequences - good or bad.]]></note>
+            <author><![CDATA[Bernadette McGough]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Sparkles]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You never stand alone.]]></note>
+            <author><![CDATA[Love, Mom & Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mind your own plate.]]></note>
+            <author><![CDATA[Mame  Convery]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Life is what happens while you are making other plans./R/RJohn Lennon]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dreams transform into thoughts.  And thoughts result in action.]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[ Carolyn, you have grown up to be a smart, beautiful young woman.  We know you will be successful in all you do and we are so very proud of you.  Love you and can't wait to hear about all of your college experiences.Believe in yourself and all you do,as we believe in u]]></note>
+            <author><![CDATA[ Love,Marie,Craig,Faith,Grace&Marah]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The future belongs to those who believe in the beauty of their dreams. /R/REleanor Roosevelt ]]></note>
+            <author><![CDATA[The Murrin Family]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[ Congratulations on your Graduation Carolyn!  What a fine young lady you have grown into!  We wish you all the best as you embark on your future, and remember that nothing worth having comes without sacrifice so welcome the big challenges if your heart and mind say go!]]></note>
+            <author><![CDATA[The Trummers]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[See a world in a grain of sand and heaven in a wild flower, hold infinity in the palm of your hand and eternity in an hour./R/RWilliam Blake]]></note>
+            <author><![CDATA[Gavin McGough]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[If you can't make it better, you can laugh at it./R/RErma Bombeck]]></note>
+            <author><![CDATA[Chase McGough]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Women have to be active listeners and interrupters - but when you interrupt, you have to know what you are talking about./R/RMadeleine Albright]]></note>
+            <author><![CDATA[Willa McGough]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Cadillac Mountain. Pop overs. Sand beach.  You can do more than you think you can. Drink water, take a rain coat, and ask for help when you need it.]]></note>
+            <author><![CDATA[Aunt Kate & Uncle David]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congratulations on graduating from DCHS!  Always treat every day as a new day.  Use your previous experiences as a step to new beginnings.  Always respect the people that helped you get to this point.  You may need them as a friend again someday.  Good Luck!       ]]></note>
+            <author><![CDATA[Bill, Donna, Amanda, Sarah Adams]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always strive to do your best and be kind and patient.]]></note>
+            <author><![CDATA[Chrissy, Chad and Zoey Smith]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Shoot for the stars Carolyn and always be true to who you are! Your sparkling personality will take you anywhere you want to go. Dream big!]]></note>
+            <author><![CDATA[Team Warner:  Jeff, Amy & Victoria]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always keep God in your heart, those who need His help in your prayers, and your family and friends only a phone call away!  Congratulations Carolyn on your high school graduation.  Be safe and stay as beautiful as you are now, both inside and out! Much Love,]]></note>
+            <author><![CDATA[Jim, Ginger & Aaron Slagle]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Deep in the sea are riches beyond compare. But if you seek safety it is on the shore." Saadi/R/R"Only when you have crossed the river, can you say the crocodile has a lump on his snout." Ashanti/R/R"Jesus Christ is the same yesterday, today, and forever." Hebrews 13:8]]></note>
+            <author><![CDATA[Mr./Mrs. Kelly Penny and Hunter]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The time you spend alone with God will transform your character and increase your devotion.  Then your integrity and godly behavior in an unbelieving world will make others long to know the Lord./R/RCharles Stanley]]></note>
+            <author><![CDATA[Aleshia Hawkins]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Courage is the resistance to fear; mastery of fear, not absence of fear./R/RMark Twain]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Get out of the care and see what there is to see.]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I am running the vacuum cleaner because she has to learn to sleep through all sorts of things in life.  (While you sleeping in the bassinet shortly after bringing you home and Grandmother was helping Mom)]]></note>
+            <author><![CDATA[Bernadette McGough]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[New experiences are exercises for the mind and soul.]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Moderation in all things.]]></note>
+            <author><![CDATA[Carolyn McGough (namesake)]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[A ship in a harbor is safe, but that is not what ships are built for./R/RWilliam Shedd]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Keep your eyes on the prize./R/RUnknown]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Trust God from the bottom of your heart; do not try to figure everything out on your own.  Listen for God's voice in everything you do, everywhere you go; He is the one who will keep you on track.  Proverbs 3:5-6]]></note>
+            <author><![CDATA[Mickey & Brooke Dennis]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Live your life with Integrity and Honesty whether people know it or not.  Choose Compassion and Kindness over criticism.  With intentionality, work hard and play hard.]]></note>
+            <author><![CDATA[Love, Maura (Marybeth) Gallagher]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Have the courage to say no.  Have the courage to face the truth.  Do the right thing because it is right.  These are the magic keys to living your life with integrity./R/RW. Clement Stone]]></note>
+            <author><![CDATA[Hawkins Family]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Character contributes to beauty.  It fortifies a woman as her youth fades.  A mode of conduct, a standard of courage, discipline, fortitude, and integrity can do a great deal to make a woman beautiful./R/RJacqueline Bisset]]></note>
+            <author><![CDATA[Aleshia Hawkins]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It's Showtime!]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always be a first-rate version of yourself, instead of a second-rate version of somebody else./R/RJudy Garland]]></note>
+            <author><![CDATA[Love Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[If we all did the things we are capable of doing, we would literally astound ourselves./R/RThomas Edison]]></note>
+            <author><![CDATA[Love Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There are many wonderful things that will never be done if you do not do them./R/RCharles D. Gil]]></note>
+            <author><![CDATA[Love Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[God gives us dreams a size too big so that we can grow into them./R/RAuthor Unknown]]></note>
+            <author><![CDATA[Love Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Life is not about discovering our talents; it is about pushing our talents to the limit and discovering our genius./R/RRobert Brault]]></note>
+            <author><![CDATA[Love Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[In response to those who say to stop dreaming and face reality, I say keep dreaming and make reality./R/R-Author Unknown]]></note>
+            <author><![CDATA[Love Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Shoot for the moon.  Even if you miss, you'll land among the stars./R/RLes Brown]]></note>
+            <author><![CDATA[Love Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Education is the most powerful weapon which you can use to change the world./R/RNelson Madela]]></note>
+            <author><![CDATA[Love Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The world needs dreamers and the world needs doers.  But above all, the world needs dreamers who do./R/RSarah Ban Breathanch]]></note>
+            <author><![CDATA[Love Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Our greatest glory is not in never failing, but in rising every time we fail./R/RRalph Waldo Emerson]]></note>
+            <author><![CDATA[Love Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[If you can imagine it, you can achieve it; it you can dream it, you can become it. /R/RWilliam Arthur Ward]]></note>
+            <author><![CDATA[Love Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[If opportunity doesn't knock, build a door./R/RMilton Berle]]></note>
+            <author><![CDATA[Love Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You have to expect things of yourself before you can do them./R/RMichael Jordan]]></note>
+            <author><![CDATA[Love Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't let anyone steal your dream.  It's your dream, not theirs./R/RDan Zadra]]></note>
+            <author><![CDATA[Love Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Share your sparkle wherever you are.]]></note>
+            <author><![CDATA[Love, Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Wheresoever you go, go with all your heart./R/RKongzi]]></note>
+            <author><![CDATA[Love, Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[What we are is God's gift to us. What we become is our gift to God./R/REleanor Powell]]></note>
+            <author><![CDATA[Love, Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You have brains in your head./RYou can steer yourself in any direction you choose./RYou're on your own./RAnd you know what you know./RYou are the girl who'll decide where to go./R/RDr. Seuss]]></note>
+            <author><![CDATA[Love, Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Whether you think you can or think you can't - you are right./R/RHenry Ford]]></note>
+            <author><![CDATA[Love, Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Have patience with all things, but chiefly have patience with yourself.  Do not lose courage in considering your imperfections, but instantly set about remedying them, every day being the task anew./R/RSt. Francis de Sales]]></note>
+            <author><![CDATA[Love, Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Happiness can only be achieved by looking inward and learning to enjoy whatever life has, and this requires transforming greed into gratitude./R/RSt. John Chrysostom]]></note>
+            <author><![CDATA[Love, Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[God, give me grace to accept the things that cannot be changed, Courage to change the things which should be changed, and to distinguish the one from the other.  Amen.]]></note>
+            <author><![CDATA[Love, Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The ultimate measure of a man (or woman) is not where he stands in moments of moments of comfort and convenience, but where he stands at a time of challenge and controversy./R/RDr. Marin Luther King, Jr.]]></note>
+            <author><![CDATA[Love, Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You gain strength, courage, and confidence by every experience in which you really stop to look fear in the face.  You must do the thing which you think you cannot do./R/REleanor Roosevelt]]></note>
+            <author><![CDATA[Love, Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When you come to the end of your rope, tie a knot and hang on./R/RFranklin D. Roosevelt]]></note>
+            <author><![CDATA[Love, Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

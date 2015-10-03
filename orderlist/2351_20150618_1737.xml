@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2351-001</orderId>
+    <orderDate><![CDATA[6/18/15]]></orderDate>
+    <shipTo><![CDATA[Gerald Anderson]]></shipTo>
+    <shipAdd1><![CDATA[1582 35 Avenue South]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Moorhead]]></shipCity>
+    <shipState><![CDATA[MN]]></shipState>
+    <shipZip><![CDATA[56560]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[navy]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Happy Father's Day!]]></heading>
+            <to><![CDATA[Gerald Anderson]]></to>
+            <from><![CDATA[Carmen, Karl and Paul]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[Whenever I've needed advice about a car, a vacation or a book to read, I turn to you and have received great advice as well as conversation.]]></note>
+            <author><![CDATA[Love, Carmen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You've instilled in me as well as others a deep appreciation of the importance of history.]]></note>
+            <author><![CDATA[Love, Carmen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I have always felt blessed to have such a loving, supportive, wise, funny, knowledgeable, kind, and inspiring father. Thank you for being such a wonderful part of my life!]]></note>
+            <author><![CDATA[Karl]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Good brother. We share the same wonderful parents. We loved you, Barb and your children, happy Fathers Day. Believe in the magic of tomorrow.]]></note>
+            <author><![CDATA[Majel and Dick]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[ One thing I like most about Gerald is his fierce loyalty to his family. His parents, children, siblings, & in-laws were always first in his life.  I've always known he'd stand up for me whenever I needed him./RHappy Father's Day, Gerald!/R /R]]></note>
+            <author><![CDATA[Arlene Feight]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Well.....  for a fat guy, he doesn't sweat much...]]></note>
+            <author><![CDATA[One quarter Swede living in Norway]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I have so many fond memories of staying at the farm in the Summer with my favorite cousin! Little did we know how well we would be as fathers!]]></note>
+            <author><![CDATA[Richard]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Dad!  Happy Father's Day!  I want you to know that I still have, and treasure, both letters you sent to me at St. Olaf, at the beginning and end of my time there.  I have them both at hand, and refer to them often.  You're the best dad anyone could ask for.]]></note>
+            <author><![CDATA[Love, Paul]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My uncle Jerry is simply the best uncle a nephew could ever have, bar none.  In addition to being an uncle, he is my Godfather and a very valued mentor and friend.  He has offered guidance, support and humor to me throughout the last 45 years of my life.  I am thankful!]]></note>
+            <author><![CDATA[Geoff (Weffer)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I am proud to have a very fun and interesting uncle in Gerald Anderson.  He has always helped me better understand my Scandinavian roots and place in the world.]]></note>
+            <author><![CDATA[Greg Hall, of the Lake Elmo Halls]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I have always admired Jerry's devotion to Barb--the two of them were soul mates and it was obvious to everyone who knew them.]]></note>
+            <author><![CDATA[Love, Pete]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Fatherhood will put a man through a lot, but it's a tremendous job, the best in the world - even better than playing basketball."/R/R]]></note>
+            <author><![CDATA[Derek Fisher]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Fatherhood is pretending the present you love most is soap-on-a-rope."/R/R/R]]></note>
+            <author><![CDATA[Bill Cosby]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“A father has to be a provider, a teacher, a role model, but most importantly, a distant authority figure who can never be pleased. Otherwise, how will children ever understand the concept of God?” ]]></note>
+            <author><![CDATA[Stephen Colbert]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["When I was a boy of 14, my father was so ignorant I could hardly stand to have the old man around. But when I got to be 21, I was astonished at how much he had learned in 7 years."]]></note>
+            <author><![CDATA[Mark Twain]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["I have found the very best way to advise your children is to find out what they want to do and advise them to do it."]]></note>
+            <author><![CDATA[Harry S. Truman]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["It is a wise father that knows his own child."]]></note>
+            <author><![CDATA[William Shakespeare]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["My father said there were two kinds of people in the world: givers and takers. The takers may eat better, but the givers sleep better."]]></note>
+            <author><![CDATA[Marlo Thomas]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Old as she was, she sometime still missed her daddy."]]></note>
+            <author><![CDATA[Gloria Naylor]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["My daddy, he was somewhere between God and John Wayne."]]></note>
+            <author><![CDATA[Hank Williams, Jr.]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["I believe that what we become depends on what our fathers teach us at odd moments, when they aren’t trying to teach us. We are formed by little scraps of wisdom."]]></note>
+            <author><![CDATA[Umberto Eco]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“The greatest mark of a father is how he treats his children when no one is looking.""]]></note>
+            <author><![CDATA[Dan Pierce]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“My father gave me the greatest gift anyone could give another person, he believed in me.” ]]></note>
+            <author><![CDATA[Jim Valvano]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“When my father didn’t have my hand, he had my back.” /R]]></note>
+            <author><![CDATA[Linda Poindexter]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“There should be a children’s song: ‘If you’re happy and you know it, keep it to yourself and let your dad sleep.’”]]></note>
+            <author><![CDATA[Jim Gaffigan]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“Even very young children need to be informed about dying. Explain the concept of death very carefully to your child. This will make threatening him with it much more effective.” ]]></note>
+            <author><![CDATA[P.J. O'Rourke]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["There are times when parenthood seems nothing more than feeding the hand that bites you."]]></note>
+            <author><![CDATA[Peter DeVries]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“Dad always thought laughter was the best medicine, which I guess is why several of us died of tuberculosis.”]]></note>
+            <author><![CDATA[Jack Handy]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“They don’t grade fathers, but if your daughter is a stripper, you f---ed up.”]]></note>
+            <author><![CDATA[Chris Rock]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“I have always had the feeling I could do anything and my dad told me I could. I was in college before I found out he might be wrong.”]]></note>
+            <author><![CDATA[Ann Richards]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["I think the saddest day of my life was when I realized I could beat my Dad at most things, and Bart experienced that at the age of four."]]></note>
+            <author><![CDATA[Homer Simpson]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“Kids are great, Apu. You can teach them to hate the things you hate and they practically raise themselves now-a-days, you know, with the internet and all.”]]></note>
+            <author><![CDATA[Homer Simpson]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

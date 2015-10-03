@@ -1,0 +1,41 @@
+# BEGIN Expires Headers
+<IfModule mod_expires.c>
+    # Activate mod_expires for this directory
+    ExpiresActive on
+
+    ExpiresByType image/jpg "access plus 1 month"
+    ExpiresByType image/jpeg "access plus 1 month"
+    ExpiresByType image/gif "access plus 1 days"
+    ExpiresByType image/png "access plus 1 month"
+    ExpiresByType text/css "access plus 1 month"
+	ExpiresByType application/x-javascript "access plus 1 month"
+	ExpiresByType text/javascript "access plus 1 month"
+	ExpiresByType application/javascript "access plus 1 month"
+	ExpiresByType image/x-icon "access plus 12 month"
+	ExpiresByType image/icon "access plus 12 month"
+	ExpiresByType application/x-ico "access plus 12 month"
+	ExpiresByType application/ico "access plus 12 month"
+</IfModule>
+# END Expires Headers
+
+# BEGIN WordPress
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteBase /
+RewriteRule ^index\.php$ - [L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L]
+</IfModule>
+
+# END WordPress
+
+
+#/*php_value session.gc_maxlifetime 10800*/
+# BEGIN MainWP
+
+# END MainWP
+AuthType Basic
+AuthName "Flatterbox - Dev"
+require valid-user
+AuthUserFile "/home/flatterbox/.htpasswds/public_html/dev/passwd"

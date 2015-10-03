@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2110-001</orderId>
+    <orderDate><![CDATA[5/25/15]]></orderDate>
+    <shipTo><![CDATA[Sarah Stoffel]]></shipTo>
+    <shipAdd1><![CDATA[10918 Bullrush Terrace]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Lakewood Ranch]]></shipCity>
+    <shipState><![CDATA[FL]]></shipState>
+    <shipZip><![CDATA[34202]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[sand]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Words of Wisdom]]></heading>
+            <to><![CDATA[Alex's graduation from High School]]></to>
+            <from><![CDATA[Family and Friends]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[Remember: You don't get what you don't ask for. If you want something, ask for it! The worst that can happen is they can say no.]]></note>
+            <author><![CDATA[Love you more - Mom]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Alex, it has always been a privilege to coach you. Besides being intelligent and hard-working, you were always a team player. Take these qualities to the next level and I'm confident you will be successful at whatever you do. I wish you the best of luck! Stay in touch.]]></note>
+            <author><![CDATA[Coach Dave]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We are proud of the person you have become. You have worked hard to get where you are in life. Continue on that path and many doors will be open to you. ]]></note>
+            <author><![CDATA[Uncle Jon and Aunt Sharon]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Courage is when you know you're licked before you begin, but you begin anyway and see it through no matter what. Find your courage every day and nothing will keep you from succeeding.]]></note>
+            <author><![CDATA[Rick and Terry Catton]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Chocolate cake makes everything better! Thanks for sharing a little bit of your life with Terry and I.]]></note>
+            <author><![CDATA[Rick Catton]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You have had great success in completing the many goals others have set for you.  Now have fun and compile a list of YOUR goals for the next four years and the future.]]></note>
+            <author><![CDATA[Grandma]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The gift of a Grandson has provided much Joy and Entertainment!/ROver the years, the Tuesday lunch group usually began with "Do you have any Alex stories?"  Thanks for helping us keep the conversation going!]]></note>
+            <author><![CDATA[Love, Grandma]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Preserve at all possible cost your sense of humor; it may take you somewhere that honor won't. Maybe even a good place. And continue to dress well. We hope you have a dramatic, successful and engaging college career. Our love goes with it all]]></note>
+            <author><![CDATA[Wally and Carol Rowe]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always be a positive risk taker .  Anytime I took thoughtful positive risks, I was never sorry.  So, Alex, take those risks after you've done the thoughtful, positive thinking./R]]></note>
+            <author><![CDATA[jim Handrich]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Greetings, my handsome great grandson.  Congratulations on all your academic and sports honors.  You've excelled in all.  Your future looks very bright and hopefully you will be happy achieving it.  Travel with your Lord by your side and He will always be there for you.]]></note>
+            <author><![CDATA[Nonnie - Jane Handrich]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always give more than what you take]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be more concerned with your character than your reputation, because your character is what you really are, while your reputation is merely what others think you are.]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The difference between 'ordinary' and 'extraordinary' is that little extra.  Alex, you have that little 'extra']]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You are capable of more than you know. Choose goals that seem right for you and strive to be good at whatever you do. Don’t be afraid to fail, because people grow and become better after failure.  ]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I've been blessed to have you as a son, but now it's time for the world to see what a wonderful and talented young man you have become.  Even though others will come to love you, no one will love you more than your mother and I.]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Alex, hard to believe you're heading off to college when it seems like just yesterday you were the ball boy on Whitney and Hannah's soccer team! We wish you all the best on your new adventure at Skidmore College. Stay true to yourself, STUDY, and have fun!!]]></note>
+            <author><![CDATA[Sincerely, Dan and Sunoma Northern]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congratulations on a job well done. Our family has enjoyed watching you succeed in school and athletics over the years. Your high school graduation is an exciting first step in what we know will be a life filled with accomplishments. We wish you all the best!]]></note>
+            <author><![CDATA[The Getty Family]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Watching you grow up from a distance does not mean that we haven't held you close in our hearts! We are proud of you in many ways. Now go, have fun, and continue with the good work you've already started!]]></note>
+            <author><![CDATA[Love, Rob, Brenda & Carter]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congratulations! You have achieved quite a record of success in both academics and athletics! Even more important, you have emerged as a leader.  Your kindness, compassion, and sense of humor have gained the respect and admiration of your peers and adults.]]></note>
+            <author><![CDATA[Love always, a very proud Grandpa]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Your Mom and Dad have taught you by word and example the importance of family, hard work, and the proper treatment of others. Your high school record shows you have learned these lessons well.  All the best as you move on to the excitement of your college years!]]></note>
+            <author><![CDATA[Love always, Grandpa]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You learned to read early. We were so proud when you read that first book to us.  Who could forget "Dear Mrs. LaRue"?]]></note>
+            <author><![CDATA[Love from a nostalgic Grandmother]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always remember when the going gets rough, which it will from time to time, that all of your family and friends are always there for you, any time of day or night./R]]></note>
+            <author><![CDATA[Love you more - Mom]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA["You have to leave the city of your comfort and go into the wilderness of your intuition. You can't get there by bus only by hard work and risk and by not quite knowing what you're doing, but what you'll discover will be wonderful. What you'll discover will be yourself.]]></note>
+            <author><![CDATA[Alan Alda - Love the Macleod Family]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[A tip for you as you enter the real world.  Stay true to yourself and keep your integrity!  There are going to be some bumps and stumbles, but take those moments as opportunities to learn and grow with each one.  Shoot for the moon and enjoy the ride!  Congratulations!]]></note>
+            <author><![CDATA[Kris Stevenson]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for letting me read along with you in History and Government. I enjoyed Mr. Salamone's World History and learned a great deal from your AP Government.  I believe I am a better citizen because of it.  I hope we can continue to exchange ideas in the future.]]></note>
+            <author><![CDATA[Love, Grandpa]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Remember The Gunnery motto translated from the Latin as "A good man is always a learner."  Good advice, I'd say!/R/R(Ron Whittle--The Gunnery 1961-1964, 1968-1979)]]></note>
+            <author><![CDATA[Love, Grandpa ]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be happy and enjoy life.  Life is too short.]]></note>
+            <author><![CDATA[Grandma Rose]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Live each day like it's your last, you never know what tomorrow has to bring. ]]></note>
+            <author><![CDATA[Hailey Stoffel ]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[At the crossroad, where do you turn to? Listen to your inner-self, it will point the right road for you to follow]]></note>
+            <author><![CDATA[Sue Kokke (Aunt Sue)]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Life is beauty, admire it.  Life is a dream, realize it.  Life is a challenge, meet it.  Life is a promise, fulfill it.  Life is sorrow, overcome it.  Life is a struggle, accept it.  Life is an adventure, dare it.  Life is luck, make it.  Life is life, fight for it. ]]></note>
+            <author><![CDATA[Whitney (Mother Teresa)]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hey there little bro,/RProud of you does not begin to cover how I feel of your many accomplishments.  Not only academically and within the world of sports, but also the man you have become.]]></note>
+            <author><![CDATA[Whitney]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Continue to be a guiding light for those around you and never forget to have a good laugh.  Your life has entered a new chapter, write it well.  Congratulations and I love you...]]></note>
+            <author><![CDATA[Whitney]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There is always, always, always something to be thankful for.]]></note>
+            <author><![CDATA[David Handrich]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always follow your heart but trust your gut because some of the roughest roads lead you to the most beautiful places]]></note>
+            <author><![CDATA[The Paquettes - Carrie and Joe]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The grass is not greener on the other side, it is greenest where you make it green.]]></note>
+            <author><![CDATA[The Paquettes - Carrie and Joe]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't ever forget that the little things are the big things and integrity is the most important quality you can possess]]></note>
+            <author><![CDATA[The Paquettes - Carrie and Joe]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Drive fast, take chances but keep it out of the ditch! Don't take things so seriously, have fun and keep your eye on the ball. The early bird catches the worm but after Tuesday even the calendar says WTF!]]></note>
+            <author><![CDATA[Joe Paquette]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congratulations and all our best! Hard work pays off and we wish you much happiness in the years ahead.]]></note>
+            <author><![CDATA[The Paquette Family - XOXO]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Food for thought: /R"Success is not owned, it's leased. And rent is due every day" /R J.J. Watt]]></note>
+            <author><![CDATA[Love you more - Mom]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always remember - There are some things money cannot buy, like manners, morals and intelligence. ]]></note>
+            <author><![CDATA[Love you more - Mom]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Should you ever find yourself the victim of other peoples bitterness, smallness, or insecurities, remember that things could be worse.....you could be them. Always take the high road.]]></note>
+            <author><![CDATA[Love you more - Mom]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

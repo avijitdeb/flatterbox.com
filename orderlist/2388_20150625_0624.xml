@@ -1,0 +1,588 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2388-001</orderId>
+    <orderDate><![CDATA[6/25/15]]></orderDate>
+    <shipTo><![CDATA[JULI DESJARDINS]]></shipTo>
+    <shipAdd1><![CDATA[627 VALLEY VIEW LN]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[WAYNE]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[19087]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_110]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[hot-pink]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Welcome to parenting!]]></heading>
+            <to><![CDATA[Carrie & Gregg Gelinas]]></to>
+            <from><![CDATA[with lots and lots of love.]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[Santa brings 3 presents because baby Jesus got 3 presents.]]></note>
+            <author><![CDATA[Juli]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The best thing to say to your daughter to get her to act properly is "Don't do anything you don't want on the front page of the Mullens Advocate!"]]></note>
+            <author><![CDATA[Mom (Lynda Crotty Jadick)]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There is nothing better than a freshly bathed sleeping baby.]]></note>
+            <author><![CDATA[Juli]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[While you both will dote over your precious baby girl, remember that you came first.  Carve some time out for you; don’t make everything about the baby.]]></note>
+            <author><![CDATA[Tom & Cathy Johnson]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Have family dinners around a table and not a TV. There is no better time to find out about what’s going on in your child’s life than at dinner time. Relax and enjoy this time. We have always done it by candlelight to make it a little more special, but that's up to you.]]></note>
+            <author><![CDATA[Tom & Cathy Johnson]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[While many parents want to be the best friend of their children, it is much more important that you are a parent and a role model to your child.  Discipline will be necessary from time to time; don’t fail to use it.]]></note>
+            <author><![CDATA[Tom & Cathy Johnson]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don’t get too uptight about whether you are always doing everything right.  No one does it perfectly. Kids are resilient and tough.]]></note>
+            <author><![CDATA[Tom & Cathy Johnson]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[This will simply be a wonderful experience for you. Enjoy it, savor it, because it goes fast. You had great role models in your parents; now it’s your turn to show baby girl how it is done.]]></note>
+            <author><![CDATA[Tom & Cathy Johnson]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[CONGRATULATIONS CARRIE AND GREGG!  There is no experience you will have that beats the one you are about to enjoy.]]></note>
+            <author><![CDATA[Tom & Cathy Johnson]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Carrie, this is wonderful news! Nothing like a little girl. Be sure and let anyone who offers help, let them - me included!]]></note>
+            <author><![CDATA[Julia Thomas (980-245-8068)]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Carrie will be a wonderful mom, just like her mom and grandmother were!]]></note>
+            <author><![CDATA[Pam Tice Newman]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I told my mom the one thing they did wrong was they made us go to Sunday School and Church every Sunday and if we didn't, we were grounded until we went the next week. Her response? “If that's the only thing you can come up with, we did a better job than I thought.""]]></note>
+            <author><![CDATA[Pam Tice Newman]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There is one thing you can never have too much of and that is love.  Be sure your baby girl gets a lot of it.  ]]></note>
+            <author><![CDATA[Betty Auman]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be sure and rest when your little girl is sleeping.  The house cleaning can wait.]]></note>
+            <author><![CDATA[Betty Auman]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Trust yourself. A mother's instinct is strong and usually right.]]></note>
+            <author><![CDATA[Becky Anderson]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Take a ton of pictures. Not just of baby, but with you and Gregg too. ]]></note>
+            <author><![CDATA[Becky Anderson]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[She won’t care what the house looked like or what kinds of meals she ate. She will remember how she is loved.]]></note>
+            <author><![CDATA[Becky & Wayne Anderson]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Having fun is more important than following the imaginary rules.]]></note>
+            <author><![CDATA[Becky & Wayne Anderson]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Ignore any and all "expert" advice. Just do what is right for you!]]></note>
+            <author><![CDATA[Becky & Wayne Anderson]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be kind to yourself. Laugh more and worry less – your baby will be fine! ]]></note>
+            <author><![CDATA[Becky & Wayne Anderson ]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Perhaps the most important thing parents can do for their children is to love each other.  Your mom and dad did that about as well as any couple I know. ]]></note>
+            <author><![CDATA[Bill Goans]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Realize you can make straight “A’s” and flunk life. You can win the state, the pageant or the award and flunk life, too.   What helped me the most was meeting Jesus. I would encourage parents to provide spiritual help to their children through a good church, YL, etc.]]></note>
+            <author><![CDATA[Bill Goans]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The best parenting advice I received was to teach your children two things:/R1. I really love you./R2. You can’t have your own way.   ]]></note>
+            <author><![CDATA[Bill Goans]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Carrie and Gregg,/RCongratulations and best wishes for the arrival of your baby girl. /RI'm still trying to figure out this parenting thing but would say first of all, don't sweat the small stuff. As long as your child is safe and loved, you've been a successful parent!]]></note>
+            <author><![CDATA[Leesa (Thomas) Clardy]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When our boys were fussy, we held them against our chest and rocked back and forth while we sang “You Are My Sunshine” over and over. As the boys had their children, they sang “You Are My Sunshine” to their babies as well. Hope it helps with your little one too.]]></note>
+            <author><![CDATA[Rusty & Van Gunter]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congratulations! What a blessing and what fun you have to look forward to. We are very excited for all of you (that includes your little girl). /R/RWe love you Carrie, you all are in our prayers.]]></note>
+            <author><![CDATA[Rusty & Van Gunter]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Lynda always stressed to read to your babies while they are still babies, teach them Bible stories, quote Scriptures, the Lord's Prayer, Psalms, anything from the Bible. Lynda said to "plant it in their minds so later the Holy Spirit can write it on their hearts".]]></note>
+            <author><![CDATA[Anita & John Beard (Mt. Pisgah)]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The first few years will become a blur. Take time to just look at your baby!  They change quickly so take lots of photos & videos, record their baby voices, have some photos with you in them. Pray for your child every day and ask God to guide you.  He surely will!]]></note>
+            <author><![CDATA[Anita & John Beard (Mt. Pisgah)]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The oddest and best advice was from an 'old school' pediatrician: "There are no rules in the first 3 months. Whatever you need to do to survive, do it. The baby doesn't know what it needs. It's just a bundle of nerves. After 3 months listen to it but not before."]]></note>
+            <author><![CDATA[Melanie Adler]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[A good friend of ours described this period in our lives by saying "the days are long but the years are short".  So true! ]]></note>
+            <author><![CDATA[Melanie Adler]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The best advice I have is to read, listen, and hear all the advice shared.  Then choose what will work for your family.  You may tweak advice from others or just file it for another time.  Hope you receive many words of wisdom during this wonderful time! Best wishes!!]]></note>
+            <author><![CDATA[Donna Shelton]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congratulations on becoming parents!! You are in for the most exciting adventure of your life!! Nothing has brought me more joy in life than being a parent. At every stage I thought it can't get better than this...but it did.]]></note>
+            <author><![CDATA[Jayne Lessard]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Keep your marriage the top priority. The definition of a dysfunctional family is a child-centered home. Do date night weekly and set aside time each night to talk about your day. Don't get so caught up in the kids that you lose each other in the process.]]></note>
+            <author><![CDATA[Jayne Lessard]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be a team. Make decisions together and then hold to them. It's far better to be a team then to be right or divided on decisions about children. Your daughter needs to see a united front...mom and dad standing together.]]></note>
+            <author><![CDATA[Jayne Lessard]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Say "I'm sorry" to your daughter when you're wrong. Be vulnerable about your own shortcomings. It lets her know that she doesn't have to be perfect.]]></note>
+            <author><![CDATA[Jayne Lessard]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There are so many things I did wrong and a bunch I did right. Be easy on yourself. Part of being a parent is knowing there is no perfect parent!]]></note>
+            <author><![CDATA[Jayne Lessard]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[If you turn out to be as good Christian parents as your mom and dad, you and your baby will be blessed./R/RCarrie, don't forget....I still love you!]]></note>
+            <author><![CDATA[Nancy Jan Watson]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Homemade cookies cure all for little ones. They will forget you didn't do what you meant to or buy what they wanted, etc. but they will always remember the smell, taste, time and love that went into making fresh homemade cookies (even if they came out of a box).]]></note>
+            <author><![CDATA[Jerry Sumner Riffey]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We mothers tend to look to our mothers for advice with our children. My mother died when our boys were two and nine months. One day when I was feeling like a terrible mom she said, "Do the best you can with what you know on any given day-then move on." Great advice.]]></note>
+            <author><![CDATA[Suzanne & Dave Giffen]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Tell your precious daughter you love her everyday and rock her to sleep with your favorite lullaby.  Don't be afraid to set boundaries, children love boundaries. Encourage her to do things she finds difficult because she can't succeed if she doesn't reach for the stars.]]></note>
+            <author><![CDATA[Patty Clifford Atkinson]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[As long as you always remember that this little girl is actually a gift handpicked by God just for you, you will treasure her and quite naturally do the very best job you can.]]></note>
+            <author><![CDATA[Diane Wise]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You will make mistakes, many of them, but you will learn from them and so will she. As long as she knows that she is loved, you will make it through the rough patches and one day she will be your very best friend. ]]></note>
+            <author><![CDATA[Diane Wise]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Your mom and I used to cry about and pray over our girls together. Carrie, when you couldn't figure out who you were or what you wanted to do with your life, we were positive you would experience that sense of fulfillment if and when you became a mother...(continued)]]></note>
+            <author><![CDATA[Diane Wise]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[(cont)...Your mom and I watched you babysit and spend time with children and saw you in your "natural habitat"! Combine that natural gift with your wonderful, close, fun relationship with Gregg, and you have an environment any child would be blessed to grow up in!]]></note>
+            <author><![CDATA[Diane Wise]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[As a Father of four daughters,  start practicing on how to clean a shotgun.  Then clean it on the front porch every Friday night.]]></note>
+            <author><![CDATA[Dan Boone ]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You guys are going to be AWESOME Parents!]]></note>
+            <author><![CDATA[Dan Boone]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Let her be adventurous without fear of failure]]></note>
+            <author><![CDATA[Dan Boone]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Carrie and Gregg,  as you anticipate the arrival of Baby Gelinas, here in Greensboro we are so excited for you!!  We have so many wonderful memories of the Jadick Family.  The best advice we can offer is /R/RLOVE UNCONDITIONALLY.  /R/RLove and blessings!!]]></note>
+            <author><![CDATA[Jim and Paula Scifres & Family]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be quicker to praise than to correct.]]></note>
+            <author><![CDATA[Molly King]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Carrie will be the most wonderful Mom!  Reason? You had a wonderful Mom and Dad to teach ya!!!!  We love you mucho!!!!]]></note>
+            <author><![CDATA[Mason & Jane Wingo]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Make her Heavenly Father a part of your daughter’s life. She should know when all else fails, (even her parents), He will not. Teach her His love, His word, His promises, His provision and His protection./R/RJust sayin. I know Lynda and Fred would want me to :-)]]></note>
+            <author><![CDATA[Diane Wise]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Keep something handy to record the priceless hysterical things she will inevitably say (we have a quote book that has been running for years).]]></note>
+            <author><![CDATA[Scott Thomas]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Read to her every day.]]></note>
+            <author><![CDATA[Scott Thomas]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Carefully think about the traditions you want to establish with your family early (especially around the holidays) - these can create the foundation for wonderful memories into adulthood.]]></note>
+            <author><![CDATA[Scott Thomas]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Think twice before leaving your pets in the care of your next door neighbors before going on vacation - I've heard the results may not be that great. ]]></note>
+            <author><![CDATA[Scott Thomas]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Tell your little girl stories about her wonderfully fun, loving, & smart grandparents and share pictures.  She will come to know them and their love through you.]]></note>
+            <author><![CDATA[Lavonne Pickens]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[To the many photos you take, be sure to add dates.]]></note>
+            <author><![CDATA[Lavonne Pickens]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Keep a notebook handy and jot down the cute things she says and does. She’ll enjoy reading them later, perhaps to her little one.]]></note>
+            <author><![CDATA[Lavonne Pickens]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Parenting is the hardest job you’ll ever love.  Enjoy the experience, pray often for your family, & share God’s love and teachings with your precious daughter./RI know you’ll be great parents.]]></note>
+            <author><![CDATA[Much, much love, Lavonne]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don’t forget to ‘butter her nose’ on her birthday.]]></note>
+            <author><![CDATA[Lavonne Pickens]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The most important thing you can do for your child is to love and enjoy her. Remind yourself of that when you get stressed about the little stuff or when you beat yourself up over the failures. Also, it's important to take time for yourself to recharge.]]></note>
+            <author><![CDATA[Michelle Andrews]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Never start the day with an agenda!]]></note>
+            <author><![CDATA[David Andrews]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Enjoy it. Even the hard stuff. It's a vapor - so fast. Can't turn the clock back and get baby snuggles, so get a lot. "Jesus loves you and we love you" every single day will get you a lot of the way there.]]></note>
+            <author><![CDATA[Ashley (Kimbrough) Mink]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When Baby Nugget is in a fight with a friend/cousin, make the two of them hug until they laugh. It always worked for us!]]></note>
+            <author><![CDATA[Juli]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Children are such a blessing.  Cherish every moment, even the sleepless nights and temper tantrums.  They truly do grow up too fast! Never be too busy to let them just crawl up in your lap.  Pray with them and sing to them at night when you tuck them in. ]]></note>
+            <author><![CDATA[Love, DL & Rhonda]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Take lots of pictures and keep a family journal to record milestones and special happenings.  Making annual photo books is a great way to remember the highlights of each year.  Try to write down or record funny words or phrases that are unique to your child. ]]></note>
+            <author><![CDATA[Love, DL & Rhonda]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Carrie & Gregg,/RThe love & kindness you give to each other is the greatest gift you will ever give to your child. ]]></note>
+            <author><![CDATA[Fil & Lucie Anderson]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Carrie, I am sooooo excited for you and your husband!! You will be an AMAZING mother! I can give you a fabulous reference:) Love and miss you!]]></note>
+            <author><![CDATA[Mandy Owen Anglemyer]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Carrie and Gregg ~ No baby will ever be loved more than your little girl, and that is the secret. No advice needed!]]></note>
+            <author><![CDATA[Love, Mom and Dad]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Your baby is only a baby for a year - enjoy every minute!]]></note>
+            <author><![CDATA[Love, Auntie Gini & Uncle Dick]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Enjoy the smile and the skin and the feet and the neck and the little ears and the tiny fingers and the grasp of that hand.  Hold her close and say a small private thing to her every day, just to her, every every day.]]></note>
+            <author><![CDATA[Uncle Pug]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Do not behave in any way that you don't want your child to behave; if there is any chance that your behavior might dilute your loving responsible relationship to your child by setting the wrong example, change your behavior absolutely immediately and permanently.]]></note>
+            <author><![CDATA[Love, Uncle Pug]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[(page 1 of 2) Advice about how to be good parents is a variation of advice about how to be a good human being. It's fairly simple, when you get right down to it: Love no matter what.  Never be unkind--in fact, always be kinder than you need to be. (continued)]]></note>
+            <author><![CDATA[Uncle Pug]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[(page 2 of 2) Never ever hold a grudge for longer than 30 seconds.  If you reach a dead-end, just smile, change the topic, touch the other person kindly on the hand or arm or face, and remember to love no matter what. And say "Thank you" many times, no matter what.]]></note>
+            <author><![CDATA[Uncle Pug]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You would not go wrong using your rearing as the rule. However, know that no two children can be reared the same. A different set of rules is not bad. Consider YOUR child.]]></note>
+            <author><![CDATA[Ed Allred]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be sure God is top priority in her life. Take her to church and be sure she knows and honors God.]]></note>
+            <author><![CDATA[Ed Allred]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congratulations! I am so happy for you both. Carrie, I know you will be a fantastic Mom and Baby Gelinas will have a great sense of humor! Just enjoy every minute, the good and the bad, because the time flies by.]]></note>
+            <author><![CDATA[Daine Henderson]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Princess Carrie and Double - we are THRILLED for you! /R/RMen do things differently as parents, and just remember, Princess Carrie, that your way is RIGHT!]]></note>
+            <author><![CDATA[Paxton Family]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Expect your relationship to change, and know that it's normal and OK!]]></note>
+            <author><![CDATA[Kristin Paxton]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When your child is under the age of two years old, do NOT put a basket over your head to play peek-a-boo. This will make them cry thinking your head is gone. (Truth!)]]></note>
+            <author><![CDATA[Kristin Paxton]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When your child is older, ask her what color she wants your hair to be. Then, purchase a wig in that color, and be totally normal when you walk in. I have done this with a blue beehive wig, a rainbow wig and a blonde wig, and my boys STILL love it. ]]></note>
+            <author><![CDATA[Kristin Paxton]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Motivate by giving points. For example, "If you put your cup in the sink, I will give you 100 points!" I have not patented this, so use it. Your young kids CANNOT DO ADDITION. They don't know that 5,000 points is more valuable than 500. Just say whatever you want.]]></note>
+            <author><![CDATA[Kristin Paxton]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be the biggest, baddest Mama and Papa Bears you have ever been. Your child needs you to be their champion. DO NOT rely on or give all your trust to pediatricians and schools. Instead, trust yourselves as parents and never stop advocating!]]></note>
+            <author><![CDATA[Kristin Paxton]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Drink wine.]]></note>
+            <author><![CDATA[Kristin Paxton]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congratulations Carrie & Gregg!   You will be wonderful parents!/R/RCherish and love your baby girl with all your heart; she’s the BEST thing that ever happened to you. /R]]></note>
+            <author><![CDATA[Aunt Jill & Uncle Eric]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Snuggle with her in bed on cold mornings (and warm mornings and all the time). Just snuggle a lot.]]></note>
+            <author><![CDATA[Aunt Jill & Uncle Eric]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Make story time part of your bedtime routine (and wake-up routine and nap-time routine and all the time routine) - and make books a favorite treasure.]]></note>
+            <author><![CDATA[Aunt Jill & Uncle Eric]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dress her in smocked dresses, ribbons and lace...but let her splash in puddles and play in the dirt.]]></note>
+            <author><![CDATA[Aunt Jill & Uncle Eric]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don’t miss a moment – attend every event, every performance, every game, every everything.]]></note>
+            <author><![CDATA[Aunt Jill & Uncle Eric]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Teach her how to laugh at life, at you and at herself.]]></note>
+            <author><![CDATA[Aunt Jill & Uncle Eric]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Read all the books and listen to all the expert advice and then let her raise you!]]></note>
+            <author><![CDATA[Aunt Jill & Uncle Eric]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Every day is a unique chance to enjoy your children. Spend time with them - on the floor, in their play space, doing what they like to do. You'll never regret postponing some other routine responsibility - bills, laundry, errands - due to choosing time with your child.]]></note>
+            <author><![CDATA[Benji Pember]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[No matter how much advice you get from others or how much you read about what you "need" or "have" to do - keep an open mind. There is always more than one way to do things. Sometimes that means parenting with your "gut," with what you FEEL is right for your child.]]></note>
+            <author><![CDATA[Sheeba Daniel Crotty]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Lots of hugs and kisses and show her how proud you are of every little thing she does, no matter how small. Teach her always to be mindful of other people's feelings. You two will be great parents and we are all so excited for you!!!!]]></note>
+            <author><![CDATA[Laurie Stinger]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love this: "Babies are bits of stardust, blown from the hands of God. Lucky the woman who knows the pains of childbirth, for she has held a star." Our advice is to be mindful of your awesome responsibility. Listen, and God will lead you on this fabulous journey.]]></note>
+            <author><![CDATA[Steve and Becky Dare]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Know that when they are little and driving you nuts that ALL stages are temporary...the saying "this too shall pass" is so true !]]></note>
+            <author><![CDATA[Bob and Meredith Wise]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Eventually, you will get sleep, you won't have to drive them everywhere and they will only need you for money and maybe a hug if they have a bad day! Haha!]]></note>
+            <author><![CDATA[Meredith Wise]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Enjoy them as best as you can in the moment. It is so true that they grow in the blink of an eye. Our oldest baby just graduated from high school and I have been crying daily but I know we have done the best we could as parents and the rest is up to her and The Lord. ]]></note>
+            <author><![CDATA[Bob and Meredith Wise]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Go to church. Whatever faith you have, your children will see it and you're going to need a lot of it, especially as parents. We all do! Kids need this. It doesn't matter what church just go somewhere you feel comfortable and not judged.]]></note>
+            <author><![CDATA[Bob and Meredith Wise]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I wish I could start over and do the parenting thing differently. If our kids turned out well (and they did!), it is IN SPITE of me and not because of much I did! Fortunately, the Lord had His hand on them.]]></note>
+            <author><![CDATA[Much love, Von Kimbrough]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Enjoy every second of every stage. There are moments that will seem long and hard but you will blink and they will be gone.  Always follow your gut. You will know what's best for your child. Don't let anyone tell you different.]]></note>
+            <author><![CDATA[Amy and Ryan Krueger]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Make sure you raise my granddaughter right and that means she better be a Philadelphia sports fan.]]></note>
+            <author><![CDATA[what Juli thinks Dad would say]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[hot-pink]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

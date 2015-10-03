@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2036-001</orderId>
+    <orderDate><![CDATA[5/13/15]]></orderDate>
+    <shipTo><![CDATA[Carla Heer]]></shipTo>
+    <shipAdd1><![CDATA[1401 Lee Highway]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Arlington]]></shipCity>
+    <shipState><![CDATA[VA]]></shipState>
+    <shipZip><![CDATA[22209]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_100]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[navy]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Congratulations!]]></heading>
+            <to><![CDATA[Hillary Heer]]></to>
+            <from><![CDATA[Love, All Your Family And Friends]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[We love that you have chosen our home when you're looking for an "escape".  Your visits mean the world to us.  Our door is always open.  We love you very much!]]></note>
+            <author><![CDATA[Team Kemm]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love it when you come to Philadelphia.  You are fun to have around, even when you're not in a bunny costume.   Hopefully you'll come back again next Easter... and before that, too. Love you!]]></note>
+            <author><![CDATA[Kendall Kemm]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You're one of the most genuine and real people I know.  Your ability to relate to people of all ages is a gift.  You have grown into an amazing young woman and I'm so proud of you!  Congratulations on your Graduation!  Now go conquer the world.  I love you!]]></note>
+            <author><![CDATA[Leslie Kemm]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Life is like a camera.../RFocus on what's important,/RCapture the good times,/RDevelop from the negatives,/RAnd if things don't work out,/RTake another shot!]]></note>
+            <author><![CDATA[With love, The Moritz Family]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love that you dressed up as the Easter Bunny for our neighborhood.  It was very funny.  I was happy that you enjoyed it.  Please come visit soon.  I love you a lot!]]></note>
+            <author><![CDATA[Chase Kemm]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I fell in love with my little hill bill on day three of freshman year when she almost ate a Georgetown cupcake off the ground. The love was solidified when she too knew every word to every Disney song written. LOVE YOU HILL HAPPY GRADUATION! ]]></note>
+            <author><![CDATA[Kimmy Kelly ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When you came into my world you made everything brighter.  My little girl is now graduating college and preparing to take on the world. I am bursting with pride with all you have accomplished and eager to see what’s ahead. I love you!]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congrats to my best friend on graduating from COLLEGE! East coast to west coast...no distance can keep us apart. I'm happy to be on this WILD ride with you as we sing our hearts out in every car ride we have ever done. I LOVE YOU HILLARY!!!]]></note>
+            <author><![CDATA[Danielle ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You were the greatest prom date I ever had. ]]></note>
+            <author><![CDATA[Blake...JK Danielle Hahahahah]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Hillary,/ROur thoughts go back to the time when you were a little girl and we introduced you to the Opera. You enjoyed every performance and wanted to sing along. What a wonderful time we shared.]]></note>
+            <author><![CDATA[Oma and Opa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It has been a pleasure for us to see you grow up from a beautiful young child to a charming and successful young lady]]></note>
+            <author><![CDATA[Oma and Opa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I remember listening to your speech in front of your classmates in elementary school when you were voted President. I knew then that you had the potential to be a great leader. You now graduated with all of the required qualifications]]></note>
+            <author><![CDATA[Opa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I remember when you would watch German fairytales on our television. Steven said, "Hillary, you are more beautiful than the princesses!"]]></note>
+            <author><![CDATA[Oma]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You're interested in working for a Real Estate Developer? Well, you did create an impressive blueprint for cross-dressing. /RUnfortunately, it involved me! ]]></note>
+            <author><![CDATA[Griffin ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Stop bothering me...]]></note>
+            <author><![CDATA[Uncle Eric]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[With the twinkle in your eyes, the sparkle in your smile, and the Light shining so brightly over you, we have been Blessed to have you in our lives and watch you grow into such an independent, strong woman. We love you so much. Thank you and Congratulations Hillary!]]></note>
+            <author><![CDATA[xoxo, The Howards]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Fun times?! How about those Wednesday nights with the Lake Avenue Youth Group hanging, skating, playing hide and seek, and other miscellaneous shenanigans with you, Steven, Turner and Sara. Super impressed with you and the Georgetown gig. Love you girl! ]]></note>
+            <author><![CDATA[Patrick ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Hillary,/R/RCongrats on a job well done. You are now officially ready to enter the workplace. Wherever you end up, they will be lucky to have you. Your future is bright. Don't forget nice sunglasses./RMuch love and happiness always]]></note>
+            <author><![CDATA[Barbara McKelvey]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hillary, every time you visit I am always amazed at how beautiful a person you are!!  You have such a big heart, a great laugh and are always easy to talk to.  My greatest wish is that Kendall grows up to be just like you!!!  Congratulations on your graduation!!!]]></note>
+            <author><![CDATA[Love, Jamie Kemm]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Who would have known that the girl who burped during the German Christmas Show and blamed it on her cousin would grow up to be such an amazing person? ]]></note>
+            <author><![CDATA[Auntie Samantha ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Seriously congratulations! I am so proud of you and can't wait to have you back in California where you belong! Enjoy your celebrations and wishing you all the best in your bright future. ]]></note>
+            <author><![CDATA[love Auntie Samantha ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thinking about our time watching "New Girl" will always make me smile. Be the Jess to my Nick Miller forever! ]]></note>
+            <author><![CDATA[Kylie Loeffler]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'm sorry for betting you to eat that mega carrot in the Hamptons then not cashing up...]]></note>
+            <author><![CDATA[Kylie Loeffler]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'll always be grateful for Harbin 8...So lucky to call you my best friend still four years later!]]></note>
+            <author><![CDATA[Kylie Loeffler]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love that you never turn down the opportunity to play with me. Sword fights forever! ]]></note>
+            <author><![CDATA[Kylie Loeffler]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["If ya could change your fate would ya?" - Hil/R/R"If you would like to change your future, why not?" - Accurate "Brave" quote ]]></note>
+            <author><![CDATA[Kylie Loeffler & Kimmy Kelly]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Remember recording dances to "Barbie Girl" & "All the Small Things" at Oma and Opa's during our sleepovers? So lucky to have shared such good times & toothbrushes with an awesome cousin ;)]]></note>
+            <author><![CDATA[Caroline]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[A graduate with a Science degree asks, “Why does it work?”A graduate with an Engineering degree asks,“How does it work?” A graduate with an Accounting degree asks, “How much will it cost?”  A graduate with a Liberal Arts degree asks, “Do you want fries with that?” ha ha]]></note>
+            <author><![CDATA[Tom Elliott]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There are too many amazing memories to recall just one. Here is a random compilation of words that remind me of Hillbilly: Robin Schulz. Abdoool. Word games. SKUBA. die nummer eins. microaggression. i'm so hipster. inflatable polar bear. holi. JIG JIG. TO NARNIA. Jahil]]></note>
+            <author><![CDATA[Tiara]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Everything you start you finish joy and flair. The East Coast has had you for four years; time for the West Coast to get you back! Blessings to my niece, my friend  and my sister in Jesus.]]></note>
+            <author><![CDATA[Auntie Mia]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Can't wait for you to spray me with our hose like you did when I was two when we get back this summer. Congrats on graduating!!! I LOVE YOU!!!]]></note>
+            <author><![CDATA[Steven]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I also have video evidence of multiple airplanes changing course suddenly in the middle of a flight path during our toddler "airplane game". I'm willing to negotiate for you to get it back if you do a good job showing me around Georgetown this week!!!!]]></note>
+            <author><![CDATA[Steven]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Remember that time in middle school where we had to scientifically prove that rolling backpacks were death traps in order for mom to let us buy real backpacks? Well at least you get to graduate from Georgetown holding a real backpack!!!!]]></note>
+            <author><![CDATA[Steven]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[From the first day we hung out at the soccer game and you made fun of me for sweating through my shirt AND sweatshirt, I knew we were going to be friends and I honestly don't know what I would do without you! Even though you don't remember :]]]></note>
+            <author><![CDATA[Your Best Friend]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[As much as I hate to say it, I love watching survivor and I will always watch it now.]]></note>
+            <author><![CDATA[Your Best Friend ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Remember when I found the show the Inbetweeners and made it our thing? I'm glad I introduced you to that ]]></note>
+            <author><![CDATA[Jack]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It's a good thing passing your driver's test the first time isn't a graduation requirement for Georgetown]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Remember Junior year of high school? Pepperidge Farms remembers...]]></note>
+            <author><![CDATA[Jack]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for all the long nights, disney movies, and dance parties! I wouldn't want to do it with anyone else and am so glad you have been by my side since day one!]]></note>
+            <author><![CDATA[Your Best Friend]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love that you always keep your sense of humor so that I can always tell you everything, no matter how embarrassing! ???? ]]></note>
+            <author><![CDATA[Monica]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I remember one time we were in a car and saw a guy fall of his bike. you made a huge u-turn just to go back and see if he was ok. i think of all my friends, you are the one most likely to win on an episode of "what would you do". ]]></note>
+            <author><![CDATA[monica]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[no one impersonates Ke$ha as well as you]]></note>
+            <author><![CDATA[Monica]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You are as smart and beautiful... as Angelina Jolie. ]]></note>
+            <author><![CDATA[Monica]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Remember that one time when we were supposed to be working on homework and instead we created an entire song about how we left our pencils in the hallway? And then mom was watching us through the door...Terrifying ]]></note>
+            <author><![CDATA[Julia]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always enjoy our coffees together sharing, praying, laughing - especially how God showed you the difference between darkness and light (the little chapel). Always walk in His Light! Congratulations on a Job well done - here's to many coffees ahead!! Love you lots!!!]]></note>
+            <author><![CDATA[Keri Crowell and Family :)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Julia: "Hast du mich lieb?"/RDaddy: "Nein"/RHillary: "Hast du mich lieb?"/RDaddy: "Natürlich"]]></note>
+            <author><![CDATA[Julia]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[#kitty]]></note>
+            <author><![CDATA[You know who]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I will always remember and cherish our semester in Berlin together. From our adventure to Hamburg, to the 8 hour bus ride to Munich to see Paolo, to partying it up at the Fanmeile, and watching Survivor! I wouldn't have had such an amazing time if it wasn't for you.]]></note>
+            <author><![CDATA[Anna-Sophia]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I am so proud of everything you have accomplished. You are everything I aspire to be, and I am so glad to call you my sister and to be able to brag about you to all of my friends. BTW they are all jealous of me because I have the coolest big sister ever. ]]></note>
+            <author><![CDATA[Julia]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Hillary!/RSeriously?? Done already? Seems like yesterday your mom couldn't believe your were headed off to College. Sounded like you were both ready! I love hearing about how proud she is of you. I am too,  and can't wait to see what you do in your bright future ahead]]></note>
+            <author><![CDATA[Suzie Johnson]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You are one of the most fun (and unintentionally funniest) friends I have at Georgetown. I will never forget spring break Hillary and the amazing times we had in Canada and at Georgetown. Never change, you rock, love you. ]]></note>
+            <author><![CDATA[Nicole Carpenter]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My favorite memory with Hillary  is dancing around and singing "What Does the Fox Say?" I knew we were true friends then and am reminded every time I'm given a nonconsensual hug. Hillbill, I am so lucky to have you as one of my best friends. <3]]></note>
+            <author><![CDATA[Kat(fish) Robertshaw]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hillary, not only are you beautiful and funny, but you have proved to the world that you are smart as well. There are few people that have that delicate balance. I wish you much happiness in this world. Love you very much.]]></note>
+            <author><![CDATA[Elsa]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["I love you!"/R/R"....I love you too!!!"]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You were right. You are the "DUFF" in our friend group./RD: Disney lover /RU: Upstanding citizen (like when you streak throughout Georgetown and body slam port-o-potties)/RF: Fan of Survivor/RF: Fabulous and fierce/RYou're the best kind of DUFF and I love you for it.]]></note>
+            <author><![CDATA[Laura Kelly (: ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'm so grateful to have spent the last four years with you and call you one of my best friends. Never lose your silliness and your love for Disney movies/Prince of Egypt.]]></note>
+            <author><![CDATA[Emmalee Greiner]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Love you, Hill Bill!!! Congrats on all your accomplishments and the amazing things you've done here.  So excited to see what happens next for you. xoxo]]></note>
+            <author><![CDATA[Emmalee Greiner]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hill-There is no one I would have rather spent a whole year in our Jack & Jill with!! I had so much fun getting so close to you this year! Loved our exciting court visits and reading those creepy messages (you know what I mean)! I love you sooo much hill bill! ]]></note>
+            <author><![CDATA[Nati]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I don't think either of us will ever forget the best semester of our lives, Fall of Junior year. From meeting Warren Buffet, to stealing our coveted tiki torches and getting stranded upon that Village B rock, you will never stop being my partner in crime!]]></note>
+            <author><![CDATA[Sarbear]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Can't wait for our many reunionnnns!!! Love youuuu the mostest!!]]></note>
+            <author><![CDATA[Nati]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My dearest Hillary,/REver since I first met you and told you how much you reminded me of my mom's best friend I knew that we would become great friends. From the struggles of getting you into Bando (lolz) to owning Tombs Trivia I can't imagine my time at GU without you.]]></note>
+            <author><![CDATA[Barbara Callahan]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Here's another one to commend our friendship and to reminisce on some more important life accomplishments: making it to Germany to watch the World Cup final (and more importantly, finally making friends with you know who - don't worry, I think his friend liked you)!]]></note>
+            <author><![CDATA[The future Mrs. Yellow Shirt ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I would like to propose a toast to all the pigeons we have and will "encounter" before finally meeting our doves. We know they come in all shapes and sizes: a 6'4" bball player, a slightly smaller red haired angel, and even the cousin of an esteemed football player...]]></note>
+            <author><![CDATA[... #Beergogglesarereal]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congratulations Hillary!!!/R/RYou have accomplish so much! I am sure it was a lot of hard work along the way. But I also sense that you kept a good measure of fun to balance it out. Perfect and well done. /RI am really proud of you!/R]]></note>
+            <author><![CDATA[F'Uncle Paul ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I will never forget coming home and you were over with Sara (and others) dancing around and acting silly when I knocked on the patio door and watched you scream then burst into laughter! What a gift to watch you grow into the beautiful woman you've become! Congrats!]]></note>
+            <author><![CDATA[Mrs. S (and Mr. S too!!)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Even though you're probably going to start your real life, and do grown up things, you'll always be my G, and at no point ever will anyone be able to beat us in a dance off... Ever. I love you so much and am so proud of you!!]]></note>
+            <author><![CDATA[Jack]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[A Poem for Hillary:/RHillary you are so dope,/RWith you I never mope./RI can't believe we're so old,/Rbut our friendship is as told:/RWe KICKASS at our British talk,/RWe even know how to Facebook stalk,/RWe are future Amazing Race stars,/R& always friends-near or far. ]]></note>
+            <author><![CDATA[Danielle]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I remember when your brothers would break something and you tried to take the blame so they wouldn't get in trouble. It never worked because a golfball through the window was not your style.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You walked outside when you were 5 and saw tons of dove feathers on the lawn. You said, "Well at least it got away!" I love your optimism.]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When at Highland Oaks many neighborhood children took piano lessons from Mrs. Barber. On Thursdays everyone, led by the older children,would walk up together to music theory. Kristin & Brad were so impressed by Hillary because she was so smart and could speak German.]]></note>
+            <author><![CDATA[Kristin & Brad Phillipi]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[HILLARY <3 You are a one-of-a-kind crazy gal I can always count on for a good time. Thank you for always being a friend to me and for being as generally awesome as you are.  Do we have to say goodbye?! Nope. I'll be seeing you soon!! Love you always & forever!!]]></note>
+            <author><![CDATA[Raphael (aka Jazzy)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[HILLARY! I can't believe you're already graduating. I am so grateful to be able to have you as a cousin. I'm so excited for you and I love you very much! ]]></note>
+            <author><![CDATA[Love, Emma]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I wish the cheat [rosebud;!;!;!;!;!;!;!] that we used on the SIMs in order to get unlimited funds worked in real life...]]></note>
+            <author><![CDATA[Emma]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Wow!  I can't believe it is already time for you to graduate.  It seems like just yesterday, you were babysitting Emily and Will.  /RYou are an amazing example of hard work and accomplishment.  Be proud of yourself and know that you can do anything you put your mind to!]]></note>
+            <author><![CDATA[Jill, Emily and Will Atkinson]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Hillary,/R/RThank you for being such a wonderful role model for Emma and Caroline.  You are the epitome of a strong woman, who leads by example with your convictions and values.  We are so excited to watch what you will do next!  Congratulations!!]]></note>
+            <author><![CDATA[The Lihani Family]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I will never forget all the stories your mom told Mary Beth and I about your college days on our weekly hikes!/RAlways remember: there is no limit to what you can do if you keep believing in yourself./RCongratulations, and all life's best to you!/R/R]]></note>
+            <author><![CDATA[Ana Maarse and Family]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Hillary,/RYou are created in love, and designed to enjoy a life full of passion and purpose. Trust God to open and close doors along the way, to protect you and guide you into love, joy, and wellbeing. Your gifts and talents will serve as a blueprint for success. ]]></note>
+            <author><![CDATA[Lots of Love, Cindy and Paul ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hillary,/RWhat a great achievement it is to graduate from college! I hope you find a job you love and feel fulfilled while doing it.  Don’t settle because the opportunities are endless and your hard work will pay off! Congratulations!  Xoxox/R/R]]></note>
+            <author><![CDATA[Courtney and Andrew]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hillary,/RCongratulations on this big accomplishment!! I hope this next chapter in your life is filled with love, happiness, and whole new discoveries!! /R/R]]></note>
+            <author><![CDATA[Aubrey, Taylor, and Scarlett]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hey Hillary,/RCongrats on graduating from college! I'm excited to see what the future has in store for you! I'm sure you will do well in whichever path you choose to take.]]></note>
+            <author><![CDATA[Graydon]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congratulations on graduating from Georgetown, Hillary! I can't wait to see what you'll end up doing later on!]]></note>
+            <author><![CDATA[Harrison]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't sit around and wait for Prince Charming. When you are ready,  you'll have to go out and find him. The poor idiot will probably be lost, or stuck in a tree or something.]]></note>
+            <author><![CDATA[The Crabtree family ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When life hands you lemons, make lemonade. Then find someone who's life has handed them vodka and have a party!]]></note>
+            <author><![CDATA[The Crabtree family]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When we were little, every time you would get mad at me you would scream "I'm running away!" And I, being a loving little sister, would cling to your leg to try and make you stay. Georgetown was a fun vacation, but now it's back to California FOREVER.]]></note>
+            <author><![CDATA[Julia]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["You're trying not to laugh /RYou're trying not to laugh /Rho ho ho/Rhe he he /RYou're trying not to laugh"]]></note>
+            <author><![CDATA[Daddy]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Remember that time when Hannah Montana stole all our lines like they were watching us... "Freaky Freaky Fresh!" And no one believed us]]></note>
+            <author><![CDATA[Julia]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Wise uncle once said: "Do not blow on bee hives"]]></note>
+            <author><![CDATA[Uncle who doesn't follow own advice]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for being my best friend since the beginning, for all the weird dance parties, for getting drunk and having no place to go, and for going on crazy adventures. May our crazy, beautiful friendship continue on forever!]]></note>
+            <author><![CDATA[Kelsey McAlister]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Cheers to all the times we tricked people with our silly pranks, including the time your babysitter told our parents we were prank calling people after he taught us how...]]></note>
+            <author><![CDATA[Kelsey McAlister]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[If you build it, he will come.]]></note>
+            <author><![CDATA[The Voice (Field of Dreams)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You are the ultimate example of authenticity! You put it all out there; your faith, your passions, your empathy, your fun./RWhether running through AHS as your favorite action hero or anguishing with a friend, you are the real deal. So thrilled to get you back!]]></note>
+            <author><![CDATA[Mary Beth Haney]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congratulations on all your accomplishments.  It has been a lot of fun watching you grow into the amazing young woman you have become. Even so, du wirst immer meine kleine Maus sein.  Ich Liebe dich. ]]></note>
+            <author><![CDATA[Daddy]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Ha your dad is the decider...and then Ms. Oklahoma broke a nail! Your mom totally bought it./R]]></note>
+            <author><![CDATA[Kelsey McAlister]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[/RCongrats Hillary! /RYou're coming into a new chapter in your life! One that I hope is filled with happiness and love! Cherish every second of this crazy, amazing journey called life! I love you and am so proud of you!/R ]]></note>
+            <author><![CDATA[Love, Allie]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dearest Hillary,/RWell your graduation from Georgetown is bittersweet for me. Oh the memories---so sweet, so very sweet, the fact that I will probably never see Jeff at the Rhino again--bitter, very very bitter ;-)/RCongratulations on a job well done!!/R ]]></note>
+            <author><![CDATA[Love Auntie Oohla ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Here's to us meeting at that awkward GAAP weekend lunch and then being fated to live next to each other! We've had a blast these past four years, and I'm so grateful to have had you as my best friend since the very beginning. Can't wait to see what we do next! :) ]]></note>
+            <author><![CDATA[Erika Solem]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You can fall in love with a rich man as easily as a poor man...Actually easier!]]></note>
+            <author><![CDATA[Grandma]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When raising children love, gentleness and sweetness is all well and good but fear gets them to obey.]]></note>
+            <author><![CDATA[Grandma]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I admire your grace and elegance that was showcased at Modelette. It was there that you showed the world how to walk the runway with confidence while chewing imaginary gum.]]></note>
+            <author><![CDATA[Grandma]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2174-001</orderId>
+    <orderDate><![CDATA[6/4/15]]></orderDate>
+    <shipTo><![CDATA[Christine Bakker]]></shipTo>
+    <shipAdd1><![CDATA[551 Coldstream Drive]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Berwyn]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[19312]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_110]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[navy]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Thanks for the Memories]]></heading>
+            <to><![CDATA[Dan - TESD]]></to>
+            <from><![CDATA[From your T/E Friends]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[Best wishes for a long, healthy and inspiring retirement! I join so many others who have had the honor of service to the T/E community under your leadership, always guided by principle, purpose and pragmatism. May the future bless you richly with peace and contentment.]]></note>
+            <author><![CDATA[Lois Heist]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[No matter what problems we were trying to solve or what solutions we proposed, your very first question was always, "Is it good for kids?" Thank you for your guidance and support through the most challenging and rewarding phase of my professional life.]]></note>
+            <author><![CDATA[Joyce Videlock]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I will be forever thankful that you were a trusted friend that trusted me and that you shared your knowledge and experience, but let me find my way. /RI will never forget that, 1) we only need 5 votes, 2) we ride alone and 3) we just have to wait on it. Sincerest thanks,]]></note>
+            <author><![CDATA[Betsy Fadem]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Only you know my journey of losing my Mom, hitting rock bottom and making the slow, painful way back. Your friendship and support during those times will never be forgotten. You have been a constant in my life for 20 years.You will now be a constant in my heart forever.]]></note>
+            <author><![CDATA[@]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hey Boss! Superintendent and Union President—you won’t get along, they said. Boy, were they wrong! Thanks not only for the great working relationship, but also the friendship. A mere thank you doesn't seem sufficient to begin to express my gratitude! I will miss you!]]></note>
+            <author><![CDATA[Lori Henry]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I feel very lucky to have been able to work with you, Dan. Your commitment to our students has always been paramount in each of the decisions you have made. Thank you for giving me the opportunity to be a part of such a great leadership team. I will always be TE proud!]]></note>
+            <author><![CDATA[Wendy]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When I think of you the words that first come to mind include integrity & character. And of course - strawberries! I feel so honored to have served on the Board when you were at the helm. Thanks for being a great leader, and even more for being a special friend. Best!/R]]></note>
+            <author><![CDATA[Sandi Gorman]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["You can't make this stuff up" will forever resonate in my head whenever I think about my time on the Board. Your hard work for and dedication to the students of T/E will be a lasting legacy for the District. It was an honor and privilege to work with you. ]]></note>
+            <author><![CDATA[Debbie Rollins]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You gave me my first teaching contract and I am so thankful for you taking a chance on me. Thank you for your years of service to the T/E community, for your example of humble leadership, and for inspiring us all to be T/E proud. Best wishes for a wonderful retirement!]]></note>
+            <author><![CDATA[Jacqui Hickey]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When I was on the committee to find a new principal for CHS, we went to Souderton and met your colleagues there. I will never forget one man said he would follow you into battle! Remember when I helped Nick with his college essay? Hope he is fine.]]></note>
+            <author><![CDATA[Marylyn Calabrese]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan,/RThanks for the "access, options, and choice." You believed in me, first as a young teacher and then as a seasoned administrator. You said to be hard on problems, not people, to tell the truth, and to put kids first...and the rest will come. Thanks for all you did!/R]]></note>
+            <author><![CDATA[Delvin]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It always hurts to lose that one best person, who leads the pack at work and gets everything done. /RThe person who moves ahead and takes everyone else along, who builds a winning team by making everyone strong./RThank you for always being /RTE Proud!/R]]></note>
+            <author><![CDATA[Mary Minicozzi]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It is my pleasure to have been a partner with you working to make TE a superb district of which the students and community can be proud. Your leadership, friendship and mentoring have had a major impact on my life and thinking. Thank you.]]></note>
+            <author><![CDATA[Pat Wood]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It always difficult to say farewell to the person who leads in a visionary and dedicated manner, gets it done with success, moves the organization forward, takes everyone else along and builds a winning team by making everyone stronger. TE’s loss is your family’s gain!]]></note>
+            <author><![CDATA[Art McDonnell]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for your years of dedication and inspiring teachers to reach their full potential. Best of luck in retirement!]]></note>
+            <author><![CDATA[Anthony DiLella]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The interview process was grueling - an endurance test. On the job, under your leadership, I felt immensely supported, respected and privileged to be a part of the T/E mission. It was the best experience of my professional life. Thank you for that Dan.]]></note>
+            <author><![CDATA[Susan Yates]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan, I want to thank you for my personal growth and always beleiving in me. You are part of the reason why I am who I am. Now that I am moving on to Valley Forge Military College I expect you to be at a game or two lol. I love you and good luck with retirement.]]></note>
+            <author><![CDATA[Dante Coles]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Dan-/RWell, you're finally leaving your Superintendent "home" in TE for over two decades! Congratulations on your well-deserved retirement! Now you'll have time for Carol, Nick and running again! Thanks for supporting NE - great memories.]]></note>
+            <author><![CDATA[-The Kobs-BA, Steve, Dave and Lexie]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan, congratulations upon joining the ranks of retired folks from T/E. Now you'll have the time to enjoy all those spy and suspense novels that we have traded over the years. I always enjoyed working with you from your time at CHS. Best wishes always.]]></note>
+            <author><![CDATA[Don Barr]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Dan,/RBest wishes for a wonderful retirement! I hope you find many moments of relaxation and recreation. Thank you for your support and guidance over many years. You've created a leadership legacy of excellence that has greatly benefitted so many students and staff.]]></note>
+            <author><![CDATA[Fondly, Stephanie]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[TE Proud! /R/RYour legacy for creating such a culture through your leadership, and dedication to serving the TE community. /R/RWhenever I hear "TE Proud" I will always think of you! Best wishes as you enjoy your well earned retirement./R]]></note>
+            <author><![CDATA[ ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for sharing books with me. You introduced me to the writing of Marcus Aurelius and others. I always appreciated your intellect and ideas. We had great conversations about the future, education and life. Thanks for your friendship and support! Enjoy retirement.]]></note>
+            <author><![CDATA[Cathy Bond]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Sometimes you meet people that change the course of your life. I consider you one of those people in my life and I will always remember and be grateful for the opportunities you presented to me. I wish you all the very best and will miss your leadership and compassion.]]></note>
+            <author><![CDATA[Nancy Adams]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan, do you remember the summer of 1988 when I stopped into the office to meet you? You knew me like a book before we met. You were the most supportive principal during my 35 years at CHS. I am very appreciative for all you did. Have a relaxed and healthy retirement.]]></note>
+            <author><![CDATA[Best Regards, "Heister"]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan- Congrats on a great career! Thanks for all the help/support over the years. Much of the success of the TESD is a result of you and your leadership. Enjoy your retirement. Are there signs in Pittsburgh saying bring back Dan? Dimatteo will break a brick for you!]]></note>
+            <author><![CDATA[Gick]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It is with great happiness for you that I write this congratulatory note. From the moment we met to the last day of my employment, I have nothing but wonderful memories of you as a principal, superintendent, mentor and friend.Best wishes for a well deserved retirement.]]></note>
+            <author><![CDATA[Mike Werley, CHS]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My favorite thing has been receiving notes or texts from you that end with "Thanks for all you do." Or even better ... "Bruce will be at Devon tonight." :) /RA heartfelt thank you for being such a caring and generous leader and always supporting the kids. I'll miss you./R]]></note>
+            <author><![CDATA[Jeanne Braun, ARCH]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan,/RMany thanks for your continued support over the years. When I arrived in '98, I knew from Brad that you were a special person to work for, and I tried my best to learn the T/E way from the old guard. Thanks for modeling it in everything you do. All the best!/R]]></note>
+            <author><![CDATA[John Mull, T/E Proud]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I always thought that looking in the mirror every day gave me an opportunity to reflect on who I am as a person and what I want to become. The opportunities that you provided allowed me to accomplish my goals and be true to myself. I'm grateful for your mentoring.]]></note>
+            <author><![CDATA[Mark Cataldi]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You gave me the best job of my career and the opportunity to experience the skill and the art of excellent leadership. I consider myself very blessed to have a role model like you. I not only have TE Pride, but Daniel E. Waters pride! You will be missed!]]></note>
+            <author><![CDATA[With heart felt thanks, Andrea]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One of the very best moves I made was returning to TE to conclude my career working with you. You understood the challenges and rewards of being a principal. I deeply appreciated your confidence and belief in me. I was proud to have served with you… my heartfelt thanks.]]></note>
+            <author><![CDATA[Tom Tobin]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Dan:/RMay you have good health and happy times during your retirement with your family and friends....I will always remember the pleasant smiles and encouraging words that you gave me ,when we passed each other in the halls for so many years..../RI wish you the best./R]]></note>
+            <author><![CDATA[Pat Tunnell, Transportation]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We shared 17 years, over 300 board and committee meetings, around 30 different Board members, easily over 3 days worth of public comment and AT LEAST 25,000 emails and text messages - you should be pretty sick of me by now! Enjoy your retirement - you sure earned it.]]></note>
+            <author><![CDATA[Ken]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I will never forget the evening I brought an old memory book from my grade school days at Cathedral School and you asked where is this school...magic. Our common Mt. Pleasant, Pa, roots unfolded...Riggs family....Candyland....Firemen's Fair...Brierchecks...and TE PROUD!]]></note>
+            <author><![CDATA[Kris Naylor Melago Graham]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Define your own success. Access, options and choice...better give that to KO. Wear velvet gloves. Good teachers make good students. Ya gotta believe! It has been my extraordinary privilege - for at least once in my life - to work with the best. Pressing on.]]></note>
+            <author><![CDATA[Carol Aichele]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you, Dan, for all that you have done for T/E over the years and also for all that you did for me. I learned so very much from you and I am appreciative. You always put students first and your dedication is exemplary! Congratulations.]]></note>
+            <author><![CDATA[Nancy Letts]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You may not remember how much you helped me with an unenthusiastic geometry class but I have never forgotten. I was out of ideas and needed help badly. I'm still using your advice as a volunteer!]]></note>
+            <author><![CDATA[Jean Tucker]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always the teacher, you stood shoulder to shoulder with me as I transitioned to Devon and /Rthen to a director./R/RYour leadership transformed so many of our lives and helped so many children. Thank you./R/RMay your "next chapter" be happy, healthy and fulfilling./R]]></note>
+            <author><![CDATA[Sue]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[As a new administrator at TEMS, I was stunned when kids egged my office windows. You emailed me, "They used to write on the walls about me. Keep up the good work." I kept that email in my desk drawer for the rest of my career. Your words meant so much. Thank you.]]></note>
+            <author><![CDATA[Michele Capuano Staves]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan,/REach of the last 3 years you have asked me to stay on until you retired. Each year I said that I could only give you one more year. Well come June 30th, we are retiring together. Thanks for all of your faith and support over the years./RRobin/R]]></note>
+            <author><![CDATA[Jack of all trades and master of __]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Dan, Congratulations on your retirement! We want to thank you for your steady leadership and your personal support of both of our careers in the District. We are forever appreciative and grateful. We hope you enjoy a happy and very long retirement!]]></note>
+            <author><![CDATA[Pat and Karen Gately]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for creating the ISC and fostering a forum for an open exchange of ideas between parents and the district administration. We will miss your positive input at the meetings. You always made the "youngsters" a priority. All the best on your next venture!]]></note>
+            <author><![CDATA[TESD Interschool Council]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I sincerely believe that the most personal and professional satisfaction I had as an educator was planning and problem solving with you. I now look back on those sessions as one of the fun times in my memory box! Thanks for being a great colleague and friend!]]></note>
+            <author><![CDATA[KP]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan,/RThe standards and expectations that you established have benefited thousands of students and will continue for many years. I can't thank you enough for your leadership, your example, your counsel and for your support of my career and family. Congratulations!/R]]></note>
+            <author><![CDATA[Todd Parker]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan: Thanks for being such a strong and forward thinking leader for our District! I learned a tremendous amount from you and thank you for your unwavering commitment to young people and to the professional development of your staff.]]></note>
+            <author><![CDATA[Karen Cruickshank]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Although you don’t like to be quoted, this is one I will remember. “Put students first.” This has been evident in your work every day. You have had a profound impact on the lives of so many. Thank you for positively influencing my life and for your support. Best wishes!]]></note>
+            <author><![CDATA[Becky Wills]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It has been a pleasure working with you. I am thankful that you believed in me and felt that I had the necessary “tools in my toolbox”. I sincerely appreciate your support, trust and confidence. May the next chapter in your life bring you good health and much happiness.]]></note>
+            <author><![CDATA[Diane Cohle]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan you have helped so many in the TE community and we will all miss you. Thanks for your encouragement and guidance during some difficult times, for the numerous lessons you have taught us all. Appreciate you being a regular guy to the TENIG staff. Best Always!]]></note>
+            <author><![CDATA[Dave Fillippo and Family]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan, thank you for your faithfulness in supporting TENIG members by always expressing our importance and necessity within the framework of the District to the many different school board members over the years in your position during your tenure as superintendent.]]></note>
+            <author><![CDATA[Enjoy your time. Best, John Brooks]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congrats on your retirement! There is life after T/E, but the place will not be the same without you. I remain Conestoga Proud, and proud to be able to say I taught under Dan Waters. If you ever come south there is a room for you with us at 699 Chelsea Dr. in Sanford.]]></note>
+            <author><![CDATA[Brad & Bobbie Butler]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan,/RI had never worked with a nicer person than you. You were a very good principal and a gentleman. Best wishes in retirement and good luck!/R]]></note>
+            <author><![CDATA[Rose Romano]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan,/RYou were one of the nicest principals and an exceptional superintendent. I always enjoyed talking with you and appreciated you often asking about my family. Thank you for being so personable. I wish you the best in retirement./R]]></note>
+            <author><![CDATA[Pat Day]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan--Thanks for being you and for helping and letting me be me. Thanks for always being my friend.]]></note>
+            <author><![CDATA[Littlewood]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Back in the days of our time on Curriculum Council, I knew you were a"teacher's teacher".You listened! You encouraged creative, joyful learning experiences and you understood the value of an enriched Early Childhood Program. /RMy best to you, my friend,/R]]></note>
+            <author><![CDATA[Stella Niccolo]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan,/RMy fondest wishes for a wonderful retirement. I have enjoyed working at TESD with you at the helm. Our many talks have shown me your integrity and I can't begin to express how much your honestly has always meant to me. I will truly miss you. God speed./R]]></note>
+            <author><![CDATA[Gwen Durante]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan,/RI wish you all the best with the next chapter in your life.  Thank you for all you did for the District.  Rich certainly has big shoes to fill./RIt was a pleasure to work with you./R"The harder you work, the harder it is to surrender."  - Vince Lombardi/R]]></note>
+            <author><![CDATA[Barb Rossino]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congratulations on your retirement. It has been an honor and a pleasure to work with you. You epitomize professionalism, dedication, and excellence. Thank you for the opportunity to work in this amazing environment. You have forever changed Malcolm's and my life.]]></note>
+            <author><![CDATA[With gratitude ~ Karen Whyte]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Please accept my sincere appreciation for a career that has been dedicated to doing what is right for children. It has truly been a privilege to work for you and I thank you for this amazing opportunity. Warmest wishes on your retirement. Enjoy!]]></note>
+            <author><![CDATA[Lisa Snyder]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for providing me with the opportunity to join the T/E team. Your wisdom, support and guidance have meant a lot to me./RRather than wish you a relaxing retirement, I will wish you much joy and success in your next career endeavor!/R]]></note>
+            <author><![CDATA[Jeanne Pocalyko]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan,/R/RThank you for all that you have done for me and my family! I am incredibly fortunate to have been able to learn from you. Your wisdom, presence, and constant support have meant so much to me through the years. Know that you will be sorely missed./R]]></note>
+            <author><![CDATA[Matt Gibson]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["What's up Doc!"/R/RDan, Thank you for your generosity, kindness & leadership. Thank you for your understanding when my dad was sick and advice for getting Jody back on track at school. I wish you all the best with your new adventure. I'm sure it will be wonderful!/R]]></note>
+            <author><![CDATA["Bugs"]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for your support of BUILD! Enjoy your retirement!!/R/R- Wendy Brooks, Michele Lynch and Susan Peterman]]></note>
+            <author><![CDATA[BUILD]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for the outstanding student focused world you have created, our world is better because of what you have accomplished. I am incredibly grateful for having the opportunity to be part of this amazing place and will always be T/E Proud!]]></note>
+            <author><![CDATA[Chris Groppe]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan,/RI will always be grateful for your support and confidence in my skills as an administrator. I will never forget the day you went to PDE with me to testify on my behalf so I may be able to receive my administrative certification. Your dedication will guide me./R]]></note>
+            <author><![CDATA[Oscar Torres]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I was so happy to hear about your retirement. It must be a great feeling to have it finally arrive. Yours is well deserved. You have worked tirelessly to make TE the best District in PA. Anyone that knows what you have done cannot deny that! Good Luck.]]></note>
+            <author><![CDATA[Fred Gordon]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I truly enjoyed the time we spent together over the last 6 years. Your tireless dedication to the students of our District is remarkable. You have left a mark on the schools that will remain long after you retire. Thanks for always having my back, and the kids' backs.]]></note>
+            <author><![CDATA[Kevin Buraks]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congratulations on a wonderful career, and best wishes for a happy and healthy retirement! Your years of tireless dedication and leadership will have a positive effect on the children of T/ESD forever.]]></note>
+            <author><![CDATA[Mike Szymendera]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan Waters:  A Mentor, Teacher, Worker, Athlete and Friend./RYou gave your considerable talent to make all of us better at what we do, you taught me to be TE Proud. And to understand what that means. Your example of excellence remains a legacy in all who worked with you.]]></note>
+            <author><![CDATA[Tom Daley]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan, you have helped me grow so much professionally and I am grateful to you for this. I have learned so much from you, but I think the most important traits you have taught me are be strong (no crying), fight for what I believe in, never give up and always say, Thanks!]]></note>
+            <author><![CDATA[I wish you the best! Nicole]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It's been a great pleasure working with you! I always enjoyed helping you in your time of technology crisis and we both know that was often! Just kidding! /RThank you for trusting, encouraging and believing in me. You have been a wise, approachable, and gentle leader./R]]></note>
+            <author><![CDATA[Lisa Lukens]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It has truly been a pleasure working with you these past two years.  I have gotten to see how much you care about children and public education first hand.  I wish you nothing but the best as you move on and hope that you will remember your TE years fondly.]]></note>
+            <author><![CDATA[Sincerely, Bob DeSipio, TEEA]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Friend,/RIt has been a long and wonderful journey with you. You and I have so many things that we could go back and remember but I would have to go back to when you started. You have been a great boss and a friend - thanks for everything.  Find something to do.]]></note>
+            <author><![CDATA[Pat Berry]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Enjoy your retirement, slow down and smell the roses. Thank you for taking a chance on me twice.]]></note>
+            <author><![CDATA[Jeff Curtis]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank for you the opportunity to work in such a wonderful school district. Thank you for taking a chance on me and allowing me to grow. You will never be forgotten.]]></note>
+            <author><![CDATA[Patrick]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan,/R/RThank you for giving me my first professional opportunity in the TE School District. Thank you for your many years of dedication as well. Congratulations and enjoy!]]></note>
+            <author><![CDATA[Mark DiMarino]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for answering your own phone, and for always telling the truth! You always put our children first. Enjoy your well deserved retirement. "...Well done, good and faithful servant."]]></note>
+            <author><![CDATA[Liane and Steve Davis]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan -/RWOW - it is going to be hard to envision T/E without you here anymore. I wish you all the best in your next chapter of life - Thanks for being there for me during some of my tougher times - and for working together and surviving that CRAZY 2010-11 school year !!!]]></note>
+            <author><![CDATA[Pete DePiano (go 'Nova)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan,/RI have enjoyed working with you over the last several years. I wish you all the best in your retirement. ]]></note>
+            <author><![CDATA[Dave Obzud, Easttown Township]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[On behalf of FLITE and the many students who benefited from your boundless caring, leadership, labor, ingenuity, patience and time, thank you. Your dedication and kindness enhanced the lives of countless students. Wishing you many years of peace, health and happiness.]]></note>
+            <author><![CDATA[Rachel Gibbs, FLITE Chair]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Phone to your ear, you're looking at the blizzard through your office window trying to decide if you should send the students home early, while the dude from Accu-Weather in State College is blithely telling you that it is not snowing, but raining.]]></note>
+            <author><![CDATA[Mary Lou]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[danno, congratulations on your retirement.thanks for all you did for the teachers of the district. we each worked our side of the road, but never as adversaries, to the benefit of all. continued good health and fortune. best, always, gunner]]></note>
+            <author><![CDATA[Paul Slaninka]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We are...Thank you for your dedication to this district. You have made an important impact on my career. /ROne memory I will never forget is spending the morning of 9/11 with you and Marie at the District Office on First Ave. A day that changed so may lives forever.]]></note>
+            <author><![CDATA[Shari Capriola]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan Waters puts kids first, always. He says things that other people won’t, and he does things that other people can’t. Later, it all makes perfect sense. He is an unmitigated visionary. If it were up to me, we would rename Conestoga High School after him. T/E Proud.]]></note>
+            <author><![CDATA[Andy Phillips]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congratulations on your retirement! I enjoyed working through many challenges with you. The best was surviving the Red Jeep Brigade! You and I are still standing tall- I'm not so sure he is!! Thank God for Tank and Plyler who alway helped to bail us out!! Stay active!!]]></note>
+            <author><![CDATA[Cap]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan - /RI have always enjoyed working with you over these past decades! I wish you the best of luck in your future endeavors. Your usual comment, "our COPS are Tops" has always been truly appreciated. By the way, you are "Tops" as well!]]></note>
+            <author><![CDATA[Superintendent Anthony Giaimo, TTPD]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Dan,/RI prepared my message by sitting down with pen and paper and honestly my pen is my most prized position. It is a chrome Cross pen inscribed "D. G. Big C Team 1993" I don't know how many other pens there are but I want you to know I am always on your team.JOY./R]]></note>
+            <author><![CDATA[David G.]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[For you, the focus of the magic that defines T/E was the students.You placed students at the heart of every decision, the core of every action and the inspiration for the future. Bravo to an incredible leader who created an extraordinary legacy!]]></note>
+            <author><![CDATA[Best wishes, Marie Slobojan]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan, a wonderful man who had to come see "The Big Man" for counseling and advice! I'm sure that wisdom will keep you content in your retirement!]]></note>
+            <author><![CDATA[Dion Stokes]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congratulations on your retirement. I hope you enjoy every day.]]></note>
+            <author><![CDATA[Jennifer McLuckie]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hey Dan,/ROf all that happened during my 13 years on the Board, your hire was one of the high points; right up with Sex Ed and Redistricting! Seriously, who could argue with a smart person who loved kids, had a great sense of humor, and was committed to great education?]]></note>
+            <author><![CDATA[Sue Currie (Ciocco)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan, I’ll always remember the masterful dissolution of PI, our must-see-TV programs, the Pax Romana and that we can’t save people from themselves.I'll miss your covert sports updates, your 5 am texts on snow days, your unwavering support and your joyful laugh next door.]]></note>
+            <author><![CDATA[Thank you for being a friend, Chris]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dr. Waters/R /RIt has been such a pleasure to work with you. I will sincerely miss your guidance and inspiration and wish you the very best in this next chapter of your life.]]></note>
+            <author><![CDATA[Sincere thanks, Colm Kelly]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It has always been crystal clear that the welfare of T/E’s students was always your first priority. A priority that I imagine was often hard to stay true to with all of the other pressures that were bearing down on you. Congratulations on a well-deserved retirement.]]></note>
+            <author><![CDATA[Grace]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[On the occasion of your retirement, Michele and I want to thank you for your many years of great leadership. It has been a pleasure for both of us in working directly with you these past 17 (Francis) and 27 years (Michele). ]]></note>
+            <author><![CDATA[Francis & Michele Murphy]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan,/RWhile I never thought we would have to sell pencils together, I was always sure I would enjoy it. Best wishes to you and your family always.]]></note>
+            <author><![CDATA[Andrea Felkins]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan, thank you for the gift of yourself to T/E over the past 27 years. I wish you continued personal fulfillment as you retire from T/E and go forward to your next adventure. Those who come alongside you in that adventure will know an outstanding human being. ]]></note>
+            <author><![CDATA[Sincere best wishes, Candy Laubach]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Best of luck in retirement, enjoy your time with family and friends!]]></note>
+            <author><![CDATA[Matt Smondrowski]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for everything Doc! I'll miss the daily "therapy" sessions in the custodial office at the high school. Enjoy your retirement! Best wishes!]]></note>
+            <author><![CDATA[Ciro Cecco]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Dan,/RThank you for being such a great friend to our family over these many years. Now you can stop and smell the roses. Have fun with your family and may God bless you./R/R]]></note>
+            <author><![CDATA[Love, Stodie and Dane ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan would say that I was his hero after my bilateral knee replacement. Well, Dan, you have always been my “Hero” as Superintendent. Under your leadership I felt valued and respected as a professional. Thank you for your caring and inspirational guidance over the years.]]></note>
+            <author><![CDATA[Enjoy many tomorrows...Bev Bell]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You encouraged me and the staff to work hard and make sure the job was done right. The love that you have for the students and their education is great, but the kindness and concern you showed me during my surgery was a great feeling. I consider you a friend. Thank you.]]></note>
+            <author><![CDATA[Your friend, Herman Tyler]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[While I was serving as vice-president of the union, I came to appreciate how smart a guy you are. I’ll never forget the reason and logic behind your words and the wisdom that you possess. You have skillfully presided over an incredibly successfully era in T/E history.]]></note>
+            <author><![CDATA[Thank you, Dave Zimmerman]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan,/RIt was a pleasure serving on the board for eight years during your tenure as superintendent. I really enjoyed and benefitted from your calm, steady, and straightforward approach to leadership, always helping us do the very best we could for the kids. /R]]></note>
+            <author><![CDATA[Kevin Grewell]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Wal lookie hear, Super Dan, I wuz powerful glad ta' hav yer hep with all them rascal chillins, what we wuz learnin' all them yars in skool. Ya did us one fine job 'o werk, and that's no brag, jist fact! Hope ya git to injoy settin a spell on tha porch! Ye deserv it!]]></note>
+            <author><![CDATA[Jedd Clampitt]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I am grateful for your leadership in creating “T/E proud" and instilling this concept in all employees and in the community as a whole. I appreciate our personal relationship and having traveled many roads together. As Yogi Berra said, “It ain’t over ‘til it’s over”."]]></note>
+            <author><![CDATA[Jim Bruce]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[T/E certainly won’t be the same without you.  As the day of “Waters out” quickly approaches – know that we are prepared to carry on your legacy. May you look back on your time at T/E with no regrets...smiling./RBest – is you./RWith gratitude, always, Amy]]></note>
+            <author><![CDATA[P.S. I'm claiming the den!]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dan, I will never forget the support you and Betsy provided me when I lost my wife.  Your leadership at TESD reminded me of the top West Point leaders I had in the military, especially in emergency situations. You have been a superb superintendent and a dynamite leader.]]></note>
+            <author><![CDATA[I wish you the best, Bob Plyler]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We worked through plenty of District issues, mostly me talking, you listening. But the best times, we sat and talked about nothing to do with the District: family, kids, what we did on the weekend. It’s been an honor to walk this path with you and call you my friend.]]></note>
+            <author><![CDATA[Pete Motel]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hard to believe that 25 years ago I was in the old principal's office with you interviewing for a LTS job.  Along the way you supported me in every position I held.  I'll never be able to thank you enough for the guidance.  Your giant shoes will be impossible to fill.]]></note>
+            <author><![CDATA[Richard Gusick]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

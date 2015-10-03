@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2552-001</orderId>
+    <orderDate><![CDATA[7/25/15]]></orderDate>
+    <shipTo><![CDATA[Anna Baxter]]></shipTo>
+    <shipAdd1><![CDATA[31 Lynam Lookout Dr]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Newark]]></shipCity>
+    <shipState><![CDATA[DE]]></shipState>
+    <shipZip><![CDATA[19702]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_100]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[navy]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Best Memories from Bffs ]]></heading>
+            <to><![CDATA[Luke Jordan]]></to>
+            <from><![CDATA[Anna Baxter & Company]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA["I don't know... I guess so....maybe?" ]]></note>
+            <author><![CDATA[A confused child]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Two hundred dead in a gas explosion? Oh, Harold just can't contain himself! Hah!]]></note>
+            <author><![CDATA[Harold (Anna)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Sometimes at red lights I just decide to pick my nose. It's really relaxing and comforting]]></note>
+            <author><![CDATA[Asian Driver]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Luke, /RYou're my best friend and I am really going to miss you next year even though we will be able to visit each other it will still be difficult. However, you're going to crush college and succeed wherever you go in life and I can't wait to see what you accomplish!]]></note>
+            <author><![CDATA[Anna Baxter]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for saving my ID card from falling to its death due to the wrath of the evil Ian. You were a hero that day! ]]></note>
+            <author><![CDATA[Anna Baxter]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be inclusive, not exclusive. Keep an open mind about new friends, new surroundings and new opportunities. And take advantage of all of them like I know you will. ]]></note>
+            <author><![CDATA[Anna Baxter]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[No one could ever know me/RNo one could ever see me/RSeems you're the only one who knows what it's like to be me/RSomeone to face the day with, make it through all the rest with/RSomeone I'll always laugh with/REven at my worst, I'm best with you, yeah!/R]]></note>
+            <author><![CDATA[Theme song from Friends (Anna)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Just be yourself because you are amazing and can achieve anything!]]></note>
+            <author><![CDATA[Anna Baxter]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Please remember you are loved and if you need anything I am always a phone call, text, snapchat, facetime, or train ride away!]]></note>
+            <author><![CDATA[Anna Baxter]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Let your faith be bigger than your fear! /R/R-faith]]></note>
+            <author><![CDATA[and also Anna]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be amazing. Be bold. Be a hero. Be wise. Be healthy. Be grateful. Be you!]]></note>
+            <author><![CDATA[Anna Baxter]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[A lot of legends, a lot of people, have come before me. But this is my time./R/R- Usain Bolt]]></note>
+            <author><![CDATA[Anna ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Goldfish don't have stomachs..."/R/R- Helga founder of überfacts daughter of Phyllis and Pharkis sister to Olga and Bertha]]></note>
+            <author><![CDATA[Anna Baxter]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Continue to battle and never doubt yourself. You have overcome so much in your life already. Focus on achieving your goals and if anyone tries to combat you along the way, leave them behind. ]]></note>
+            <author><![CDATA[Anna Baxter ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Potato on]]></note>
+            <author><![CDATA[swAgBI Smack]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["I'M NOT EVEN A HUMAN BEING ANYMORE."]]></note>
+            <author><![CDATA[Gail Smack]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["I JUST WANT A CHEESESTEAK *sob...sniffle* I HATE EVERYTHING ABOUT FIREFLY"]]></note>
+            <author><![CDATA[Definitely not Abi]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Our hero, Jerry Garcia once said: "There is a road, no simple highway between the dawn and the dark of night, and if you go no one may follow, that path is for your steps alone."]]></note>
+            <author><![CDATA[Abi Smack]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Keep the "Hairy" gchat in your heart, always <3 <3]]></note>
+            <author><![CDATA[Abigail Home Bro Smack]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[(\___/)/R(= ‘.’=)/R(”)__(”)]]></note>
+            <author><![CDATA[The real brobeans (Abi).]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Slap cup./R/R/R(death)]]></note>
+            <author><![CDATA[The resurrected SwAgBI]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[never stop vlogging.]]></note>
+            <author><![CDATA[Rob Focht (lolol jk it's Abi again)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mike's snoring]]></note>
+            <author><![CDATA[Abigail Coulbourne Percy Smack.]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'll never forget when you brought me flowers because I was just having a bad week. (Even if I told my GG they were for her). <3]]></note>
+            <author><![CDATA[Anna Baxter]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Yeah I'm gonna have to ask you guys to leave the parking lot." ]]></note>
+            <author><![CDATA[Rebecca Daull ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for being the other half to the best looking couple at prom. You're so smooth... especially your dancing! ]]></note>
+            <author><![CDATA[Anna ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'm really going to miss having your arm around me and just being able to lean on my best friend whenever I want. ]]></note>
+            <author><![CDATA[Anna Baxter]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["I CAME AT YOU LIKE A WRECKING BALL"/R/R- Luke Jordan]]></note>
+            <author><![CDATA[Still laughing about this (Anna)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Sometimes life is hard for no reason at all" /R/R-Remember the Titans]]></note>
+            <author><![CDATA[Anna]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["All I want is nothing more/RTo hear you knocking at my door/R'Cause if I could see your face once more/RI could die a happy man I'm sure/R/RWhen you said your last goodbye/RI died a little bit inside/RI lay in tears in bed all night/RAlone without you by my side"]]></note>
+            <author><![CDATA[Kodaline (and Anna)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Occulus is our favorite movie]]></note>
+            <author><![CDATA[Abi Smack.]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Luchas, you're not only one of the the most genuine, kind, and thoughtful human beings I know, but you're also one of the funniest and most energetic. Always stay true to who you are because you're pretty gosh darn cool!!!!! ]]></note>
+            <author><![CDATA[Maddie Guido (Steve Harvey) ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["If a man loves you... he's willing to profess it. He'll give you a title after a while. You're going to be his lady, his woman, his fiancee, his wife, his baby's mama, something." - Steve Harvey/R]]></note>
+            <author><![CDATA[Steve Harvey (Maddie) ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[If I had the power to pick the best man for Gentile's wedding with Serd- you'd no doubt be my first pick <3]]></note>
+            <author><![CDATA[Maddie "Steve Harvey" Guido]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always be-you-tiful <3333333]]></note>
+            <author><![CDATA[Maddie Guido ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["I can't tell you how many hot dogs I've eaten in my life."-Shia LaBeouf. Luke, you are like the Shia LaBeouf of our generation. That is one of the highest compliments I have ever given./R]]></note>
+            <author><![CDATA[<3 Maddie]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[HAH, Dude you are going to be awesome in college. St. Joes is a perfect fit for you and great things are headed your way. Stay strong]]></note>
+            <author><![CDATA[Nick Gentile]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I can't wait to hang with you in the future, we will own both of the schools in the future and I can't wait till you visit West Chester. We own Archmere, now we can own St. Joes and WCU. #WCUaccepted ]]></note>
+            <author><![CDATA[Gentile ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We have gotten even closer through this year with kairos and just hanging out. You are literally my best friend and you have told me great information and I wouldn't be the man I was if I haven't met you. You are a great kid and you should never change. ]]></note>
+            <author><![CDATA[Gentile]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["I'll TAKE CARE OF THIS"/R"hahahahaha it's a giraffe"/R"Every step you take, I'll be watching you"/R"I fucking love you"/R- ]]></note>
+            <author><![CDATA[Patrick star]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You have been an inspiration to me these past 4 years. I look up to you in a way I look to my role models. You are a role model and you should never change. ]]></note>
+            <author><![CDATA[Gentile ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hey man, /RAlthough your farts are overwhelming most of the time, I'll miss you dude. We'll definitely keep in touch - you're like a brother to me. You're gonna do great things in college. Keep doing you and stay true to yourself, whether it's Caillou or just yourself.]]></note>
+            <author><![CDATA[Seymore Butts (Neeks)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[hello,/Ri no u dont no me, but my name amar, and i big fan of u./Ri hav 17 poster of u in my hous and 12 of them on my seeling./Ru good man and do good things and make amar happy./Rplz hav sex wth amar,/Ramar luvs you lik amar likes cake/Rbye/R/R]]></note>
+            <author><![CDATA[Amar Patel]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love you because you make me my coffee every morning and you know just the way I like it.]]></note>
+            <author><![CDATA[Niko ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Just remember, no matter what, your friends will always love you, Caillou and all. ]]></note>
+            <author><![CDATA[Laura ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Good friends are like stars; you don't always see them, but you know they're always there." I didn't say this but someone wise did :)]]></note>
+            <author><![CDATA[Laura ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Luke, in all seriousness you are one of the sweetness, greatest, funniest, most accepting people I know. St. Joe's is lucky that it is getting a student like you. Stay juiced my friend. ]]></note>
+            <author><![CDATA[Laura]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Just remember: everything's legal if you don't get caught ¯\_(?)_/¯]]></note>
+            <author><![CDATA[Laura]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'll just leave this here for your enjoyment/R/R? ?? ?’?’?????=(?_?)=?/????/’?’? ? ??? ?? ??]]></note>
+            <author><![CDATA[Laura]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for listening to all my problems and always doing your best to help. That level of care and dedication will take you far in life. ]]></note>
+            <author><![CDATA[Anna ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[No matter how badly people treat you, never drop down to their level, just know you're better and walk away..... and then call me.]]></note>
+            <author><![CDATA[Anna]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Look Lou, I am going to say one thing here: "9 times"...no further comment needed]]></note>
+            <author><![CDATA[P Money P'Arab]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I am gonna miss you Louis. Your energy gets me so hyped and makes me happy. You are a good man Luke. ]]></note>
+            <author><![CDATA[ChickenPotPayas]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Its all about the recharge time"/R]]></note>
+            <author><![CDATA[Truth Speaker]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I will never forget and always miss going full baked potato with you at Firefly.]]></note>
+            <author><![CDATA[Pie Daddy]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[WAAHHHHHHH, I got a "dirty Lou siting"  ]]></note>
+            <author><![CDATA[Professional Louis Hunter]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I want to be a professional whistler. *phoooo*]]></note>
+            <author><![CDATA[Luke Jordan 2012]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Good times: running like an airplane in circles and parkour over trashcans in the Woodlands]]></note>
+            <author><![CDATA[-Crazy Indian Child]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["IT'S GONNA BE RUFF, I BERIEVE IN YOUUUU!!"]]></note>
+            <author><![CDATA[Ian]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Whales..."]]></note>
+            <author><![CDATA[Ian]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Luke - "Hello fellow retreatants and faculty" /R/RIan - "FUCK YOU" /R/RKairos XXXV]]></note>
+            <author><![CDATA[Ian ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["We have just started hanging out together I’m not sure if it’s dating yet but I can tell you one thing our hangouts have been insanely special."/R-Luke Jordan March 29, 2015]]></note>
+            <author><![CDATA[Anna]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[If you were a veggie you'd be a jalapeño cause you are spicy ]]></note>
+            <author><![CDATA[Maddie]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for being my lab partner..... ]]></note>
+            <author><![CDATA[Anna ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[B uRs3lf. EveRy1 ElsE iS AlreAdy Tak3n. <3 ur welcome]]></note>
+            <author><![CDATA[maddie guido]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hoping calliou doesn't make any visits while you're in college!!]]></note>
+            <author><![CDATA[maddie ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Whenever you need a good laugh just type in this URL..../R/Rhttp://i.imgur.com/MZuSmf5.jpg/Rand this one /Rhttp://imgur.com/gallery/KjtbV]]></note>
+            <author><![CDATA[Anna]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Yo thanks for laughing at my jokes during death and dying- appreciate it ]]></note>
+            <author><![CDATA[maddie]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["we are really creating a big list/Rphillis/Rhaddy/Rolive/Rsutter/Rpepper"/R/RApril 13th 2015]]></note>
+            <author><![CDATA[Anna]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[/R/R/R"WONDERFUL" /R/R]]></note>
+            <author><![CDATA[Pepper]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Just wanted to write another one. While reading through my Kairos letters, I realized just how lucky I am to have you as a friend. Thanks for everything you've done for me, you're one of the truest friends I've ever had. ]]></note>
+            <author><![CDATA[Niko]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Luke, you are one of the most easy-going, fun, kind and generous people I have ever met. I am privledges to have become your friend. Now we are off to college, but I'm not worried about eithe of us. With your personality and confidence you will thrive next year.]]></note>
+            <author><![CDATA[Ian]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Anna made me do this.]]></note>
+            <author><![CDATA[Also Ian ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I remember when you chose to text Biko, Ryan, and I out of the blue one day and asked us to go to Hershey park. We were all deeply confused as to why you suddenly contacted us. Regardless that day was the beginning of our amazing friendship and brotherhood. ]]></note>
+            <author><![CDATA[Ian]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["I tried to resist but the burrito was a too dericious!"]]></note>
+            <author><![CDATA[Illiterate Asian Man]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'm gonna miss balling out with every weekend, although I sucked tremendous amounts of genitalia at it, there was never a dull moment. The amount of fun we had will stay with me for the rest of my life. Thank you! And one day I will be good you wait and see]]></note>
+            <author><![CDATA[Ian]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Your playlists are stupid yet possibly the most creative ones on spotify. Ain't no lie, baby bye bye bye. *drops mix*]]></note>
+            <author><![CDATA[Ian]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Remember when Ryan punched you in the head at calebs because we made fun of him after he claimed he hurt his shoulder after missing a shot at beer pong. I'm sorry you go hit but but it was pretty fuckin funny!]]></note>
+            <author><![CDATA[Ian]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Well, I've been afraid of changing/R'Cause I've built my life around you"]]></note>
+            <author><![CDATA[Fleetwood Mac]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Congrats on being able to successfully quote Freaks and Geeks and Remember the Titans and I'm sure several more.]]></note>
+            <author><![CDATA[Anna]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[yup/R/R*yummi]]></note>
+            <author><![CDATA[Anna ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Don't keep reaching for the stars because you'll just look like an idiot stretching that way for no reason."]]></note>
+            <author><![CDATA[Jimmy Fallon <3]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["You can't be afraid to fail. It's the only way you succeed - you're not gonna succeed all the time, and I know that."]]></note>
+            <author><![CDATA[Lebron James]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Julius you're a fucking pussy stop crying" ]]></note>
+            <author><![CDATA[Mom in Remember the Titans (kinda)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["What's yellow and black and makes you laugh"/R/R"A box full of niggers going off a cliff" ]]></note>
+            <author><![CDATA[this is bad... Anna ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Best Motion Picture of 2015.../R/RALOHA!]]></note>
+            <author><![CDATA[Anna ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["What do you call a Mexican with a broken lawn mower?" /R/R"unemployed" ]]></note>
+            <author><![CDATA[on my way to hell right now (Anna)]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Good luck with everything in your future. If you ever need anything no matter where we are in life you can always reach out to me. ]]></note>
+            <author><![CDATA[Anna ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I hope that you can realize how strong of a person you truly are and find out how incredible and inspiring you are to so many people throughout your college experience.]]></note>
+            <author><![CDATA[Anna]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“Never give up on something that you can't go a day without thinking about.” ]]></note>
+            <author><![CDATA[Anna]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“Knowing how to laugh at yourself instead of blaming for your own weaknesses will make you happier. No one’s perfect after all.”]]></note>
+            <author><![CDATA[Anna ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“Knowing how to laugh at yourself instead of blaming for your own weaknesses will make you happier. No one’s perfect after all.”]]></note>
+            <author><![CDATA[Anna ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“You will be what you want to be, don’t let others decide for you.”]]></note>
+            <author><![CDATA[Anna ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“You will be what you want to be, don’t let others decide for you.”]]></note>
+            <author><![CDATA[Anna ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“When you’ve done best for your own part, you just need to have faith for what’s coming.” ]]></note>
+            <author><![CDATA[Anna]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Never change who you are based on what others think of you. You are strong enough to judge your own character and change who you are from there.]]></note>
+            <author><![CDATA[Anna]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["Keep your head up, keep your heart strong."/R]]></note>
+            <author><![CDATA[Ben Howard]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Cool/RSick/RAwesome/RSwag/RRadical/RFabulous/RFantastic/RWonderful/RAmazing/RInspiring]]></note>
+            <author><![CDATA[you get the idea]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Honesty hour: /R/RMaddie and Abi always told me what you asked them and said after we hung out but I didn't judge you lol. ]]></note>
+            <author><![CDATA[Anna ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

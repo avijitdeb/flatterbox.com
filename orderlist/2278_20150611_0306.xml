@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2278-001</orderId>
+    <orderDate><![CDATA[6/10/15]]></orderDate>
+    <shipTo><![CDATA[Maureen Madden]]></shipTo>
+    <shipAdd1><![CDATA[1414 Graymill Dr.]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Scotch Plains]]></shipCity>
+    <shipState><![CDATA[NJ]]></shipState>
+    <shipZip><![CDATA[07076]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[navy]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Why We Love You Yera]]></heading>
+            <to><![CDATA[Our Dear Friend Yera]]></to>
+            <from><![CDATA[Aileen Jackie Karen Lori Mo Tara]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you always ask me to order you a "chicken parm" or as Jon says, "chicken nuggets." ]]></note>
+            <author><![CDATA[Lori]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because 25 years later I can still call you my best friend.]]></note>
+            <author><![CDATA[Karen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you love lists so hopefully you can see why we love you.]]></note>
+            <author><![CDATA[Aileen ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because I can call you any time of day or night and you are always there for me when I need you.]]></note>
+            <author><![CDATA[Tara]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you have made us all love and crave Indian food.]]></note>
+            <author><![CDATA[Jackie]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you have an undeniably contagious laugh and vivacious personality. Just being around you lifts my spirit.]]></note>
+            <author><![CDATA[Maureen ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you send cards and thank you's to our parents and they absolutely love you!]]></note>
+            <author><![CDATA[Lori]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because we are truly "cut from the same cloth."]]></note>
+            <author><![CDATA[Karen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because despite the fact you have eaten in some of the world's best restaurants your favorite foods are still Munchos and a turkey sandwich (and ketchup - I don't believe you have given it up.)]]></note>
+            <author><![CDATA[Aileen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you have the ability to remember such specific details and instantly bring me back to a moment in time we shared 20 years ago and make me laugh about it.]]></note>
+            <author><![CDATA[Tara]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you have the ability to organize anything...even my keychain.]]></note>
+            <author><![CDATA[Jackie]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because of the selfless way you share your tremendous gifts (kindness, generosity, thoughtfulness, to name just a few) with everyone you come in contact with...even if it's a friend of a friend. Thank you.]]></note>
+            <author><![CDATA[Maureen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because my children get so excited to hear that you are coming for a visit.]]></note>
+            <author><![CDATA[Lori]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because even though you are so worldly and sophisticated you are still that girl from Chalfont who loved Arsenio Hall.]]></note>
+            <author><![CDATA[Karen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you have taken the time to know everything about me, my husband, my kids, my parents, and my siblings - that is why you are my family's "favorite friend."]]></note>
+            <author><![CDATA[Aileen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you have an incredible sense of loyalty and love for your friends and their families. ]]></note>
+            <author><![CDATA[Tara]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you accept me for who I am and still love me.]]></note>
+            <author><![CDATA[Jackie]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you have the ability to truly listen and validate my feelings, no mater what, and never judge.]]></note>
+            <author><![CDATA[Maureen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because I love being your "therapist" and it helps me too!]]></note>
+            <author><![CDATA[Lori]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because no matter how much time has passed we can pick up right where we left off.]]></note>
+            <author><![CDATA[Karen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because if it is important to me it is important to you.]]></note>
+            <author><![CDATA[Aileen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you are truly a sister to me and an aunt to my kids.]]></note>
+            <author><![CDATA[Tara]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because your kindness and generosity has no limits.]]></note>
+            <author><![CDATA[Jackie]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because your friendship is something I can count on and look forward to each and every time we get together - any time, anywhere!]]></note>
+            <author><![CDATA[Maureen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because I love hearing "where in the world is Yera Patel."]]></note>
+            <author><![CDATA[Lori]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you never judge me. You only love and support me unconditionally.]]></note>
+            <author><![CDATA[Karen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because no matter how sophisticated you have become you'll still dance to Cotton Eyed Joe.]]></note>
+            <author><![CDATA[Aileen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because we can spend hours talking about the silliest things and can always pick up right where we left off.]]></note>
+            <author><![CDATA[Tara]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you have taught me how to thread my eyebrows, bleach my arm hair and pluck my grey hairs.]]></note>
+            <author><![CDATA[Jackie]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you have taught me that just letting someone know you are thinking of them can make a world of difference.]]></note>
+            <author><![CDATA[Maureen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you are my best friend, confidant, and "Brown" sister.]]></note>
+            <author><![CDATA[Lori]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because we can still giggle together like school girls...even at age 40!]]></note>
+            <author><![CDATA[Karen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you have a way of describing things that makes even the most mundane things seem magical.]]></note>
+            <author><![CDATA[Aileen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you are a great travel companion and we have traveled to some amazing places together.]]></note>
+            <author><![CDATA[Tara]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you have the ability to take charge and lead.]]></note>
+            <author><![CDATA[Jackie]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because of your fierce loyalty when it comes to family and friends. That's what life is about!]]></note>
+            <author><![CDATA[Maureen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you have no idea how special you are to all of us!]]></note>
+            <author><![CDATA[Lori]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because your memory is like a vault. You put me to shame with details and stories you can recall!]]></note>
+            <author><![CDATA[Karen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because I love seeing the world through your eyes, you capture the essence of a place and help me see things differently than I normally would.]]></note>
+            <author><![CDATA[Tara]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you taught me how to "kill people with kindness" - it's one of the smartest lessons I've learned in my life and hope to pass on to my children. ]]></note>
+            <author><![CDATA[Jackie]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you get it done, while the rest of us are still trying to figure out how.]]></note>
+            <author><![CDATA[Maureen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you have an incredible impact on every life you touch.]]></note>
+            <author><![CDATA[Karen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you are simply amazing and beautiful on the inside and out.]]></note>
+            <author><![CDATA[Tara]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Because you care for and love my family and they love being with you as much as I do - it warms my heart and is why you are one of my dearest friends.]]></note>
+            <author><![CDATA[Maureen]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2193-001</orderId>
+    <orderDate><![CDATA[6/8/15]]></orderDate>
+    <shipTo><![CDATA[Joshua Young]]></shipTo>
+    <shipAdd1><![CDATA[877 Jennifer Lane]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Berwyn]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[19312]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[purple]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[All About Mrs. Fletcher]]></heading>
+            <to><![CDATA[Mrs. Fletcher]]></to>
+            <from><![CDATA[2nd Grade, 2014-2015]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[Your genuine care and consideration for Alex throughout the year.  We are so thankful for all that you have done and the incredible impact you have had on her and our family.  With extreme gratitude,]]></note>
+            <author><![CDATA[Josh and Randy]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We adore your compassion, passion for learning, and the way you share your life experiences with our children.  You are an amazing being and we are so fortunate to be under your care and guidance this year.  You keep it real, Mrs. Fletcher.  Many many hugs and thanks.  ]]></note>
+            <author><![CDATA[The Gearharts]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Fletcher is the best, she's funny and a great teacher.]]></note>
+            <author><![CDATA[Cole Frederick ]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[New Eagle is very lucky to have you!  You are an amazing teacher who genuinely cares about each student.  We are going to miss you!]]></note>
+            <author><![CDATA[The Reidenbachs]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[ Hi Mrs. Fletcher, /RWe love that you see the positive in each child and recognize their strenghts! As a mother and teacher you also recognize that sometimes it's challenging to juggle around a full time job, kids, house, activities,... and we appreciate your kindness.]]></note>
+            <author><![CDATA[The Vincke's]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Mrs. Fletcher,/R/RI liked being in your class this year. You are a lot of fun and I learned a lot! Thank you for being my teacher!]]></note>
+            <author><![CDATA[Maxime]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My favorite thing about Mrs. Fletcher is that she is funny, kind, awesome and nice.  :) I am going to miss you so so so so so so much next year.  You are the best! :)]]></note>
+            <author><![CDATA[Lindsay Reidenbach]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Mrs. Fletcher,/RYou are the best teacher I ever had! You are so nice and so funny. I don't think I will ever get a teacher as nice as you again. I am going to miss you next year! I will come to visit you a lot!!!]]></note>
+            <author><![CDATA[Olivia Spaulding ]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We are so thankful that Olivia was in your class this year! You are such an amazing teacher! We really admire your wit, sense of humor and genuine compassion for the children. Your job is not an easy one, yet you're able to do it so effortlessly (and without yelling : )]]></note>
+            <author><![CDATA[The Spauldings ]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You are a nice, funny and good teacher. I love that you do book club and the girls' lunches with us. Thank you for being my teacher! I will miss you!!/RLove,]]></note>
+            <author><![CDATA[Abigail Hopkins]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you, thank you very much Mrs. Fletcher for a wonderful year! Your fun and creative teaching methods have made class enjoyable for Abigail. We also love how you've challenged her and helped her grow this year. We are so grateful for you!!]]></note>
+            <author><![CDATA[The Hopkins]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Mrs. Fletcher,/R     You have set a very high standard of what it means to be a "Good Teacher."  You have made second grade such a fun and exciting year. Dani has learned so much, and she really does love you!  Thank you for going above and beyond!/R]]></note>
+            <author><![CDATA[The Ostroff Family]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Mrs. Fletcher,/R     You are the best teacher.  I think you're really nice and funny, and you make homework fun!/R]]></note>
+            <author><![CDATA[Love, Dani ]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[No matter what the occasion, Mrs. Fletcher is always there to have nurturing, loving care for everyone. It's been a wonderful 2nd grade!]]></note>
+            <author><![CDATA[The Kenneys]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love Mrs. Fletcher because she is the best teacher ever!]]></note>
+            <author><![CDATA[CK]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Fletcher is so nice and funny.  She really helped me learn.  I really enjoyed being in your class!]]></note>
+            <author><![CDATA[Alexandra]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One thing I like about Mrs. Fletcher is she is the nicest teacher I have ever had. ]]></note>
+            <author><![CDATA[Allie Worton]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love Mrs. Fletcher because she is very open to us about her life stories and troubles. I also love her hilarious sense of humor.]]></note>
+            <author><![CDATA[Natalie Gould]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Mrs Fletcher,/R  I have had so much with you in 2nd grade.  I love coming to school with a happy face and leaving with an even happier face.  Thank you so much for giving me advice and helping me understand things I need to know.  You are unique, creative & awesome.]]></note>
+            <author><![CDATA[Love, Charlotte]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Fletcher shares so much of herself with her class. She forms such strong relationships with the students, and they bond with one another as well.]]></note>
+            <author><![CDATA[The Gould Family]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One of my favorite things about Mrs. Fletcher is that she is very encouraging.]]></note>
+            <author><![CDATA[Chase Niemeyer]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Fletcher is very kind and patient unless she gets too hot outside, then she might get cranky]]></note>
+            <author><![CDATA[Ian Tunnell-Peticca]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Fletcher is very informative! She takes the time to send pictures of events, creates an amazing newsletter, and she keeps us informed about Ian.]]></note>
+            <author><![CDATA[Julia and Dan Peticca]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We love that Mrs. Fletcher is so genuine, kindhearted and funny.  She really knows how to connect with children.  She is truly a treasure!]]></note>
+            <author><![CDATA[The Niemeyer Family]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for helping Cole like school again. Your daily humor has truly made his year!/R]]></note>
+            <author><![CDATA[Sarah and Matt Frederick]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I like Mrs. Fletcher because she is really funny and shares great stories about her family with us]]></note>
+            <author><![CDATA[Constantine Kontes]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Fletcher has allowed parents to enjoy her classroom this year.  We really appreciated being a part of it all.]]></note>
+            <author><![CDATA[Kim and Will Kontes]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Sensitive, funny engaging, loving, thoughtful are a few of the words to describe Mrs Fletcher. These traits made Aliie's second grade an experience that we will never forget. Whether dealing with a challenging situation or making things seem fun its all in a days work.]]></note>
+            <author><![CDATA[The Worton Family]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you, Mrs. Fletcher, for being a great 2nd grade teacher for Cooper this year!  He had a great experience in your class, and we are appreciative of all you have done for him! ]]></note>
+            <author><![CDATA[The Groppes: Chris, Andrea & Cooper]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs Fletcher - you have been my best teacher ever G. ]]></note>
+            <author><![CDATA[Alex G.]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Fletcher, thank you so much for a wonderful year, Alex has had a blast, learned lots, and loves his new nickname!]]></note>
+            <author><![CDATA[G's family!]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When we found out Caroline had you for second grade, we had no idea just how lucky we were.  You have been an amazing influence on Caroline.  She loves coming to school everyday because of you.  You have been her rock and we are forever grateful.]]></note>
+            <author><![CDATA[The Chisholm Family]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Fletcher is one of the funniest teachers I have ever met.]]></note>
+            <author><![CDATA[Caroline Chisholm]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mrs. Fletcher is great because she helps me learn things!]]></note>
+            <author><![CDATA[Henry Fuerst]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Henry has had such a great year and loves school.  We are all wishing that Mrs. Fletcher would move to 3rd grade next year!]]></note>
+            <author><![CDATA[Doug and Joy Fuerst]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[purple]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

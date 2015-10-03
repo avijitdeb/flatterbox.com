@@ -1,0 +1,623 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2635-001</orderId>
+    <orderDate><![CDATA[8/12/15]]></orderDate>
+    <shipTo><![CDATA[Cynthia Webster]]></shipTo>
+    <shipAdd1><![CDATA[1104 Edann Road]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Oreland]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[19075]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_110]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[sand]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Good luck Jim!]]></heading>
+            <to><![CDATA[Jim Loftus]]></to>
+            <from><![CDATA[CBS Radio/TV Philadelphia]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[Jim,/Rthere's that old saying that some people we're meant to be with for a moment, others a season and others for a lifetime.  I'm privileged to call you a lifetime friend. I can't be with you tonight but I will see you soon before the summer is out. God Bless you. ]]></note>
+            <author><![CDATA[David DiRenzo and family]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim - It was a pleasure working with you this past year. Wishing you all the best in the future.]]></note>
+            <author><![CDATA[Lisa Acchione]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for coming to my funeral.  At least I know one person will be there. /R/ROh, and thank you for your guidance, inspiration, leadership, stories and friendship.  I learned a lot from you and I will never forget...hope is not a strategy.  ]]></note>
+            <author><![CDATA[Corey Purcell]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim - You took a chance on a national rep looking to make a splash into local sales at the 23rd ranked station in Philadelphia - Talk Radio 1210 WPHT. Which I was a regular listener.  I will always thank you for the final yes. See you soon! ]]></note>
+            <author><![CDATA[Lisa Desphy ]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA["...annnnnnd we're back."]]></note>
+            <author><![CDATA[Joe Z.]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I thoroughly enjoyed watching you work a room... you captivate an audience perhaps more than anyone I have ever met.  Thank you for your help during our time together.  I wish you all the things you desire in your next chapter.  Cheers!]]></note>
+            <author><![CDATA[Kevin McKeon]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim/RI probably can't thank you here for the most memorable thing you ever did for me. You are one of the most decent, kind people I have ever known. I appreciate every act of kindness you have shown me & my family. Thank you. This isn't goodbye it's until we meet again.]]></note>
+            <author><![CDATA[Andy Bloom]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Although we have only worked together for a short time, I consider myself lucky that our paths crossed.    Thank you for taking a chance on me as GSM of XTU!  Your guidance has helped me grow as a manager by leaps and bounds.   I'm going to miss you.   #YouThinkItsEasy ]]></note>
+            <author><![CDATA[Laura Lombardi]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim I can't thank you enough for all the support you have given me in my time here at CBS. I want you to know that every success I have at this station I have because of you and I hope that I am making you proud. I'll miss you! Thank you for everything!]]></note>
+            <author><![CDATA[Kristen Stoltz]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Change is inevitable, but at times hard to accept. CBS Radio will not be the same without you. You will be missed. Thank you for all you have done for me. I was lucky to have the chance to work with you. Happy new adventures!!! ]]></note>
+            <author><![CDATA[Cara Gallagher ]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim...It was pleasure and honor to work with you for even a short time. Best of luck to you in whatever is next. Please keep in touch and stay well! I know we'll cross paths again...Take care!]]></note>
+            <author><![CDATA[Doc Medek]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim, /RThank you so much for everything you've taught me. Ten years ago I was your first hire at CBS Radio and I hope I made you proud. I'll miss you!/R#folks/R#GodBlessAmerica]]></note>
+            <author><![CDATA[Samantha Simon]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I always looked forward to our banter about the water club and your recent H2O gouging, not to mention the Madonna impersonations! I will miss your calming voice at "closing" of the month. The switch from WYSP was tough but you helped me through. You are already missed.]]></note>
+            <author><![CDATA[Sue Z]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim,/RCBS Philly won't be the same without you. May the next phase of your journey be rich with blessings, health and happiness! ]]></note>
+            <author><![CDATA[Mary McCrossen Kelly]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[All the best. Can't wait to see you at the next WFIL reunion.]]></note>
+            <author><![CDATA[David Madden]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for everything you have done for me personally and CBS radio overall. You will be missed./R]]></note>
+            <author><![CDATA[Turtle ]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Though we really haven't worked together directly, I have seen the great things you have done with stations (and people) who are still near and dear to my heart. I wish the best to you as this door closes and your next window of opportunity opens...]]></note>
+            <author><![CDATA[Christy Springfield]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[And so it goes, and so it goes, and you're the only one who knows./R/RLove you Jim./R/R-Suby and Emily/R]]></note>
+            <author><![CDATA[Suby and Emily]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for your support of my department.  Thank you for believing in us and leading us to success.  You helped us all in ways you probably never knew.  I loved your quotes so I'll leave you with one "Believe you can and you're half way there". Love you]]></note>
+            <author><![CDATA[Cindy Webster]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for all of your support, I wish you God speed in whatever you/Rchose to do in the future./R]]></note>
+            <author><![CDATA[Sid Mark]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There is no better man to have by your side. Good times or bad. Period.]]></note>
+            <author><![CDATA[Lane]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mel's Italian on the Hill?  And you're buying? Perfect! :) Cheers to fantastic success in the past and more to come in the future.]]></note>
+            <author><![CDATA[Bobby Smith]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for helping give CHOP patients a voice.  The cymbals will be retired in your honor :-)/R/RYou will be missed. God bless you.]]></note>
+            <author><![CDATA[Robin Valentino]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim - you are a man amongst men.  I think you know how much I value our relationship (and our dinners over the past several years).  I wish you the best going forward, and I thank you dearly for making the past 7 years some of the best in my radio history.  Cheers!]]></note>
+            <author><![CDATA[Jeff Kaye]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim,/R/RThanks for the guidance, as I started my career at CBS Radio. It meant a lot. /R/RGood luck in the future!]]></note>
+            <author><![CDATA[Andrew Porter]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim, you gave me the opportunity to start my career, and re-start it. I cant thank you enough for that. Best of luck !]]></note>
+            <author><![CDATA[Jim Fischer ]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you Jim, for helping me get my start in radio! ]]></note>
+            <author><![CDATA[Bill Kornfeld]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always a gentleman, a "mensch"! Responsible for getting me onto the CBS team, but always respected him during my many years on the music/live entertainment side of things. Pleasant, fair and efficient. Best of luck to you!]]></note>
+            <author><![CDATA[Eric Shipon, CBS Radio]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[,Jim, /RThank you for helping me transform my life into one with a bright future.  You have been a role model since I signed on late September last year.  I look forward to grabbing lunch the next time you are available.  You're most certainly a guy I plan to turn to!]]></note>
+            <author><![CDATA[Michael Cappellini ]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It was short, it was sweet, can't thank you enough for the opportunity to "come home". I wish you the best in your new adventures...and expect a call to come guest lecture at my Broadcast Sales class at TU!!]]></note>
+            <author><![CDATA[Bill Moore]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Jim, Razz here. I wish we had a bit more time to work together. I wish you the best and much continued success. Here's to the future./R/RRazz/R/RMark Radziewicz]]></note>
+            <author><![CDATA[Razz]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Jim/R/RIt's been a long time since our days together at "Famous 56!"  I will miss your friendly face.  What a legacy you leave behind!  All the best to your and your family as you move on the next. ]]></note>
+            <author><![CDATA[Steve Nikazy]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Last March, I left our interview so gracious to be entering an amazing industry surrounded by outstanding leadership.  Thank you for making me feel welcome, believing in me, and the amazing career advice.  Best of luck and keep inspiring those around you! ]]></note>
+            <author><![CDATA[Bethany McKernan]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim! Although our time was brief, I will never forget my interview with you that turned into a fascinating conversation about the radio industry. You're truly an inspiration. ]]></note>
+            <author><![CDATA[Dexter Stuckey]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for welcoming me into the CBS Radio family with open arms. I will never forget the sense of inspiration I felt after meeting you for the first time in my interview. Your passion for radio is highly contagious and I hope to stay connected as our lives progress.]]></note>
+            <author><![CDATA[Lauren Henwood]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim, /RGood luck with everything!  It was a pleasure to know you.  I will always remember our fun chats about Live Aid and First Communions...and when you bought one of every Girl Scout cookie box for my daughter!  Thank you for that.  Take care!!!!]]></note>
+            <author><![CDATA[Angela Beatty]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for being a great boss, friend and mentor. You have taught me so much and I will be forever grateful! ]]></note>
+            <author><![CDATA[Kristie Gibson]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank for encouraging me and believing in me. I will always appreciate how you were quick to tell me job well done as well as have hard conversations when needed. I will miss all of your stories and you too! God's continued blessings to you, Renee and Riley!]]></note>
+            <author><![CDATA[Lisa Morton]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'll never forget where I met you at "The Good Tune Party" where we talked alot about YSP and radio! It was a pleasure working for you. I could always pop in and talk radio/music and format! I wish you well in your next endeavor!]]></note>
+            <author><![CDATA[Taz]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hey Jim,/RI just wanted to thank you for everything you have done for me over the years. I have always looked up to you and respected you and always will. You were so helpful in my decision to go from WIP to WOGL and you support meant so much to me. ]]></note>
+            <author><![CDATA[Brendan Heine]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for always believing in me and bringing me into the radio world.  Your passion for radio is one in a million.  Continue to inspire everyone that you meet! God Bless.]]></note>
+            <author><![CDATA[Brandon Salvador]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Teacher, Colleague, Friend...I wish you all the best that life has to offer. ]]></note>
+            <author><![CDATA[Fran McElwee]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim,/R/RThank you for all of your help and best of luck! We will miss you!]]></note>
+            <author><![CDATA[Megan Boyle]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for your friendship and kindness. You are one of the most genuine & sincere people that I have had the pleasure of being around. I am blessed to know you and have faith your journey will take you to great places. May you enjoy the coming time with your family.]]></note>
+            <author><![CDATA[Maura Strohsacker]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim,/R/RSad to learn of your departure.  You were one of the reasons I accepted the position at WIP. Thank you for everything. You will be missed, but I'm always around for a beer. Please stay in touch: (585) 330-7048]]></note>
+            <author><![CDATA[Matt Battaglia (Battle)]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Wishing you well in all of your future endeavors, Jim!]]></note>
+            <author><![CDATA[Crockett]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There are 3 types of GMs.  First, GMs who know radio, but not people. Second, GMs who know people, but not radio.  I've had the most success in my career under the third type: GMs who know both radio and people.  Jim, you're on that short list.  I wish you the best!]]></note>
+            <author><![CDATA[Harvey Holiday]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[In my brief tenure working with Jim, not one time, although I'm sure there were times when he certainly could have, did Jim ever utter a negative word to us.  Positivity carried the day!  It was a pleasure working with you!]]></note>
+            <author><![CDATA[Mark Ligos]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Good luck on this next phase of your journey, you certainly left your thumbprint on this industry. God Bless and pax et bonum]]></note>
+            <author><![CDATA[Paul Bolognone]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I learned more about radio from you in our hallway conversations than in a career of proximity to the stations. You are a born teacher, Jim.  Wishing you every happiness and success in your next adventure. ]]></note>
+            <author><![CDATA[Joanne Calabria]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Best of luck on your upcoming adventures!]]></note>
+            <author><![CDATA[Krystin Kaiser]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[July 5th will always have special meaning too me.  The date you gave me my shot in the Radio Business. You have given me the inspiration and demonstrated drive it takes to succeed in our business. But more than that....you are a friend.  "Eye of the tiger Rock"!]]></note>
+            <author><![CDATA[Babe, all the best!  Rich Iovanisci]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for helping bring me to the station where I feel most at home. Enjoy this time with your family. Plan a great Disney trip. And Stogie Joe's on me soon my friend. Please stay in touch. ]]></note>
+            <author><![CDATA[Mark Terruso]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'm glad we worked together.  I admire the passion that you have for radio...and life.  I know you will continue to share the same passion, caring and excitement in all you do and I am looking forward to watching your new story unfold!  /R]]></note>
+            <author><![CDATA[Shelly Easton]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim - We came a long way from you giving me a tie the first week to now representing the cluster for sponsorships.  That tie matched nicely, btw :).  I appreciate the opportunity & the outside the box thinking and am grateful for the opportunity!! God Bless, good luck!]]></note>
+            <author><![CDATA[Michael Steinberg]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[As a longstanding CBS Radio partner, thank you for your kindness, expertise and knowing our brand so well. It was fun to share time during our spring training trips. I appreciate everything you have done for us at NovaCare. Cheers to you and your next chapter!]]></note>
+            <author><![CDATA[Amy Ridall]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim - Thank you for always being there for me over the years! I learned a lot from you about loyalty and the broadcasting industry! Thank you for those lessons well learned. This is not good-bye, but "see you later!"]]></note>
+            <author><![CDATA[Love, Maureen]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It was a pleasure getting to know you. When we first met you said you'd like to go back to teaching. I hope you get to do that. Best of luck to you and your lovely family!]]></note>
+            <author><![CDATA[Destiney ]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim, Thank you for your advice and guidance. It was a pleasure to be able to work with you. Best of luck! ]]></note>
+            <author><![CDATA[Alyssa Bellano]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for all your support, guidance and friendship! God Bless]]></note>
+            <author><![CDATA[Zois]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Jim,/RIt was such a great pleasure to work with you! (especially remembering all the great times at WYSP) Wishing you many, many years of Peace, Happiness and Success in your new endeavors. ]]></note>
+            <author><![CDATA[Susan Panagos-Krevitz ]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'm so glad I had the opportunity to work with you and learn from you for as long as I did.  Your demeanor and class set you apart from the rest, something I know I appreciated often. I sincerely hope our paths cross again one day.]]></note>
+            <author><![CDATA[Andrew Swank]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I wish you the Best.....you will be missed...although we didn't see each other alot because of our hours, I always enjoyed our conversations and will always cherish the memory of the Elvis   and Friends 30 Anniv. luncheon you were a part of. Thank You]]></note>
+            <author><![CDATA[Rockin' Ron Cade]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim,/RThank you for giving me the chance to begin my career and for the words of wisdom. I am forever grateful. Hope to see you around town, whether it be Wynnewood or Scranton. I wish you nothing but the best in the future. ]]></note>
+            <author><![CDATA[Marianne Schulmeister]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim,/REileen and I wish you the best of health and much success for whatever your future holds. I did not get to know you very well but in the short time we worked together I really enjoyed your enthusiasm and your love of radio. The best of everything!]]></note>
+            <author><![CDATA[Chuck Young]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It was a pleasure working with you. I still remember my interview with you and the advice you gave me. You believed in everyone that stepped foot in this company to begin their careers and I will always remember that. I wish you luck in your next adventure.]]></note>
+            <author><![CDATA[Stefanie Di Joseph]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[ Ours was a partnership that rewarded us with TWO Marconi awards, some amazing ratings, and raising a whole bunch of money for the kids at CHOP. You made me a better broadcaster and gave me a lifetime of memories. Good luck, and God bless!]]></note>
+            <author><![CDATA[Anne Gress]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim,/RAlthough our time together was short, it was a pleasure getting to work with you! Thank you for taking the chance on me and allowing me to excel as a Digital Sales Coordinator. I wouldn't be here without you. Hope to see you in the mountains!]]></note>
+            <author><![CDATA[Alysa Woloszyn "AW"]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You singing "Desire" was one of the best moments of my college career. Your high energy reinforced my desire to get into radio.]]></note>
+            <author><![CDATA[Robert Brooks]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim--/R/RI wish you the best for your new challenges. I humbly thank you for taking a chance on me at WOGL all those years ago. I will always be grateful. A loud crash of cymbals to you, my friend.]]></note>
+            <author><![CDATA[Cadillac-Jack ]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim, we only had a few months to work together, but wow! Whenever I think about radio, you will always be thought of! You made my first 6 months at CBS a pleasure! Many blessings to you and your family, my friend!]]></note>
+            <author><![CDATA[Don Melnyk]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim,/RI'll never forget how you took charge when we had the mishap at Seven Fishes. I enjoyed our many talks and particularly the work around the annual event. Good luck in all that you do in the future.]]></note>
+            <author><![CDATA[Dom Giordano]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim,  It was a great pleasure to call you a coworker and more importantly friend the last 7+ years. Your leadership and guidance truly helped my career take the next steps you believed I had when you hired me. You will be missed. Thanks for everything.]]></note>
+            <author><![CDATA[Kevin and Kristen Gilman]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim,  Just wanted to wish you continued success in the next chapter.  After many years of hearing your name from mutual friends, it was a great pleasure getting to meet you, after all these years. You will certainly be missed here in the hallways of CBS Philly! ]]></note>
+            <author><![CDATA[Joe Keane]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim, Your "excuses while often valid, are rarely impressive" line is one of a thousand that I will employ until my last breathe. I've always appreciated your thoughtfulness as a leader and will always be grateful for the impact you made on my career. All my best,]]></note>
+            <author><![CDATA[Kenny Paul]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Radio Jim: Your calm, sensitive, professional and spiritual manner of dealing in business and in life is an inspiration. Thank you for the scoreboards for the MJD Fieldhouse in South Camden Thousands of children have been able to compete in sporting events. Via con Dios]]></note>
+            <author><![CDATA[Ben Hill]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[This consummate radio man Jim, /RA beacon, when things would seem dim, /RHe was strong, yet the softess /RThis gentlemen Loftus, /RCheers - all the best - so we wish him! /RGentleman, confidant, mentor, friend. Thank you for.........being you.]]></note>
+            <author><![CDATA[Jack Miller]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for giving The Phillies a home in Scranton/Wilkes-Barre. The guys you trained at Shamrock are really good guys and they love you. ]]></note>
+            <author><![CDATA[Robert Brooks]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim taught me a lot about radio, and a lot about being a manager. /R/RBut the most important thing I took from Jim so far is when to buy flowers, and when to call and say "I love you." To know what is truly important./R/RThank you for everything.]]></note>
+            <author><![CDATA[Spike]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for leading 92.5 XTU through the CBS transition and for your years of service to Philadelphia radio.  You will be missed.  ]]></note>
+            <author><![CDATA[Rob Wooldridge  ]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You ROCK!]]></note>
+            <author><![CDATA[Cintra]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Jim.  Even though our time working together was brief, I really enjoyed it.  Lots of luck and peace to all your future ventures.  Sincerely, Lisa Laudien]]></note>
+            <author><![CDATA[Lisa Laudien]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You joke "you think it's easy," but you've always made it look that way.  Thanks for shaping mine and so many countless others' careers with your leadership, thoughtfulness, and partnership.  I look forward to witnessing the next chapter in your broadcasting career.]]></note>
+            <author><![CDATA[Jeff Sottolano]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You have given me 3 jobs in radio culminating in a successful career. Your loyalty & passion for the business is contagious. You are a rock through good & tough times. You are the best counselor, mentor & friend anyone could ask for. Enjoy this next chapter! THANK YOU!!]]></note>
+            <author><![CDATA[Sarah Mackey]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Jim/RWe never really got to know each other, which is unfortunate, but when I did see you in the halls of Bala you were always so kind, & that is something I will appreciate & remember forever./R/RGood luck in your future endeavors, any company will be lucky to have you]]></note>
+            <author><![CDATA[Colleen Doherty]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for all of the wonderful stories you shared with me about your fabulous career in Radio.  I loved every single one of them!]]></note>
+            <author><![CDATA[Kimberly LaCroce]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim - I enjoyed working with you. You have the radio business in your blood and I know you've not seen the last of it./R/RAs much as you would like to jump into something right away enjoy time with your family etc./R/RThanks also for the many ski shares - its waiting for u!]]></note>
+            <author><![CDATA[John Higham]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim - Though we only worked together for short time, I enjoyed every moment!  You have some really great stories and experiences!  Your inspirational emails everyday, started my morning right! I wish you nothing but happiness! ]]></note>
+            <author><![CDATA[Love, your fellow water snob- S.K.]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Best of Luck to you, Jim.  Thank you for helping to bring me into the company.  Much success to you in the future.  ]]></note>
+            <author><![CDATA[Michele Tagye Miller]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Character limitations made me condense. Do enjoy some down time as much as you would like to work. I know I would if I were in your shoes.]]></note>
+            <author><![CDATA[John H]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim, It has been a pleasure working with you.  Thank you for helping me further my career.  I wish you happiness, health and success in your next adventure!]]></note>
+            <author><![CDATA[Jennifer Havey]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim - we didn't have long together but what time we did have was great.  Thank you for believing in me and giving me the opportunity to be a part of the Philadelphia team.  You are an inspiration to me.  I wish you all the happiness in the world./R/RBest always,/R]]></note>
+            <author><![CDATA[Pamela Warren]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim,/RThanks so much for your many years of service. Thanks for stressing the importance of asking potential clients, "Will you dance with me?" May God continue to bless you and your family on this next journey of your life. Best wishes!]]></note>
+            <author><![CDATA[Brandon Szeker.]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[God bless you and your family on all your future endeavors! ]]></note>
+            <author><![CDATA[Walter ]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim,/RThis is the beginning of a great new journey for you.  You have meant a lot to me both professionally and even more personally when I was going through the most difficult time in my life.  I will never forget.]]></note>
+            <author><![CDATA[John Diaz]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim,  /RThanks for being such a great leader and friend at CBS Radio Philadelphia. ]]></note>
+            <author><![CDATA[John Gentile ]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Jim, /R/RIt was a pleasure working with you and thank you for your help with everything.  Wishing you well! ]]></note>
+            <author><![CDATA[Steph McGinley]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I wish you the best! Thank you for everything. Until we meet again...May God Bless You! /R/R]]></note>
+            <author><![CDATA[Kenya Witherspoon]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim/RFor every storm, a rainbow, /RFor every tear, a smile, /RFor every care, a promise, /RAnd a blessing in each trial. /RFor every problem life sends, /RA faithful friend to share, /RFor every sigh, a sweet song, /RAnd an answer for each prayer./R]]></note>
+            <author><![CDATA[Kerry]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[2nd gratitude:/RThanks to your sincere reminders, I had my belongings packed for the delivery of my recent daughter./RAlso, thank you for giving me this rewarding opportunity to work for CBS Radio. /R]]></note>
+            <author><![CDATA[Clara Li]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Conclusion:/RYour influences and due diligence will always be remembered. May life bring you a new adventure!/R]]></note>
+            <author><![CDATA[Clara Li]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I am grateful for the incredible opportunities you provided to me. Thank you for your guidance and friendship. Always be moving the big machine forward!]]></note>
+            <author><![CDATA[Mike Progin]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[To a boss who was the biggest cheerleader for WOGL I ever met. And the biggest fan of all. I'll miss your visits, and the tropical trips.  2 $90 bottles of red!  God Speed Jim.]]></note>
+            <author><![CDATA[Valerie Knight]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Jim, 1st gratitude: During my interview, you had asked me if I was a WOGL listener. I was not then. I hear your voice asking me that same question every time as I am about to select a station during my commute. With your influence, I am now a proud to be WOGL fan.]]></note>
+            <author><![CDATA[Clara Li]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Godfather, will never forget the inspiration you provided me so early on both personally and professionally. And for taking me to see Pearl Jam! And buying me dinner! And what do I do for you? Nothing! You are the best. Thank you for everything and God Bless.]]></note>
+            <author><![CDATA[Rich Zeoli]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Godfather, will never forget the inspiration you provided me so early on both personally and professionally. And for taking me to see Pearl Jam! And buying me dinner! And what do I do for you? Nothing! You are the best. Thank you for everything and God Bless.]]></note>
+            <author><![CDATA[Rich Zeoli]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thanks for your kindness over the years!  Wishing you the best always!/Rxo]]></note>
+            <author><![CDATA[Maureen Mason]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Best of luck, Jim! Thanks for all the insights and support through the years. You will be missed!]]></note>
+            <author><![CDATA[Lauren Sullivan]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Jim, I am very thankful for the opportunity you gave me to join your team. I have learned and grown much over of time together. I will always remember the clanking coffee pot and the "blue light special" speech at K-Mart. The very best to you in the future ALWAYS! :-)]]></note>
+            <author><![CDATA[Vince Gambino]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sand]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

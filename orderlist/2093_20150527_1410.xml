@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2093-001</orderId>
+    <orderDate><![CDATA[5/22/15]]></orderDate>
+    <shipTo><![CDATA[Maeve Duska]]></shipTo>
+    <shipAdd1><![CDATA[212 Devonshire Road]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Devon]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[19333]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>2</shipQty>
+        <sku><![CDATA[FB_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[navy]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[OotM Memories and Appreciation]]></heading>
+            <to><![CDATA[Coach Hallam]]></to>
+            <from><![CDATA[The 2015 VFMS OotM Team]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[We are grateful for Odyssey giving Genevieve the courage to trust her instincts and trust her voice.]]></note>
+            <author><![CDATA[The Duskas]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My favorite Odyssey memory is the feeling when we won Regionals.  I was so happy!]]></note>
+            <author><![CDATA[Emily]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I am most grateful for the fact that if it weren't for you, we probably wouldn't have made it to States.]]></note>
+            <author><![CDATA[Emily]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I appreciate the way you always reminded us of deadlines.  If it weren't for that, nothing would ever have gotten done!]]></note>
+            <author><![CDATA[Emily]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I really enjoyed the feeling at both Regionals and Sates.  There was a great environment and it was so much fun being there.]]></note>
+            <author><![CDATA[Emily]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My favorite character was the witch.  She was so creative with what she did to her husband, the director (as well as funny)!]]></note>
+            <author><![CDATA[Emily]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Odyssey taught me to always respect my friends and that even if people say they don't need help, help them anyway because something great might come out of it.]]></note>
+            <author><![CDATA[Emily]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for all of your dedication and hard work!]]></note>
+            <author><![CDATA[The Brockmans]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'll never forget when we were announced for winning states. "The Not-So-Haunted House, Division 1, Second Place... Wow, can I pronounce this or not?"]]></note>
+            <author><![CDATA[Chloe ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Odyssey taught me to always be creative and work as a team. We are always able to work things out together.]]></note>
+            <author><![CDATA[Chloe]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I thought it was really funny that in the year when we did the Not-So-Haunted House, most of us were dressed as animals with fake ears on!]]></note>
+            <author><![CDATA[Chloe ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My favorite Odyssey memory is worlds. The team was always together, we got to stay up late in dorms, and trade pins! ]]></note>
+            <author><![CDATA[Chloe]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'll never forget trading pins!!! We were almost more focused on pins than the competition! ]]></note>
+            <author><![CDATA[Chloe ]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I thought it was fun when Genevieve made us all balloon swords and we had a balloon sword battle!]]></note>
+            <author><![CDATA[Chloe]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We were so happy for the team when we beat St. Basil and Owen J Roberts, who seemed to be winning all the problems. We couldn't have done this without our wonderful coaches!]]></note>
+            <author><![CDATA[The Wynns]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you Mrs. Sonn for bringing the Odyssey of the Mind program to New Eagle, and for all of your hard work getting us to Worlds.]]></note>
+            <author><![CDATA[John]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you Mrs. Hallam for being a great coach.  All of our achievements like going to States three times and going to Worlds wouldn't have been possible without you.]]></note>
+            <author><![CDATA[John]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Odyssey taught me to think outside the box and to never give up no matter what the circumstances.]]></note>
+            <author><![CDATA[John]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I really enjoyed the competition, as well as the process, and just hanging out as a team.]]></note>
+            <author><![CDATA[John]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One of the funniest memories of Odyssey was at States when we were performing the magician bunny skit and my tail kept falling apart.]]></note>
+            <author><![CDATA[John]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you Mrs. Sonn for being our spontaneous coach at States.]]></note>
+            <author><![CDATA[John]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Odyssey Of The Mind has given me the opportunity to put my creativeness to use.]]></note>
+            <author><![CDATA[Maddie Lundquist]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Coach Hallam brought our team together and taught us how to put our qualities into a great performance.]]></note>
+            <author><![CDATA[Maddie Lundquist]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I will always remember and cherish our time together as the best team I know.]]></note>
+            <author><![CDATA[Maddie Lundquist]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you Allison and Joanne for all of your selfless dedication to Odyssey.  John will always cherish the memories created throughout the past six years. ]]></note>
+            <author><![CDATA[The Serafims]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Never stop serving up the Kool-Aid!]]></note>
+            <author><![CDATA[Taso]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I will always remember The Sugar Bowl at Regionals]]></note>
+            <author><![CDATA[Nicholas]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Coach Hallam always showed up and tried to keep us on task]]></note>
+            <author><![CDATA[Nicholas]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My favorite memory is winning States and going to Worlds.]]></note>
+            <author><![CDATA[Nicholas]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The balloon fight and Genevieve sliding on stage are some of my favorite memories.]]></note>
+            <author><![CDATA[Nicholas]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Odyssey taught me to be more creative and work better on a team.]]></note>
+            <author><![CDATA[Nicholas]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Thank you for all your hard work and your great organizational skills!]]></note>
+            <author><![CDATA[Joanne]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA["I've got the balloon fortress and the toilet, you get the detonator" Words that can only make sense if you are in Odyssey of the Mind!]]></note>
+            <author><![CDATA[Joanne]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I appreciate the way Coach Hallam was able to keep the team on track while still letting us do our own thing.]]></note>
+            <author><![CDATA[Genevieve]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Odyssey taught me the importance of working together as a team and to listen to everyone because they might have a really good idea even though they aren't sharing it. ]]></note>
+            <author><![CDATA[Genevieve]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My favorite part of odyssey was when we won states. The feeling that we were moving on was something that I will never forget.]]></note>
+            <author><![CDATA[Genevieve]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[My favorite character was the director because he was really funny. During the competitions everyone was laughing when he got hurt.]]></note>
+            <author><![CDATA[Genevieve]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I will always remember when I made balloon swords for everyone and we had a balloon sword fight while we waited for the other teams to finish so we could perform.]]></note>
+            <author><![CDATA[Genevieve]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[We are grateful for all the tireless hours, time, love, mentoring, organizing, teaching, patience, and work that the coaches put into helping the kids each year.]]></note>
+            <author><![CDATA[The Duskas]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[navy]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

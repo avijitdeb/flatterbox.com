@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order>
+    <orderId>1003-001</orderId>
+    <orderDate><![CDATA[2/21/15]]></orderDate>
+    <shipTo><![CDATA[PA]]></shipTo>
+    <shipAdd1><![CDATA[]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[]]></shipCity>
+    <shipState><![CDATA[PA]]></shipState>
+    <shipZip><![CDATA[]]></shipZip>
+    <giftWrapped><![CDATA[yes/no]]></giftWrapped>
+    <shipVia>NotAvailable</shipVia>
+    <box>
+        <shipQty>3</shipQty>
+        <sku><![CDATA[fbcustom_200]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+    </box>
+</order>

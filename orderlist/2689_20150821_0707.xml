@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2689-001</orderId>
+    <orderDate><![CDATA[8/21/15]]></orderDate>
+    <shipTo><![CDATA[Catherine Sandstrom]]></shipTo>
+    <shipAdd1><![CDATA[1172 N New Hampshire ave.]]></shipAdd1>
+    <shipAdd2><![CDATA[Apt 205]]></shipAdd2>
+    <shipCity><![CDATA[Los Angeles]]></shipCity>
+    <shipState><![CDATA[CA]]></shipState>
+    <shipZip><![CDATA[90029]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_50]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[sea-foam]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[We love you because...]]></heading>
+            <to><![CDATA[Catherine Sandstrom]]></to>
+            <from><![CDATA[Your BFF Miyu]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[If there's one thing I liked about Georgetown, it's the fact that I met you. You are the most wonderful friend a person can ask for. I'm so excited to check in 5, 10, 50 years later to share all the silly, sad, happy things in our life. Thank you for being you.]]></note>
+            <author><![CDATA[Love, Miyu]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[that she's out there in the big wide world having a blast and making a name for herself!  that, and telling us about it from time to time!!]]></note>
+            <author><![CDATA[Dad]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Hi Cathy!/RHappy, happy  birthday! I am so grateful for your friendship through all these years. I will always treasure our childhood memories, but I'm so excited to see how our lives grow and change. I know you will kill it in LA, and I can't wait to visit you again! ]]></note>
+            <author><![CDATA[XOXO, Lizzie]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Catherine, you have the most wonderful ability to make people feel instantly comfortable in any situation simply with your smile and a giant hug. I am lucky to count you as a friend. ]]></note>
+            <author><![CDATA[Kyla ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Cath - there are 10,000 things I love about you. Most of all, I love (and am endlessly impressed by) your positive, go-getter attitude. You work tirelessly (and humbly) to earn your achievements - I am proud to be your friend.  ]]></note>
+            <author><![CDATA[Marge]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[So many things I love about Catherine: her positive energy, her love for long walks, her generosity, her appreciation for good macchiatos, her smile, her stacks of Vogues, her gutsiness, her gusto.]]></note>
+            <author><![CDATA[Emily ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Catherine,/R/RYou constantly inspire & impress me. I love how you follow your dreams & yet still manage to take pleasure in the simple things. I am so lucky to call you my friend because you have this amazing ability to make everyone around you feel cherished & loved.]]></note>
+            <author><![CDATA[Samantha Smolka]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Catherine is so kind and welcoming. I had a tough time moving across the country for school and she was always there, being as loving and fun was always. It takes a superhuman to be as positive as she is, Catherine I love you and I'm so thankful for your friendship. ]]></note>
+            <author><![CDATA[ Paige xo]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[One of the many things I love about Catherine is her loyalty to her friends and ever flawless outfits. Love you so much Catherine and happy birthday!]]></note>
+            <author><![CDATA[Aurora]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I can't make oatmeal with almondbutter without thinking of our post Friday morning breakfast dates! I miss you so much, but I am so proud that you are chasing your dream and living the fabulous life that you deserve. Love you forever and always! ]]></note>
+            <author><![CDATA[Natalia]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[She's a seemingly infinite source of sweet thoughts and kind words, and any room she's in is a happier place because of it. ;*]]></note>
+            <author><![CDATA[Alex Guyton]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Catherine... you're full of beauty, class, and sass! I'm glad we got to stick it out together as the only seniors in our gratitude class. I am forever grateful for getting to know you this past year. Best of luck for the future! HMU if you're ever in NYC <3]]></note>
+            <author><![CDATA[Tiara]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[It meant a lot to me this year that you supported me through some tough times. Even though you were experiencing many of the same things with crew and job searching, you always had time to listen to and comfort me about it. Thanks for being so selfless and inclusive!]]></note>
+            <author><![CDATA[Meag]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Her wonderful sense of humor and the carefree deep belly laughs that accompanied it - loved those.]]></note>
+            <author><![CDATA[Gar]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love that Catherine always makes me feel special. No matter the situation, she knows just when to shoot me a smile to lift my spirits or laugh at my jokes. Morning practice was always a joy with Catherine in my boat and I miss her dearly! (Also killer fashion sense)]]></note>
+            <author><![CDATA[Jocelyn Kojzar]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[How she is a dedicated athlete, good friend and always smiling]]></note>
+            <author><![CDATA[erin ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[No one balances ambition and kindness like you Cath!  You achieve incredible things for yourself while bringing happiness to everyone around you at the same time. :) Have a happy happy birthday filled with good coffee & German waffles.]]></note>
+            <author><![CDATA[Caroline]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Cath, no matter how far we are, I always feel close to you! Ich liebe an dir, dass wir immer zusammen lachen können. Du hast einen Platz in meinem Herzen, wherever you go, no matter how much time passes by. Du bist ein Sonnenmensch und mein Herzmensch. Ganz viel Liebe ]]></note>
+            <author><![CDATA[Kata]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Happy Birthday Catherine!! I am so glad that I got to be your teammate and friend during our time at Georgetown. You are one of the kindest and most stylish people I know, and I am super excited to see where your fashion career takes you next!]]></note>
+            <author><![CDATA[Jen Bisgaier]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Catherine is one of the most genuine people I know - she's hardworking, caring, friendly, dependable, and an inspiration for positivity. From finding ourselves on varsity as freshmen to rowing the MF as seniors, I couldn't have asked for a better or truer friend.]]></note>
+            <author><![CDATA[Katie McGowan]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Catherine,/RWhat I love about you is that you are always such a positive presence! Running into you on campus and hearing about your awesome accomplishments was always such a treat. I hope you have the best birthday!]]></note>
+            <author><![CDATA[Alex Ciejka]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Happy Birthday Catherine!/R/RThank you for being such a good friend to Miyu and to me. I'm sure your new job is going great,  but make sure to find time to celebrate! I hope I get to see you sooner than later. Have a good one!]]></note>
+            <author><![CDATA[Bryan]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Happy Birthday Catherine! I hope you've adjusted to your new job and life in LA. Thanks for always being such a great friend to Miyu, Bryan, and me. Let's all hang out soon and dance to music we won't remember like we did after senior ball!]]></note>
+            <author><![CDATA[Travis]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Catherine, whenever I think of you I think of sunshine and friendship and nutella bagels. I love your positivity your trueness to yourself and your amazing ability to make everyone around you feel good. Already missing our morning meetings on the corner of R St]]></note>
+            <author><![CDATA[Love you! Ruthie]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Your ability to charge ahead into the unknown, make new connections, find your ground and succeed & flourish wherever. ]]></note>
+            <author><![CDATA[Ursula]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Her sincerity, a truly genuine and caring person. So fortunate to have you in my life! ]]></note>
+            <author><![CDATA[Julianna]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Liebe Catherine!/R/RIch wünsche Dir alles Bestens zum Geburtstag in der Stadt der Engel! Ich kann mir vorstellen, es ist eine geniale Zeit da drüben. Immer unterhatlsam mit Dir zu reden, entweder am Boothaus oder im Deutschunterricht, Schöne Grüße und zum Wohl!]]></note>
+            <author><![CDATA[John Haviland]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dear Catherine:/RI most admire and treasure your aesthetic eye and appreciation for beauty, your fierce loyalty to friends and pursuits, your intense work ethic, your heart-warming smile, your intellect, and your prioritization principle. Blessed to have you as a friend!]]></note>
+            <author><![CDATA[Julia]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I always knew that you would go somewhere special.  You are out there doing it! Good luck, /RLove, /R/R]]></note>
+            <author><![CDATA[Peter]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I don't know if your stroking style is more "gummy" or more "like a retard running downhill", but never lose your positive, infectious outlook on every situation that your friends and teammates love.  Good luck in LA and I wish you the best. ]]></note>
+            <author><![CDATA[Dale]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Happy Birthday Catherine!!!! I love your positivity and your smile. You always make me and everyone around you so happy by lighting up the room. Love you so much!]]></note>
+            <author><![CDATA[Maddy LaPatra ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love Catherine's positivity and selflessness. Crew isn't an easy sport, but her upbeat attitude alwyas made the toughs days better! In crew and in daily life, I love how she always shows genuine interest in how everyone else is doing before she talks about herself. ]]></note>
+            <author><![CDATA[Allie Garceau ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love Catherine's sense of fun, her can do spirit and adventure. She cares deeply for others and astonishes me with how many close long term relationships she has. She always comes out of a new experience with a new friend. I love her very much.]]></note>
+            <author><![CDATA[Connie, the proud mother]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Your drive and self-determination have always inspired me - ever since the days of 2ks and tears, I knew you were one hard cookie. How amazing to witness you take hold of your creative and independent spirit these last years; I cannot wait to witness the next chapters.]]></note>
+            <author><![CDATA[Julia Stone]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love how approachable and kind you are! Happy birthday Catherine!]]></note>
+            <author><![CDATA[-Mike L.]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Happy bday! thanks for always entertaining the heavyweight clowns, and to climb on rooftops with Halle Berry]]></note>
+            <author><![CDATA[Austin]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I've always admired your style, class, and kindness. You're such a sweet person and you brighten up a room. Cheers to what I know will be a wonderful post-college life for you!]]></note>
+            <author><![CDATA[Alex Chinchilla ]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love that we are always going through the same thing at the same time no matter where we are. Even if that means we are separated across the Pacific Ocean.]]></note>
+            <author><![CDATA[Me & You]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love sharing our closets together and doing our own fashion show]]></note>
+            <author><![CDATA[#wannabevogue]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love buying the same clothes at J.Crew sales]]></note>
+            <author><![CDATA[#newbalance #abolishsleevery]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love that it feels like no time has passed even when we haven't talked in two months]]></note>
+            <author><![CDATA[Me, You, and Us]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love that I have to talk to you as if I'm talking to a grandma - speaking very slowly and loudly. And repeating myself many times.]]></note>
+            <author><![CDATA[I'll be your other ear, Miyu]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[ I love getting drunk with you at El Centro off of frozen margaritas. The dance party that comes after is always superb - Catherine's dance moves are a must see ;) my fav <3]]></note>
+            <author><![CDATA[Miyu]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love feeding you Japanese food]]></note>
+            <author><![CDATA[you know who]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love your contagious smile and laugh. Seeing you always makes me feel at home]]></note>
+            <author><![CDATA[Miyu]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love your but /R/RP.S. This thing wont let me spell it the correct way. It has a foul word sensor lol When I type it the correct way, it types this !^@^ hahaha]]></note>
+            <author><![CDATA[MIYU]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love you for accepting me for who I am. ]]></note>
+            <author><![CDATA[Miyu]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You always are in a good mood-with a smile on your face. Puts everyone else in a good mood around you. /R/RI remember fondly when you were in Efren Lemus' room with me and Austin and he kept slapping your !*% and then he passed out with his face in a chair in the lobby :)]]></note>
+            <author><![CDATA[Will Halle]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Cathy! You are a kind and beautiful ray of sunshine. But really, you are a great friend and catching up with you is effortless, unless it's in a literal form like running. Then you win every time. I'm always cheering for you and wishing you all the happiness.]]></note>
+            <author><![CDATA[Greta]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sea-foam]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>

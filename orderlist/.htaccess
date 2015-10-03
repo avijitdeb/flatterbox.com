@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "orderlist"
+AuthUserFile "/home/flatterbox/.htpasswds/public_html/orderlist/passwd"
+require valid-user

@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<order xmlns="http://fbns/">
+<subOrder>
+    <orderId>2066-001</orderId>
+    <orderDate><![CDATA[5/19/15]]></orderDate>
+    <shipTo><![CDATA[Megan McGinness]]></shipTo>
+    <shipAdd1><![CDATA[9 White Pine Ct]]></shipAdd1>
+    <shipAdd2><![CDATA[]]></shipAdd2>
+    <shipCity><![CDATA[Wilmington]]></shipCity>
+    <shipState><![CDATA[DE]]></shipState>
+    <shipZip><![CDATA[19808]]></shipZip>
+    <giftWrapped><![CDATA[No]]></giftWrapped>
+    <shipVia><![CDATA[FDXG_FEDEXGROUND]]></shipVia>
+    <box>
+        <shipQty>1</shipQty>
+        <sku><![CDATA[FB_100]]></sku>
+        <font><![CDATA[Unknown]]></font>
+        <substrate><![CDATA[Unknown]]></substrate>
+        <boxType><![CDATA[acrylic-clear]]></boxType>
+		<cardcolor><![CDATA[sunshine]]></cardcolor>
+        <titlecard>
+            <heading><![CDATA[Words of Wisdom 4 Anna]]></heading>
+            <to><![CDATA[Anna Baxter]]></to>
+            <from><![CDATA[Love, Aunt Meg and family]]></from>
+        </titlecard>
+        <card>
+            <note><![CDATA[Trust your heart. It will show you the way./RAnd if you are in doubt call Aunt Meg.]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be Amazing. Be bold. Be a hero. Be wise. Be healthy. Be grateful. Be you.]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Never travel alone. Always let someone know where you are. Always!]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Friends come and go.  Family is forever!  We are a strong family and are always here for you. 24/7/365./RNever be worried that we will ever be disappointed.  Call us whenever you need us.]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Have Fun Everyday!]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Anna, Always be open to new Ideas, but remember your roots. It's time to try those wings. So Proud of you /RLove]]></note>
+            <author><![CDATA[Grandmom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Anna, College can be a great experience. It can be a fun time but it is also a time for learning. It will be a time for growing and learning to use your time wisely. Enjoy yourself but keep focused.]]></note>
+            <author><![CDATA[Grandpa]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Anna, The world isn't always fair but if you keep your head up and ask for help when you need it you will always survive. You have the makings of a fine young lady. I know you will be successful if you keep doing what you've been doing.  Love you]]></note>
+            <author><![CDATA[Grandpa]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I am so proud of you with all your accomplishments.  Go forward with the thought "You can achieve your dreams".]]></note>
+            <author><![CDATA[Love, GG]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[God Bless/RGood Health/RGood Luck]]></note>
+            <author><![CDATA[GG]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[This is your opportunity to really get to know yourself.  Do not let the noise of others' opinions drown out your voice.  Make your own mistakes, learn from them and create the beginning of your amazing life on your own terms.]]></note>
+            <author><![CDATA[Aunt Shannon]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Tonic with a lime in it looks just like a vodka or gin.  No peer pressure and no hangover. ]]></note>
+            <author><![CDATA[Aunt Shannon]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Work as hard as you play and you will find what you love. ]]></note>
+            <author><![CDATA[Aunt Shannon]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Dinner, laundry or bail money..... 973.857.5821/R]]></note>
+            <author><![CDATA[Uncle Jim and Aunt Shannon]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When life gives you lemons make lemonade and then call your MOM!]]></note>
+            <author><![CDATA[Mom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Never drink the punch! If you can't see the bottle, container or jug where the juice came from stay away from it! You never know what's going to be in there. ]]></note>
+            <author><![CDATA[Aunt Jen]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't be afraid to try new things. That's what college is all about!]]></note>
+            <author><![CDATA[Aunt Jen]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be inclusive, not exclusive. Keep an open mind about new friends, new surroundings and new opportunities. And take advantage of all of them. ]]></note>
+            <author><![CDATA[Aunt Jen]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[If you find yourself in trouble, call Aunt Meg. /R215.290.9685]]></note>
+            <author><![CDATA[Aunt Jen]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Four years goes by faster than you realize. Make the time count. ]]></note>
+            <author><![CDATA[Aunt Jen]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Stand up for what you believe in, even if it means standing alone. - Unknown. ]]></note>
+            <author><![CDATA[Aunt Jen]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Life's a dance, you learn as you go./RSometimes you lead, sometimes you follow./RDon't worry 'bout what you don't know,/Rlife's a dance, you learn as you go./R]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I hope you still feel small when you stand beside the ocean,/RWhenever one door closes I hope one more opens,/RPromise me that you'll give faith a fighting chance,/RAnd when you get the choice to sit it out or dance./R/RI hope you dance!]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't ever let anyone dull your SPARKLE!]]></note>
+            <author><![CDATA[Aunt Casey]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The woman who follows the crowd will usually go no further than the crowd.  The woman who walks alone is likely to find herself in places no one has ever been before. - Albert Einstein]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You don't have to go and prove it/RYou just have to go ahead and do it/RYour time is for the taking/RMake the best of what you have now.]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[If you have an irresistible urge to dance, do it like no one is watching.]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Time passes by, people pass on/RAt the drop of a tear, they're gone/RLet's do what we dare, do what we like/RAnd love while we're here before time passes by - Kathy Mattea]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[If you want to have someone to hold onto/RYou're gonna have to learn to let go/RYou got to sing like you don't need the money/RLove like you'll never get hurt/RYou got to dance like nobody's watchin'/RIt's gotta come from the heart/RIf you want it to work/R]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You're gonna be popular!/RI'll teach you the proper poise when you talk to boys/RLittle ways to flirt and flounce, ooh!/RI'll show you what shoes to wear/RHow to fix that hair/REverything that really counts/RTo be popular! Lar!/R-Galinda with a Ga/R]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'm through accepting limits/R'cause someone says they're so/RSome things I cannot change/RBut till I try, I'll never know!/R-Elphaba/R/RDefy Gravity!/R/R]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be who you are and say what you feel because those that matter don't mind and those that mind don't matter. Dr. Suess.]]></note>
+            <author><![CDATA[Love Always Aunt Casey]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[If you ever feel lost just go for a walk in Wandersville and I will be sure to find you!!!/R]]></note>
+            <author><![CDATA[Aunt Casey]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be shore of yourself. Come out of your Shell. Take time to coast. Avoid pier pressure. Sea Life’s beauty. Don’t get so tide down on work that you miss out on life’s beautiful waves.]]></note>
+            <author><![CDATA[The Ocean]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be true to yourself! You are an amazing person and have so much to offer this world. Don't be afraid to put yourself out there and try new things. ]]></note>
+            <author><![CDATA[Aunt Casey]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[/RLook for something positive in each day, even if some days you have to look a little harder. Let the challenges make you strong.]]></note>
+            <author><![CDATA[Aunt Casey]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Believe!/R/RIt will all be worth it!]]></note>
+            <author><![CDATA[Aunt Casey]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Let your faith be bigger than your fear]]></note>
+            <author><![CDATA[Faith]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[No matter how badly people treat you, never drop down to their level, just know you’re better and walk away.]]></note>
+            <author><![CDATA[Unknown ]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When I'm stuck in a day/RThat's gray,/RAnd lonely,/RI just stick out my chin/RAnd Grin,/RAnd Say,/ROh /RThe sun'll come out /RTomorrow /RSo ya gotta hang on/R'Til tomorrow]]></note>
+            <author><![CDATA[Annie]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Anna,  We are so proud of you and all your accomplishments.  Enjoy your new adventures, make lots of memories and always remember to Shine!  You will forever be our Anna BaxSTAR!  Love YOU so much and will miss you everyday you are away from home! ]]></note>
+            <author><![CDATA[Mom and Dad]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Heyyyy How U Doing? Know why I said that? because I'll be there for you cause you're there for me too. Know why u da best because your the best to be funny with and to laugh with. ]]></note>
+            <author><![CDATA[Nathan]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Look ma, my big SEASTER made it! You have been my best friend and my role model. I will never forget our drives to find Matthew and get milkshakes at 11:30 or making security alarms go off at Kohl's, and the list goes on. You are talented, beautiful, and well dressed! ?]]></note>
+            <author><![CDATA[Caitlin Grace Baxter (lil' SEASTER)]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You can learn to fly and chase your dreams you can laugh and cry but everybody knows you'll always find your way back home. -Miley Cyrus The Hannah Montana Movie]]></note>
+            <author><![CDATA[Matthew Baxter]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Liquor before beer, never fear./RBeer before liquor, never sicker. ]]></note>
+            <author><![CDATA[Aunt Colleen]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be brave and be kind.]]></note>
+            <author><![CDATA[Julianne]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Best way to get a good grade is to GO TO CLASS!]]></note>
+            <author><![CDATA[Aunt Colleen]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't forget your MILK/R(money, id, lipstick and keys)!]]></note>
+            <author><![CDATA[Aunt Colleen]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Be prepared to feel overwhelmed. There's a lot going in your life right now. Expect to have moments where it seems a bit too much. As one student says, be prepared to feel completely unprepared. The trick is knowing that you're not the only one feeling that way.]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't procrastinate; prioritize your life. It may have been easy in high school to wait until the last minute to complete an assignment and still get a good grade, but that kind of stuff will not work for you in college. Give yourself deadlines -- and stick to them.]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Take advantage of the study resources on campus. Just about all colleges have learning labs and tutors available. If you're having some troubles, these resources are another tool available to you. Another idea: form study groups.]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Find the ideal place for you to study. It may be your dorm room or a cozy corner of the library, but find a place that works best for you to get your work done -- while avoiding as many distractions as possible. ]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Make time for you. Be sure you set aside some time and activities that help you relax and take the stress out of your day or week. Whether it's doing an art project, watching your favorite television shows, be good to yourself.]]></note>
+            <author><![CDATA[Aunt Casey]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Go to the Gym. You'll have access to awesome equipment to help fight the freshman fifteen – plus it's a great place to scope out the hotties!]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Your folks will miss you a lot by the time they make their first visit to campus. They'll spoil you by taking you and your friends out to dinner, give them a hug and tell them you love them. It's the perfect opportunity to thank the for all they have done for You.]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Flip-flops in the bathroom. No exceptions./R/RGood Luck in the communal bathroom! Find the best time to shower. ]]></note>
+            <author><![CDATA[Bathroom Police ]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don’t get drunk, but don’t miss the show when your friends do :)]]></note>
+            <author><![CDATA[The Sober Friend]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Talking to your parents may seem like the last thing you want to do, but they are a great resource for comfort.  Call or facetime your Mom.  Make a call home schedule and stick to it.]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Get an internship the summer after your sophomore year. You’ll forge professional connections early on and make it easier to get another internship the next summer. Graduating with two under your belt will give you a real leg up on the competition.]]></note>
+            <author><![CDATA[The Go Getter]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[There is no need to be best friends with the first 5 people you meet, but keep in mind some of them could potentially be your friend for the next 4 years.]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Take a speech class, even if you don’t have to. Communication skills are among the more important things recruiters look for in students.]]></note>
+            <author><![CDATA[The Good Speaker]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Selfie's are fun but keep in mind, Companies monitor all the social media sites.  Not to mention your family!!!  Watch what you post or share.]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't do anything you wouldn't do in front of your mother.  Which come on your Mom is pretty awesome!]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't half-%$# it, own your outfit! This is the only time you can dress up in ridiculous costumes and be considered normal.]]></note>
+            <author><![CDATA[The Fasionista ]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You is kind. /RYou is smart. /RYou is important./R]]></note>
+            <author><![CDATA[Kathryn Stockett, The Help]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Always wear a helmet when stair surfing!]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Mister Aladdin, sir, have a wish or two or three/RI'm on the job, you big nabob/RYou ain't never had a friend, never had a friend]]></note>
+            <author><![CDATA[Genie]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Know the word NO!/RKnow how to say NO!/RDon't let anyone sweet talk you into something when you say NO!!!!]]></note>
+            <author><![CDATA[Aunt Meg]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't sweat the small stuff./R/RBe like Elsa and Let it Go!!]]></note>
+            <author><![CDATA[Aunt Casey]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Less is More. Remember Uncle Jim and Aunt Shannon have extra closet space.]]></note>
+            <author><![CDATA[Unknown]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Continue to be the one who brightens the room when you walk in!!!/R/RNow is your time to SHINE! ]]></note>
+            <author><![CDATA[Aunt Casey]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Take a lot of pictures. You can never have too many memories. Digital cameras are cheap and you have plenty of hard drive space.]]></note>
+            <author><![CDATA[The OCD Photographer]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Create, inspire and be inspired.]]></note>
+            <author><![CDATA[The Inspiration ]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Wash your sheets more than once a year. Trust me on this one./R/RDon't forget the quarters.]]></note>
+            <author><![CDATA[Washer and Dryer]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You don't have to drink Long Island Ice Tea just because you are on Long Island]]></note>
+            <author><![CDATA[Uncle Jon]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[If your uniform isn't dirty, you haven't been in the game.]]></note>
+            <author><![CDATA[Ben Bernanke]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Believe. Achieve. Suceed.]]></note>
+            <author><![CDATA[yo]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't forgot to call your/RGodmother!]]></note>
+            <author><![CDATA[Aunt Colleen]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Look for professors that you like and avoid the bad ones. ]]></note>
+            <author><![CDATA[Uncle Jon]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't drink warm beer. ]]></note>
+            <author><![CDATA[Aunt Colleen]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Never walk alone at night-/Ruse the buddy system!]]></note>
+            <author><![CDATA[Aunt Colleen]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I love you Banana!]]></note>
+            <author><![CDATA[Julianne]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA["I think it's crazy we finish each other's sandwiches"]]></note>
+            <author><![CDATA[Julianne]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[You be you.../Rbecause you are amazing!]]></note>
+            <author><![CDATA[Aunt Colleen]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[When you are missing home, /Rgrab you guitar and imagine us there watching you sing. /R/R(That is what I will be doing/R when I miss you)]]></note>
+            <author><![CDATA[Aunt Colleen]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[For the record, we don't want you to "get drunk and die"]]></note>
+            <author><![CDATA[Aunt Colleen and Aunt Casey]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Don't wear you favorite shoes to your favorite bar- especially if there is a dance floor!]]></note>
+            <author><![CDATA[Aunt Colleen]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[I'll be there for you /R(When the rain starts to pour) /RI'll be there for you /R(Like I've been there before) /RI'll be there for you /R('Cause you're there for me too) ]]></note>
+            <author><![CDATA[F.R.I.E.N.D.S ]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The future belongs to those/R who believe in /Rthe beauty of their dreams. ]]></note>
+            <author><![CDATA[Eleanor Roosevelt ]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Just remember you are loved and if you need anything I am always a phone call, text, or snapchat away! /R/RLuckily for me I have lots of videos and pictures to get me through missing you! ]]></note>
+            <author><![CDATA[Aunt Casey]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA["You stay classy San Diego"]]></note>
+            <author><![CDATA[Ron Burgundy]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA["I'm reading a book. I'm in da hood. I'm reading a book. Whool is a sweater." ]]></note>
+            <author><![CDATA[In da Hood]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Je t'aime à la lune et retour! Vous serez toujours mon meilleur ami!]]></note>
+            <author><![CDATA[Tante Casey]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[ Leverage the learning centers for everything. Not using this resource to check your work or provide additional clarity makes you dumb.]]></note>
+            <author><![CDATA[Aunt Colleen]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Old people think they're funny when they talk to you about alcohol, just nod along.]]></note>
+            <author><![CDATA[ ]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Call your mother at least twice a week. Don't forget Gmom too. ]]></note>
+            <author><![CDATA[Gmom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[The difference between can and cannot is only 3 letters]]></note>
+            <author><![CDATA[Grandmom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[Anything is possible if you have enough nerve.]]></note>
+            <author><![CDATA[Grandmom]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[“Always Remember you are Braver than you believe, /RStronger than you seem And/RSmarter than you think.”]]></note>
+            <author><![CDATA[ ]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+        <card>
+            <note><![CDATA[]]></note>
+            <author><![CDATA[]]></author>
+            <image><![CDATA[sunshine]]></image>
+        </card>
+    </box>
+</subOrder>
+</order>
